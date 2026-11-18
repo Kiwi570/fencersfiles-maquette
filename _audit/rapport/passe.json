@@ -1,15 +1,15 @@
 {
- "id": "20261117-203308-standard-cible-partiel",
- "date": "2026-11-17T20:35:12.485Z",
+ "id": "20261118-095903-standard-cible-partiel",
+ "date": "2026-11-18T10:00:20.374Z",
  "niveau": "standard",
- "pages": "/,/dossiers,/dossiers/la-terre-creuse,/dossiers/les-crop-circles-sont-ils-crees-par-des-sons,/auteur,/404",
+ "pages": "/,/dossiers,/dossiers/la-terre-creuse",
  "etapes": [
   "fichiers",
   "mesures"
  ],
- "version": "1",
+ "version": "2",
  "echecs": 0,
- "aRegarder": 4,
+ "aRegarder": 3,
  "nonLances": 0,
  "manquants": 0,
  "statut": "complet"

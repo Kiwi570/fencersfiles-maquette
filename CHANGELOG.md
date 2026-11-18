@@ -1,5 +1,14 @@
 # Ce qui a changé
 
+## v2 — 18 novembre 2026
+
+Comparaison faite fichier par fichier avec le zip v1 mis en ligne le 18 novembre.
+
+- **Couvertures plus nettes** : chaque couverture a maintenant une troisième taille, à sa largeur réelle (de 705 à 800 px selon le dossier), en plus des tailles 240 et 480 px. Sur un écran Retina, la couverture de l'ouverture de l'accueil et celle de chaque fiche ne sont plus agrandies depuis 480 px. 75 fichiers d'images ajoutés, aucun retiré.
+- **Pages** : les 76 fiches et les pages qui montrent une couverture proposent cette taille au navigateur (attribut `srcset`).
+- **Numéro de version** : `?v=2` dans les pages et dans les scripts, pour que les navigateurs prennent les fichiers à jour.
+- Rien d'autre ne change : mêmes textes, même style, mêmes effets.
+
 ## v1 — 17 novembre 2026
 
 Première version : la base.

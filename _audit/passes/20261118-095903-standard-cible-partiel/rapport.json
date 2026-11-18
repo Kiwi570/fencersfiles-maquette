@@ -1,0 +1,67 @@
+{
+  "echecs": [],
+  "aRegarder": [
+    {
+      "niveau": "regarder",
+      "controle": "journal du projet",
+      "detail": "aucune entrée pour la version 2 de donnees/site.json",
+      "etape": "fichiers",
+      "lieux": [
+        ""
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "section sans visuel",
+      "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
+      "etape": "mesures",
+      "page": "/dossiers/la-terre-creuse",
+      "taille": "390×844",
+      "mode": "normal",
+      "selecteur": "section#presentation « PRÉSENTATION Et si la Terre n’était pas exactement »",
+      "lieux": [
+        "390×844 normal",
+        "320×568 normal",
+        "768×1024 normal",
+        "844×390 normal",
+        "390×844 sansJs",
+        "1366×768 normal",
+        "1920×1080 normal",
+        "390×844 sansWebgl",
+        "1366×768 sansJs",
+        "1366×768 sansWebgl",
+        "320×568 sansJs"
+      ]
+    },
+    {
+      "niveau": "regarder",
+      "controle": "section sans visuel",
+      "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
+      "etape": "mesures",
+      "page": "/dossiers/la-terre-creuse",
+      "taille": "320×568",
+      "mode": "normal",
+      "selecteur": "section#debut « LES DOSSIERS / HISTOIRE SECRÈTE / LIEUX MYSTÉRIEUX »",
+      "lieux": [
+        "320×568 normal",
+        "320×568 sansJs"
+      ]
+    }
+  ],
+  "nonLances": [],
+  "oks": {
+    "vercel.json": 1,
+    ".vercelignore": 1,
+    "robots.txt": 1,
+    "numéro de version": 1,
+    "langues": 1,
+    "mesures": 33,
+    "balayage": 3
+  },
+  "infos": [
+    "Numéro de version des fichiers : ?v=2",
+    "Audit standard : étapes lourdes sur /, /dossiers, /dossiers/la-terre-creuse.",
+    "Accessibilité : axe-core 4.12.1 en plus des contrôles intégrés."
+  ],
+  "grille": []
+}

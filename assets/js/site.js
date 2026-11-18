@@ -2,7 +2,7 @@
    et la bibliothèque d'effets posés par attributs. Ici : l'intro (lettres, cachet), l'onglet numéroté qui se pose,
    le caviardage qui se retire, la pile qui se déploie, la rangée de la série, le cachet, l'aperçu des rubriques
    et les filtres de l'index. Chaque effet propre porte data-effet="nom-du-plan". */
-import { demarrer, versObjet } from './socle/index.js?v=1';
+import { demarrer, versObjet } from './socle/index.js?v=2';
 
 const gsap = window.gsap;
 const $ = (s, r = document) => r.querySelector(s);

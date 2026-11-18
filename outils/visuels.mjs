@@ -35,7 +35,8 @@ for (const d of liste) {
   const rogne = c ? await sharp(source).trim({ threshold: 18 }).toBuffer().catch(() => null) : null;
   const base = rogne || source;
   const meta = await sharp(base).metadata();
-  const largeurs = c ? [240, 480, 800].filter((w) => w <= meta.width) : [meta.width];
+  /* La plus grande taille est la largeur réelle de la couverture rognée (760 px environ) : nette sur un écran Retina. */
+  const largeurs = c ? [...new Set([240, 480, Math.min(800, meta.width)])] : [meta.width];
   for (const w of largeurs) await sharp(base).resize({ width: w }).webp({ quality: 80 }).toFile(join(img, 'couv', `d${d.numero}-${w}.webp`));
   etat.dimensions[d.numero] = { l: meta.width, h: meta.height };
   /* Note de beauté lue par l'audit : couverture du client, 3 (tient en moyen, jamais en plein écran). */

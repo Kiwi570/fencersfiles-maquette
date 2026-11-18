@@ -62,7 +62,7 @@
         {
           "etape": "livraison",
           "debut": "2026-11-17T21:36:44+01:00",
-          "fin": ""
+          "fin": "2026-11-17T21:45:00+01:00"
         }
       ],
       "attentes": [
@@ -115,6 +115,32 @@
       "effetsRetires": [],
       "grilleDispenses": {},
       "notes": "Blogger : recuperer.mjs a écarté les 76 vignettes (128 px affichés) ; vignettes de 128 px d'origine ; couvertures tirées des PDF (Drive a refusé après une image, puis PDF Dropbox et Quick Look)."
+    },
+    {
+      "version": 2,
+      "skill": "v11.1",
+      "perimetre": [
+        "couvertures en grande taille (écrans Retina)"
+      ],
+      "etapes": [
+        {
+          "etape": "lecture du journal de mise en ligne, version 2, audit ciblé, livraison",
+          "debut": "2026-11-18T10:58:59+01:00",
+          "fin": "2026-11-18T11:00:43+01:00"
+        }
+      ],
+      "attentes": [],
+      "allersRetours": 0,
+      "modules": [],
+      "audit": {
+        "niveau": "ciblé (fichiers et mesures) sur /, /dossiers et /dossiers/la-terre-creuse",
+        "echecsPremierPassage": 0,
+        "relances": 0,
+        "corrections": []
+      },
+      "effetsRetires": [],
+      "grilleDispenses": {},
+      "notes": "Le zip dézippé pour la v1 était le premier envoyé (même nom que le second) : la mise en ligne n'avait pas les couvertures en grande taille. Leçon possible : ne jamais envoyer deux zips du même nom."
     }
   ]
 }

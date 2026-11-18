@@ -1,11 +1,11 @@
 # Rapport d’audit
 
-Projet : `fencersfiles-maquette` · 18/11/2026 11:00:20 · 1 min · 3 page(s) · audit standard ciblé sur /,/dossiers,/dossiers/la-terre-creuse (étapes : fichiers, mesures)
+Projet : `fencersfiles-maquette` · 18/11/2026 11:15:07 · 1 min · 3 page(s) · audit standard ciblé sur /dossiers/la-genealogie-des-annunaki,/dossiers,/ (étapes : fichiers, mesures)
 
 ## Résumé
 
 - Statut : **tout a tourné, aucun échec**
-- Passe : `20261118-095903-standard-cible-partiel` · version ?v=2
+- Passe : `20261118-101352-standard-cible-partiel` · version ?v=3
 - Échecs : **0**
 - À regarder : **3**
 - Non lancé : **0**
@@ -19,12 +19,12 @@ Aucun.
 
 ### journal du projet (1)
 
-- **journal du projet** — aucune entrée pour la version 2 de donnees/site.json
+- **journal du projet** — aucune entrée pour la version 3 de donnees/site.json
 
 ### section sans visuel (2)
 
-- **section sans visuel** — `/dossiers/la-terre-creuse` — section#presentation « PRÉSENTATION Et si la Terre n’était pas exactement » — une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11) _(390×844 normal, 320×568 normal, 768×1024 normal, 844×390 normal, 390×844 sansJs, 1366×768 normal, +5)_
-- **section sans visuel** — `/dossiers/la-terre-creuse` — section#debut « LES DOSSIERS / HISTOIRE SECRÈTE / LIEUX MYSTÉRIEUX » — une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11) _(320×568 normal, 320×568 sansJs)_
+- **section sans visuel** — `/dossiers/la-genealogie-des-annunaki` — section#presentation « PRÉSENTATION LA GÉNÉALOGIE DES ANNUNAKI : LES DIVI » — une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11) _(390×844 normal, 320×568 normal, 768×1024 normal, 844×390 normal, 390×844 sansJs, 1366×768 normal, +5)_
+- **section sans visuel** — `/dossiers/la-genealogie-des-annunaki` — section#debut « LES DOSSIERS N° 001 LA GÉNÉALOGIE DES ANNUNAKI OUV » — une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11) _(320×568 normal, 320×568 sansJs)_
 
 ## Non lancé
 
@@ -33,8 +33,8 @@ Tout a été lancé.
 
 ## Repères
 
-- Numéro de version des fichiers : ?v=2
-- Audit standard : étapes lourdes sur /, /dossiers, /dossiers/la-terre-creuse.
+- Numéro de version des fichiers : ?v=3
+- Audit standard : étapes lourdes sur /, /dossiers, /dossiers/la-genealogie-des-annunaki.
 - Accessibilité : axe-core 4.12.1 en plus des contrôles intégrés.
 
 ## Fichiers

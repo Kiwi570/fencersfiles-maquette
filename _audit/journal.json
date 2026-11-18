@@ -141,6 +141,32 @@
       "effetsRetires": [],
       "grilleDispenses": {},
       "notes": "Le zip dézippé pour la v1 était le premier envoyé (même nom que le second) : la mise en ligne n'avait pas les couvertures en grande taille. Leçon possible : ne jamais envoyer deux zips du même nom."
+    },
+    {
+      "version": 3,
+      "skill": "v11.1",
+      "perimetre": [
+        "retrait d'une couverture périmée (dossier 001)"
+      ],
+      "etapes": [
+        {
+          "etape": "lecture du journal de la v2, correction, audit ciblé, livraison",
+          "debut": "2026-11-18T11:12:00+01:00",
+          "fin": "2026-11-18T11:15:25+01:00"
+        }
+      ],
+      "attentes": [],
+      "allersRetours": 0,
+      "modules": [],
+      "audit": {
+        "niveau": "ciblé (fichiers et mesures) sur /, /dossiers et /dossiers/la-genealogie-des-annunaki",
+        "echecsPremierPassage": 0,
+        "relances": 0,
+        "corrections": []
+      },
+      "effetsRetires": [],
+      "grilleDispenses": {},
+      "notes": "Fichier d001-800.webp resté du premier passage de visuels.mjs (couverture non rognée) : le générateur liste tous les fichiers présents. Leçon possible : un outil qui écrit des variantes d'image retire d'abord celles qu'il ne produit plus."
     }
   ]
 }

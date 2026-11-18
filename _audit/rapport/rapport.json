@@ -4,7 +4,7 @@
     {
       "niveau": "regarder",
       "controle": "journal du projet",
-      "detail": "aucune entrée pour la version 2 de donnees/site.json",
+      "detail": "aucune entrée pour la version 3 de donnees/site.json",
       "etape": "fichiers",
       "lieux": [
         ""
@@ -15,10 +15,10 @@
       "controle": "section sans visuel",
       "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
       "etape": "mesures",
-      "page": "/dossiers/la-terre-creuse",
+      "page": "/dossiers/la-genealogie-des-annunaki",
       "taille": "390×844",
       "mode": "normal",
-      "selecteur": "section#presentation « PRÉSENTATION Et si la Terre n’était pas exactement »",
+      "selecteur": "section#presentation « PRÉSENTATION LA GÉNÉALOGIE DES ANNUNAKI : LES DIVI »",
       "lieux": [
         "390×844 normal",
         "320×568 normal",
@@ -38,10 +38,10 @@
       "controle": "section sans visuel",
       "detail": "une belle photo ou un visuel animé quand le contenu s’y prête ; une section de texte peut rester typographique (v11)",
       "etape": "mesures",
-      "page": "/dossiers/la-terre-creuse",
+      "page": "/dossiers/la-genealogie-des-annunaki",
       "taille": "320×568",
       "mode": "normal",
-      "selecteur": "section#debut « LES DOSSIERS / HISTOIRE SECRÈTE / LIEUX MYSTÉRIEUX »",
+      "selecteur": "section#debut « LES DOSSIERS N° 001 LA GÉNÉALOGIE DES ANNUNAKI OUV »",
       "lieux": [
         "320×568 normal",
         "320×568 sansJs"
@@ -59,8 +59,8 @@
     "balayage": 3
   },
   "infos": [
-    "Numéro de version des fichiers : ?v=2",
-    "Audit standard : étapes lourdes sur /, /dossiers, /dossiers/la-terre-creuse.",
+    "Numéro de version des fichiers : ?v=3",
+    "Audit standard : étapes lourdes sur /, /dossiers, /dossiers/la-genealogie-des-annunaki.",
     "Accessibilité : axe-core 4.12.1 en plus des contrôles intégrés."
   ],
   "grille": []

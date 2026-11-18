@@ -3,7 +3,7 @@
    et couvertures des 76 dossiers, jamais recadrées (assets/images/couv/dNNN-<largeur>.webp).
    Source d'une couverture : recu/couvertures/<billet>-*.jpg (première page du PDF) ; à défaut, la vignette du blog (128 px).
    Usage : node outils/visuels.mjs */
-import { readFileSync, readdirSync, mkdirSync, existsSync, writeFileSync } from 'node:fs';
+import { readFileSync, readdirSync, mkdirSync, existsSync, writeFileSync, rmSync } from 'node:fs';
 import { join, dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { createRequire } from 'node:module';
@@ -37,6 +37,11 @@ for (const d of liste) {
   const meta = await sharp(base).metadata();
   /* La plus grande taille est la largeur réelle de la couverture rognée (760 px environ) : nette sur un écran Retina. */
   const largeurs = c ? [...new Set([240, 480, Math.min(800, meta.width)])] : [meta.width];
+  /* Les tailles d'un ancien traitement sont retirées : le générateur propose au navigateur tous les fichiers présents. */
+  for (const f of readdirSync(join(img, 'couv'))) {
+    const m = f.match(new RegExp(`^d${d.numero}-(\\d+)\\.webp$`));
+    if (m && !largeurs.includes(Number(m[1]))) rmSync(join(img, 'couv', f));
+  }
   for (const w of largeurs) await sharp(base).resize({ width: w }).webp({ quality: 80 }).toFile(join(img, 'couv', `d${d.numero}-${w}.webp`));
   etat.dimensions[d.numero] = { l: meta.width, h: meta.height };
   /* Note de beauté lue par l'audit : couverture du client, 3 (tient en moyen, jamais en plein écran). */

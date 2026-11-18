@@ -1,5 +1,14 @@
 # Ce qui a changé
 
+## v3 — 18 novembre 2026
+
+Comparaison faite fichier par fichier avec le zip v2.
+
+- **Couverture du dossier n° 001** (La généalogie des Annunaki) : un fichier resté d'un ancien traitement, `assets/images/couv/d001-800.webp`, montrait la couverture avec les marges blanches de la page du PDF. Les pages le proposaient au navigateur sur les grands écrans et les écrans Retina. Il est retiré ; la couverture rognée (740 px) le remplace. C'est le seul fichier retiré.
+- **Outil des couvertures** (`outils/visuels.mjs`) : il retire désormais les tailles d'un ancien traitement avant d'écrire les nouvelles.
+- **Numéro de version** : `?v=3` dans les pages et dans les scripts.
+- Rien d'autre ne change.
+
 ## v2 — 18 novembre 2026
 
 Comparaison faite fichier par fichier avec le zip v1 mis en ligne le 18 novembre.

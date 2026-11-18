@@ -1,0 +1,1035 @@
+<!doctype html>
+<html lang="fr" data-v="1">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Les dossiers : Fencer’s Files</title>
+<meta name="description" content="Tous les dossiers de Fencer’s Files, classés par rubrique : vie extraterrestre, anciennes civilisations, histoire secrète, ovni, bases secrètes.">
+<meta name="robots" content="noindex, nofollow">
+<link rel="canonical" href="https://fencersfiles-maquette.vercel.app/dossiers">
+<style>:root{--fond:#f1ece1;--texte:#14171c;--voile-fond:#14171c;--ouverture-fond:#14171c;--menu-fond:#14171c}:root { --entete-h: 72px; --barres-h: 0px; } html { background: var(--fond); color: var(--texte); scrollbar-gutter: stable; } body { margin: 0; background: var(--fond); } html.js:not(.secours):not([data-arrivee="retour"]) [data-anime] { opacity: 0; } html.js:not(.secours):not([data-arrivee="retour"]) [data-anime].vu { opacity: 1; } [data-voile] { position: fixed; inset: 0; z-index: 900; background: var(--voile-fond); transform: translateY(100%); visibility: hidden; pointer-events: none; } html[data-arrivee="voile"]:not(.voile-leve):not(.secours) [data-voile] { transform: none; visibility: visible; } html.secours [data-voile] { visibility: hidden !important; } .ouverture-panneau { position: fixed; inset: 0; z-index: 850; display: none; place-content: center; justify-items: center; background: var(--ouverture-fond, var(--voile-fond)); color: var(--fond); text-align: center; } html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie) .ouverture-panneau { display: grid; } html.defilement-bloque, html.defilement-bloque body, html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie), html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie) body, html[data-arrivee="voile"]:not(.voile-leve):not(.secours), html[data-arrivee="voile"]:not(.voile-leve):not(.secours) body { overflow: hidden; } html.js[data-arrivee="intro"]:not(.secours):not(.intro-finie) { background-color: var(--ouverture-fond, var(--voile-fond)); } html[data-arrivee="voile"]:not(.voile-leve):not(.secours) { background-color: var(--voile-fond); }</style>
+<script>(function () {
+var d = document.documentElement, ss = null, ls = null;
+try { ss = window.sessionStorage; ls = window.localStorage; } catch (e) {}
+d.classList.add('js');
+var nav = performance.getEntriesByType ? performance.getEntriesByType('navigation')[0] : null;
+var type = nav ? nav.type : 'navigate';
+var depart = null;
+try { depart = JSON.parse(ss.getItem('socle:depart') || 'null'); ss.removeItem('socle:depart'); } catch (e) {}
+if (depart && !(Date.now() - depart.t < 15000)) depart = null;
+var mode = type === 'back_forward' ? 'retour' : type === 'reload' ? 'intro' : depart ? 'voile' : 'intro';
+d.setAttribute('data-arrivee', mode);
+if (mode === 'voile' && depart.couleur) d.style.setProperty('--voile-fond', depart.couleur);
+if (type === 'reload' && 'scrollRestoration' in history) {
+history.scrollRestoration = 'manual';
+}
+try {
+var choisie = ls && ls.getItem('socle:langue');
+var langue = (d.lang || '').slice(0, 2);
+if (choisie && choisie !== langue && type === 'navigate' && !depart) {
+var alt = document.querySelector('link[rel="alternate"][hreflang="' + choisie + '"]');
+if (alt) location.replace(new URL(alt.href).pathname + location.search + location.hash);
+}
+} catch (e) {}
+setTimeout(function () { if (!d.classList.contains('demarre')) d.classList.add('secours'); }, 2000);
+})();</script>
+<link rel="preload" href="/assets/fonts/big-shoulders-display-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/css/socle.css?v=1">
+<link rel="stylesheet" href="/assets/css/site.css?v=1">
+<link rel="modulepreload" href="/assets/js/site.js?v=1">
+<link rel="modulepreload" href="/assets/js/socle/index.js?v=1">
+<script src="/assets/vendor/gsap.min.js" defer></script>
+<script src="/assets/vendor/ScrollTrigger.min.js" defer></script>
+<script src="/assets/vendor/SplitText.min.js" defer></script>
+<script type="module" src="/assets/js/site.js?v=1"></script>
+<meta name="theme-color" content="#14171c">
+<link rel="icon" href="/assets/images/favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="/assets/images/apple-touch-icon.png">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Fencer’s Files">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:title" content="Les dossiers : Fencer’s Files">
+<meta property="og:description" content="Tous les dossiers de Fencer’s Files, classés par rubrique : vie extraterrestre, anciennes civilisations, histoire secrète, ovni, bases secrètes.">
+<meta property="og:url" content="https://fencersfiles-maquette.vercel.app/dossiers">
+<meta property="og:image" content="https://fencersfiles-maquette.vercel.app/assets/partage/dossiers-fr.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Les dossiers de Fencer’s Files : des liasses ficelées sur un bureau">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Blog","name":"Fencer’s Files","alternateName":"Fencer’s Files - Aux frontières de l’inexpliqué","url":"https://fencersfiles-maquette.vercel.app/","inLanguage":"fr","description":"Blog consacré aux mystères de notre planète, aux énigmes de l’histoire et aux phénomènes inexpliqués.","email":"fencerya@gmail.com"}</script>
+</head>
+<body id="haut" class="page-dossiers">
+<div data-voile data-forme="rideau" aria-hidden="true"><div class="voile-contenu"><img src="/assets/images/logo-192.webp" alt="" width="72" height="72"><span data-voile-libelle>Les dossiers</span></div></div>
+<div class="ouverture-panneau" data-ouverture aria-hidden="true">
+  <img class="ouverture-logo" src="/assets/images/logo-192.webp" alt="" width="96" height="96" data-ouverture-objet>
+  <p class="ouverture-nom"><span class="ouverture-lettre">F</span><span class="ouverture-lettre">E</span><span class="ouverture-lettre">N</span><span class="ouverture-lettre">C</span><span class="ouverture-lettre">E</span><span class="ouverture-lettre">R</span><span class="ouverture-lettre">’</span><span class="ouverture-lettre">S</span><span class="ouverture-espace"> </span><span class="ouverture-lettre">F</span><span class="ouverture-lettre">I</span><span class="ouverture-lettre">L</span><span class="ouverture-lettre">E</span><span class="ouverture-lettre">S</span></p>
+  <span class="ouverture-trait"></span>
+  <p class="ouverture-ligne"><span class="cachet-texte">Aux frontières de l’inexpliqué</span></p>
+</div>
+<a class="evitement" href="#contenu">Aller au contenu</a>
+<header data-entete>
+  <div class="entete-rangee">
+    <a class="entete-logo" href="/" data-libelle="Accueil">
+      <img src="/assets/images/logo-96.webp" alt="" width="44" height="44"><span>Fencer’s Files</span>
+    </a>
+    <nav data-nav aria-label="Navigation principale">
+      <ul><li><a href="/dossiers" data-libelle="Les dossiers" aria-current="page">Les dossiers</a></li><li><a href="/auteur" data-libelle="L’auteur">L’auteur</a></li></ul>
+    </nav>
+    <div class="entete-actions">
+      <a class="entete-recherche" href="/dossiers#recherche" data-libelle="Les dossiers" aria-label="Rechercher un dossier"><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M15.5 15.5 21 21"/></svg></a>
+      <a class="bouton" href="/auteur#ecrire" data-libelle="L’auteur">Écrire à l’auteur</a>
+      <button type="button" data-menu-bouton aria-controls="menu" aria-expanded="false" data-libelle-ouvrir="Menu" data-libelle-fermer="Fermer"><span data-libelle-bouton>Menu</span></button>
+      <a class="menu-sansjs" href="#menu" data-menu-lien>Menu</a>
+    </div>
+  </div>
+</header>
+<script>/* Avant le premier affichage : rangées de la navigation (même règle que ajusterNav dans assets/js/socle/entete.js)
+   et hauteur réelle de l'en-tête, pour que rien ne saute quand le JavaScript du site prend la main. */
+(function () {
+  var h = document.documentElement, u = document.querySelector('[data-nav] ul'), e = document.querySelector('[data-entete]');
+  if (u) {
+    var deborde = function () { return u.scrollWidth > u.clientWidth + 1; }, c = deborde();
+    if (c && window.matchMedia('(min-width: 900px)').matches) {
+      h.classList.add('nav-deux-rangees'); c = deborde();
+      if (c) { h.classList.add('nav-deux-lignes'); var a = u.querySelector('a'); c = !a || u.getBoundingClientRect().height > a.getBoundingClientRect().height * 2.5; }
+      if (c) h.classList.remove('nav-deux-rangees', 'nav-deux-lignes');
+    }
+    if (c) h.classList.add('nav-compacte');
+  }
+  if (e) h.style.setProperty('--entete-h', Math.round(e.getBoundingClientRect().height) + 'px');
+})();</script>
+<span id="menu-ferme" aria-hidden="true"></span>
+<div id="menu" data-menu role="dialog" aria-modal="true" aria-label="Menu">
+  <p class="menu-sansjs-fermer"><a href="#menu-ferme">Fermer</a></p>
+  <ul><li style="--i:0"><a href="/" class="menu-lien" data-libelle="Accueil">Accueil</a></li><li style="--i:1"><a href="/dossiers" class="menu-lien" data-libelle="Les dossiers" aria-current="page">Les dossiers</a></li><li style="--i:2"><a href="/auteur" class="menu-lien" data-libelle="L’auteur">L’auteur</a></li></ul>
+  <p><a class="bouton" href="/auteur#ecrire" data-libelle="L’auteur">Écrire à l’auteur</a></p>
+  <p><a class="menu-email" href="mailto:fencerya@gmail.com">fencerya@gmail.com</a></p>
+</div>
+<main id="contenu" tabindex="-1">
+<section class="index-tete nuit" id="debut">
+  <div class="conteneur index-tete-grille">
+    <h1 class="index-titre" data-anime="gsap"><span class="index-nombre" data-effet="onglet" data-superpose>76</span><span class="ligne-masque"><span class="une-ligne">dossiers à ouvrir</span></span></h1>
+    <div class="index-intro" data-anime="gsap">
+      <p class="masque-ecran-tres-bas">Tous les dossiers de Fencer’s Files, du plus récent au plus ancien. Chacun mène à son dossier complet en PDF.</p>
+      <p class="une-actions">
+        <a class="bouton" href="#recherche" data-action-principale data-sans-transition data-survol="magnetique">Rechercher un dossier</a>
+        <span class="une-info" data-info-cle>Dernier dossier : 17 novembre 2026</span>
+      </p>
+    </div>
+  </div>
+  <figure class="media index-bandeau" data-grok data-fx="parallaxe" data-fx-force="8" data-iris-centre style="--cadrage:50% 62%;--cadrage-mobile:50% 60%">
+  <picture><source media="(max-width: 760px) and (orientation: portrait)" srcset="/assets/images/grok/dossiers-ouverture-mobile-640.webp 640w, /assets/images/grok/dossiers-ouverture-mobile-1080.webp 1080w" sizes="100vw">
+    <img src="/assets/images/grok/dossiers-ouverture-1280.webp" srcset="/assets/images/grok/dossiers-ouverture-640.webp 640w, /assets/images/grok/dossiers-ouverture-1280.webp 1280w, /assets/images/grok/dossiers-ouverture-1920.webp 1920w" sizes="100vw" alt="Liasses de dossiers ficelées sur un bureau, sous une lampe" width="1280" height="720" fetchpriority="high" loading="eager" decoding="async">
+  </picture><figcaption class="mention-ia">Illustration générée</figcaption>
+</figure>
+</section>
+<section class="index" id="index">
+  <div class="conteneur">
+    <div class="index-outils" id="recherche">
+      <div class="index-filtres" role="group" aria-label="Filtrer par rubrique" data-filtres>
+        <a class="pastille active" href="/dossiers" data-filtre="" data-sans-transition aria-current="true">Tous <span>76</span></a>
+        <a class="pastille" href="/dossiers?rubrique=vie-extraterrestre" data-filtre="vie-extraterrestre" data-sans-transition>vie extraterrestre <span>32</span></a><a class="pastille" href="/dossiers?rubrique=histoire-secrete" data-filtre="histoire-secrete" data-sans-transition>histoire secrète <span>16</span></a><a class="pastille" href="/dossiers?rubrique=anciennes-civilisations" data-filtre="anciennes-civilisations" data-sans-transition>anciennes civilisations <span>15</span></a><a class="pastille" href="/dossiers?rubrique=ovni" data-filtre="ovni" data-sans-transition>ovni <span>12</span></a><a class="pastille" href="/dossiers?rubrique=bases-secretes" data-filtre="bases-secretes" data-sans-transition>bases secrètes <span>8</span></a><a class="pastille" href="/dossiers?rubrique=faits-mysterieux" data-filtre="faits-mysterieux" data-sans-transition>faits mystérieux <span>4</span></a><a class="pastille" href="/dossiers?rubrique=symbolisme" data-filtre="symbolisme" data-sans-transition>symbolisme <span>3</span></a><a class="pastille" href="/dossiers?rubrique=archeologie" data-filtre="archeologie" data-sans-transition>archéologie <span>2</span></a><a class="pastille" href="/dossiers?rubrique=lieux-mysterieux" data-filtre="lieux-mysterieux" data-sans-transition>lieux mystérieux <span>2</span></a><a class="pastille" href="/dossiers?rubrique=theorie-du-complot" data-filtre="theorie-du-complot" data-sans-transition>théorie du complot <span>2</span></a><a class="pastille" href="/dossiers?rubrique=cryptozoologie" data-filtre="cryptozoologie" data-sans-transition>cryptozoologie <span>1</span></a><a class="pastille" href="/dossiers?rubrique=espace" data-filtre="espace" data-sans-transition>espace <span>1</span></a>
+        <a class="pastille" href="/dossiers?rubrique=sans" data-filtre="sans" data-sans-transition>Sans rubrique <span>10</span></a>
+      </div>
+      <div class="champ index-champ">
+        <label for="q">Chercher dans les dossiers</label>
+        <input id="q" name="q" type="search" autocomplete="off" placeholder="Exemple : Baalbeck, reptiliens, Dulce" data-recherche>
+      </div>
+      <p class="index-compte depeche" role="status" data-compte data-gabarit="{n} dossiers">76 dossiers</p>
+    </div>
+    <div class="grille-dossiers" data-grille-dossiers>
+      <article class="fiche" data-anime data-effet="rangs" data-rubriques="histoire-secrete lieux-mysterieux" data-cherche="La Terre creuse LA TERRE CREUSE – ET SI NOTRE PLANÈTE CACHAIT UN MONDE INCONNU EN SON SEIN ? histoire secrète lieux mystérieux">
+  <a class="fiche-lien" href="/dossiers/la-terre-creuse" data-libelle="La Terre creuse">
+    <span class="fiche-onglet">N° 076</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d076-480.webp" srcset="/assets/images/couv/d076-240.webp 240w, /assets/images/couv/d076-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « La Terre creuse »" width="480" height="743" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>histoire secrète</span><span>17 nov.</span></p>
+    <h2 class="fiche-titre">La Terre creuse</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="espace histoire-secrete vie-extraterrestre" data-cherche="Les anomalies lunaires ET SI LA LUNE NOUS CACHAIT QUELQUE CHOSE ? espace histoire secrète vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/les-anomalies-lunaires" data-libelle="Les anomalies lunaires">
+    <span class="fiche-onglet">N° 075</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d075-480.webp" srcset="/assets/images/couv/d075-240.webp 240w, /assets/images/couv/d075-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les anomalies lunaires »" width="480" height="727" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>espace</span><span>16 nov.</span></p>
+    <h2 class="fiche-titre">Les anomalies lunaires</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="vie-extraterrestre" data-cherche="Les races extraterrestres insectoïdes LES RACES EXTRATERRESTRES INSECTOÏDES – À LA DÉCOUVERTE DES VISITEURS LES PLUS ÉNIGMATIQUES DU COSMOS ! vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/les-races-extraterrestres-insectoides" data-libelle="Les races extraterrestres insectoïdes">
+    <span class="fiche-onglet">N° 074</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d074-480.webp" srcset="/assets/images/couv/d074-240.webp 240w, /assets/images/couv/d074-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les races extraterrestres insectoïdes »" width="480" height="724" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>vie extraterrestre</span><span>15 nov.</span></p>
+    <h2 class="fiche-titre">Les races extraterrestres insectoïdes</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="histoire-secrete vie-extraterrestre" data-cherche="Alien Transcripts 5 : résumé des conclusions ALIEN TRANSCRIPT 5 histoire secrète vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/alien-transcripts-5-resume-des-conclusions" data-libelle="Alien Transcripts 5 : résumé des conclusions">
+    <span class="fiche-onglet">N° 073</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d073-480.webp" srcset="/assets/images/couv/d073-240.webp 240w, /assets/images/couv/d073-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Alien Transcripts 5 : résumé des conclusions »" width="480" height="753" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>histoire secrète</span><span>13 nov.</span></p>
+    <h2 class="fiche-titre">Alien Transcripts 5 : résumé des conclusions</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="histoire-secrete symbolisme theorie-du-complot" data-cherche="L’aéroport de Denver DENVER : L’AÉROPORT AUX SECRETS INAVOUABLES histoire secrète symbolisme théorie du complot">
+  <a class="fiche-lien" href="/dossiers/l-aeroport-de-denver" data-libelle="L’aéroport de Denver">
+    <span class="fiche-onglet">N° 072</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d072-480.webp" srcset="/assets/images/couv/d072-240.webp 240w, /assets/images/couv/d072-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « L’aéroport de Denver »" width="480" height="743" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>histoire secrète</span><span>13 nov.</span></p>
+    <h2 class="fiche-titre">L’aéroport de Denver</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="bases-secretes ovni vie-extraterrestre" data-cherche="Les bases extraterrestres en Australie L’Australie serait-elle simplement une terre de mystères… ou le théâtre d’une histoire encore méconnue ? bases secrètes ovni vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/les-bases-extraterrestres-en-australie" data-libelle="Les bases extraterrestres en Australie">
+    <span class="fiche-onglet">N° 071</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d071-480.webp" srcset="/assets/images/couv/d071-240.webp 240w, /assets/images/couv/d071-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les bases extraterrestres en Australie »" width="480" height="735" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>bases secrètes</span><span>13 nov.</span></p>
+    <h2 class="fiche-titre">Les bases extraterrestres en Australie</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="histoire-secrete vie-extraterrestre" data-cherche="Blue Planet Project : Project Pulsar BLUE PLANET PROJECT – PROJECT PULSAR : LES SECRETS D’UN PROGRAMME CLASSIFIÉ ? histoire secrète vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/blue-planet-project-project-pulsar" data-libelle="Blue Planet Project : Project Pulsar">
+    <span class="fiche-onglet">N° 070</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d070-480.webp" srcset="/assets/images/couv/d070-240.webp 240w, /assets/images/couv/d070-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Blue Planet Project : Project Pulsar »" width="480" height="724" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>histoire secrète</span><span>13 nov.</span></p>
+    <h2 class="fiche-titre">Blue Planet Project : Project Pulsar</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="bases-secretes ovni vie-extraterrestre" data-cherche="Les bases extraterrestres au Mexique LES BASES EXTRATERRESTRES AU MEXIQUE : LES SECRETS ENFOUIS bases secrètes ovni vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/les-bases-extraterrestres-au-mexique" data-libelle="Les bases extraterrestres au Mexique">
+    <span class="fiche-onglet">N° 069</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d069-480.webp" srcset="/assets/images/couv/d069-240.webp 240w, /assets/images/couv/d069-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les bases extraterrestres au Mexique »" width="480" height="738" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>bases secrètes</span><span>11 nov.</span></p>
+    <h2 class="fiche-titre">Les bases extraterrestres au Mexique</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="histoire-secrete theorie-du-complot" data-cherche="Les groupes du nouvel ordre mondial LES GROUPES DU NOUVEL ORDRE MONDIAL : LES PUISSANCES DANS L’OMBRE histoire secrète théorie du complot">
+  <a class="fiche-lien" href="/dossiers/les-groupes-du-nouvel-ordre-mondial" data-libelle="Les groupes du nouvel ordre mondial">
+    <span class="fiche-onglet">N° 068</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d068-480.webp" srcset="/assets/images/couv/d068-240.webp 240w, /assets/images/couv/d068-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les groupes du nouvel ordre mondial »" width="480" height="729" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>histoire secrète</span><span>11 nov.</span></p>
+    <h2 class="fiche-titre">Les groupes du nouvel ordre mondial</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="anciennes-civilisations archeologie" data-cherche="L’Hadjar el Gouble UN BLOC DE PIERRE GIGANTESQUE, UNE DIMENSION IMPRESSIONNANTE… COMMENT LES CIVILISATIONS DE L’ANTIQUITÉ ONT-ELLES PU ENVISAGER DE TELS MONUMENTS ? anciennes civilisations archéologie">
+  <a class="fiche-lien" href="/dossiers/l-hadjar-el-gouble" data-libelle="L’Hadjar el Gouble">
+    <span class="fiche-onglet">N° 067</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d067-480.webp" srcset="/assets/images/couv/d067-240.webp 240w, /assets/images/couv/d067-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « L’Hadjar el Gouble »" width="480" height="748" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>anciennes civilisations</span><span>10 nov.</span></p>
+    <h2 class="fiche-titre">L’Hadjar el Gouble</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="histoire-secrete vie-extraterrestre" data-cherche="Blue Planet Project ET SI LES AUTORITÉS EN SACHENT BIEN PLUS QU’ELLES NE LE DISENT SUR LA PRÉSENCE EXTRATERRESTRE SUR TERRE ? histoire secrète vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/blue-planet-project" data-libelle="Blue Planet Project">
+    <span class="fiche-onglet">N° 066</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d066-480.webp" srcset="/assets/images/couv/d066-240.webp 240w, /assets/images/couv/d066-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Blue Planet Project »" width="480" height="730" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>histoire secrète</span><span>10 nov.</span></p>
+    <h2 class="fiche-titre">Blue Planet Project</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="ovni" data-cherche="La technologie occulte derrière les ovnis LA TECHNOLOGIE OCCULTE DERRIÈRE LES OVNIS ovni">
+  <a class="fiche-lien" href="/dossiers/la-technologie-occulte-derriere-les-ovnis" data-libelle="La technologie occulte derrière les ovnis">
+    <span class="fiche-onglet">N° 065</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d065-480.webp" srcset="/assets/images/couv/d065-240.webp 240w, /assets/images/couv/d065-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « La technologie occulte derrière les ovnis »" width="480" height="734" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>ovni</span><span>9 nov.</span></p>
+    <h2 class="fiche-titre">La technologie occulte derrière les ovnis</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="histoire-secrete vie-extraterrestre" data-cherche="Alien Transcripts 4 : première rencontre avec Riyah ALIEN TRANSCRIPT 4 - RENCONTRE AVEC RIYAH histoire secrète vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/alien-transcripts-4-premiere-rencontre-avec-riyah" data-libelle="Alien Transcripts 4 : première rencontre avec Riyah">
+    <span class="fiche-onglet">N° 064</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d064-480.webp" srcset="/assets/images/couv/d064-240.webp 240w, /assets/images/couv/d064-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Alien Transcripts 4 : première rencontre avec Riyah »" width="480" height="743" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>histoire secrète</span><span>9 nov.</span></p>
+    <h2 class="fiche-titre">Alien Transcripts 4 : première rencontre avec Riyah</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="vie-extraterrestre" data-cherche="Fédérations et conseils galactiques FÉDÉRATIONS ET CONSEILS GALACTIQUES – LES GRANDES INSTANCES DU COSMOS vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/federations-et-conseils-galactiques" data-libelle="Fédérations et conseils galactiques">
+    <span class="fiche-onglet">N° 063</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d063-480.webp" srcset="/assets/images/couv/d063-240.webp 240w, /assets/images/couv/d063-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Fédérations et conseils galactiques »" width="480" height="743" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>vie extraterrestre</span><span>8 nov.</span></p>
+    <h2 class="fiche-titre">Fédérations et conseils galactiques</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="vie-extraterrestre" data-cherche="Les Andromédiens RACE EXTRATERRESTRE - LES ANDROMEDIENS vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/les-andromediens" data-libelle="Les Andromédiens">
+    <span class="fiche-onglet">N° 062</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d062-480.webp" srcset="/assets/images/couv/d062-240.webp 240w, /assets/images/couv/d062-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les Andromédiens »" width="480" height="736" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>vie extraterrestre</span><span>8 nov.</span></p>
+    <h2 class="fiche-titre">Les Andromédiens</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="anciennes-civilisations archeologie" data-cherche="Baalbeck, une énigme colossale BAALBECK – LES MYSTÈRES D’UNE ÉNIGME COLOSSALE ! anciennes civilisations archéologie">
+  <a class="fiche-lien" href="/dossiers/baalbeck-une-enigme-colossale" data-libelle="Baalbeck, une énigme colossale">
+    <span class="fiche-onglet">N° 061</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d061-480.webp" srcset="/assets/images/couv/d061-240.webp 240w, /assets/images/couv/d061-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Baalbeck, une énigme colossale »" width="480" height="747" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>anciennes civilisations</span><span>6 nov.</span></p>
+    <h2 class="fiche-titre">Baalbeck, une énigme colossale</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="ovni" data-cherche="Document d’étude sur les cas OVNI (1980-1994) DOCUMENT D’ÉTUDES SUR LES CAS OVNI (1980–1994) – 14 ANNÉES DE PHÉNOMÈNES INEXPLIQUÉS ! ovni">
+  <a class="fiche-lien" href="/dossiers/document-d-etude-sur-les-cas-ovni-1980-1994" data-libelle="Document d’étude sur les cas OVNI (1980-1994)">
+    <span class="fiche-onglet">N° 060</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d060-480.webp" srcset="/assets/images/couv/d060-240.webp 240w, /assets/images/couv/d060-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Document d’étude sur les cas OVNI (1980-1994) »" width="480" height="720" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>ovni</span><span>5 nov.</span></p>
+    <h2 class="fiche-titre">Document d’étude sur les cas OVNI (1980-1994)</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="bases-secretes ovni vie-extraterrestre" data-cherche="Les bases extraterrestres en Amérique du Sud LES BASES EXTRATERRESTRES SUR TERRE – AMERIQUE DU SUD bases secrètes ovni vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/les-bases-extraterrestres-en-amerique-du-sud" data-libelle="Les bases extraterrestres en Amérique du Sud">
+    <span class="fiche-onglet">N° 059</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d059-480.webp" srcset="/assets/images/couv/d059-240.webp 240w, /assets/images/couv/d059-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les bases extraterrestres en Amérique du Sud »" width="480" height="733" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>bases secrètes</span><span>4 nov.</span></p>
+    <h2 class="fiche-titre">Les bases extraterrestres en Amérique du Sud</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="anciennes-civilisations" data-cherche="L’empreinte des dieux L’EMPREINTE DES DIEUX – DES SIMILITUDES INCROYABLES… ET PRESQUE IMPOSSIBLES ! anciennes civilisations">
+  <a class="fiche-lien" href="/dossiers/l-empreinte-des-dieux" data-libelle="L’empreinte des dieux">
+    <span class="fiche-onglet">N° 058</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d058-480.webp" srcset="/assets/images/couv/d058-240.webp 240w, /assets/images/couv/d058-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « L’empreinte des dieux »" width="480" height="732" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>anciennes civilisations</span><span>3 nov.</span></p>
+    <h2 class="fiche-titre">L’empreinte des dieux</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="symbolisme" data-cherche="Le symbolisme du 11 septembre 2001 LE SYMBOLISME DU 11 SEPTEMBRE 2001 – AU-DELÀ DES IMAGES, LES SIGNES D’UN ÉVÉNEMENT HISTORIQUE ? symbolisme">
+  <a class="fiche-lien" href="/dossiers/le-symbolisme-du-11-septembre-2001" data-libelle="Le symbolisme du 11 septembre 2001">
+    <span class="fiche-onglet">N° 057</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d057-480.webp" srcset="/assets/images/couv/d057-240.webp 240w, /assets/images/couv/d057-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Le symbolisme du 11 septembre 2001 »" width="480" height="741" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>symbolisme</span><span>3 nov.</span></p>
+    <h2 class="fiche-titre">Le symbolisme du 11 septembre 2001</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="vie-extraterrestre" data-cherche="Alien Transcripts 3 : l’interview de l’extraterrestre LES ALIEN TRANSCRIPT 3 - L’INTERVIEW AVEC L’EXTRATERRESTRE vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/alien-transcripts-3-l-interview-de-l-extraterrestre" data-libelle="Alien Transcripts 3 : l’interview de l’extraterrestre">
+    <span class="fiche-onglet">N° 056</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d056-480.webp" srcset="/assets/images/couv/d056-240.webp 240w, /assets/images/couv/d056-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Alien Transcripts 3 : l’interview de l’extraterrestre »" width="480" height="732" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>vie extraterrestre</span><span>2 nov.</span></p>
+    <h2 class="fiche-titre">Alien Transcripts 3 : l’interview de l’extraterrestre</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="vie-extraterrestre" data-cherche="Alien Transcripts 2 : rencontre avec des extraterrestres LES ALIEN TRANSCRIPTS 2 – RENCONTRE AVEC DES EXTRATERRESTRES vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/alien-transcripts-2-rencontre-avec-des-extraterrestres" data-libelle="Alien Transcripts 2 : rencontre avec des extraterrestres">
+    <span class="fiche-onglet">N° 055</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d055-480.webp" srcset="/assets/images/couv/d055-240.webp 240w, /assets/images/couv/d055-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Alien Transcripts 2 : rencontre avec des extraterrestres »" width="480" height="728" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>vie extraterrestre</span><span>2 nov.</span></p>
+    <h2 class="fiche-titre">Alien Transcripts 2 : rencontre avec des extraterrestres</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="anciennes-civilisations" data-cherche="Bep-Kororoti et les anciens astronautes BEP-KOROROTI – LE MYSTÉRIEUX VISITEUR DES ANCIENS ASTRONAUTES anciennes civilisations">
+  <a class="fiche-lien" href="/dossiers/bep-kororoti-et-les-anciens-astronautes" data-libelle="Bep-Kororoti et les anciens astronautes">
+    <span class="fiche-onglet">N° 054</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d054-480.webp" srcset="/assets/images/couv/d054-240.webp 240w, /assets/images/couv/d054-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Bep-Kororoti et les anciens astronautes »" width="480" height="716" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>anciennes civilisations</span><span>2 nov.</span></p>
+    <h2 class="fiche-titre">Bep-Kororoti et les anciens astronautes</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="bases-secretes" data-cherche="Les bases extraterrestres aux États-Unis LES BASES EXTRATERRESTRES AUX ÉTATS-UNIS – LES SECRETS LES MIEUX GARDÉS ? bases secrètes">
+  <a class="fiche-lien" href="/dossiers/les-bases-extraterrestres-aux-etats-unis" data-libelle="Les bases extraterrestres aux États-Unis">
+    <span class="fiche-onglet">N° 053</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d053-480.webp" srcset="/assets/images/couv/d053-240.webp 240w, /assets/images/couv/d053-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les bases extraterrestres aux États-Unis »" width="480" height="735" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>bases secrètes</span><span>1er nov.</span></p>
+    <h2 class="fiche-titre">Les bases extraterrestres aux États-Unis</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="anciennes-civilisations" data-cherche="La fraternité des sept rayons solaires LA FRATERNITÉ DES 7 RAYONS – LES GARDIENS DES SECRETS COSMIQUES anciennes civilisations">
+  <a class="fiche-lien" href="/dossiers/la-fraternite-des-sept-rayons-solaires" data-libelle="La fraternité des sept rayons solaires">
+    <span class="fiche-onglet">N° 052</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d052-480.webp" srcset="/assets/images/couv/d052-240.webp 240w, /assets/images/couv/d052-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « La fraternité des sept rayons solaires »" width="480" height="738" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>anciennes civilisations</span><span>1er nov.</span></p>
+    <h2 class="fiche-titre">La fraternité des sept rayons solaires</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="anciennes-civilisations" data-cherche="Les anciennes cités perdues du désert de Gobi LES ANCIENNES CITÉS PERDUES DU DÉSERT DE GOBI – LES TRACES D’UNE CIVILISATION OUBLIÉE ? anciennes civilisations">
+  <a class="fiche-lien" href="/dossiers/les-anciennes-cites-perdues-du-desert-de-gobi" data-libelle="Les anciennes cités perdues du désert de Gobi">
+    <span class="fiche-onglet">N° 051</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d051-480.webp" srcset="/assets/images/couv/d051-240.webp 240w, /assets/images/couv/d051-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les anciennes cités perdues du désert de Gobi »" width="480" height="745" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>anciennes civilisations</span><span>1er nov.</span></p>
+    <h2 class="fiche-titre">Les anciennes cités perdues du désert de Gobi</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="vie-extraterrestre" data-cherche="Alien Transcripts 1 : contact et communication LES ALIEN TRANSCRIPTS – CONTACT ET COMMUNICATION : LES MESSAGES VENUS D’AILLEURS ! vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/alien-transcripts-1-contact-et-communication" data-libelle="Alien Transcripts 1 : contact et communication">
+    <span class="fiche-onglet">N° 050</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d050-480.webp" srcset="/assets/images/couv/d050-240.webp 240w, /assets/images/couv/d050-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Alien Transcripts 1 : contact et communication »" width="480" height="737" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>vie extraterrestre</span><span>29 oct.</span></p>
+    <h2 class="fiche-titre">Alien Transcripts 1 : contact et communication</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="anciennes-civilisations" data-cherche="Les pierres d’Ica LES PIERRES D’ICA – LES ARTEFACTS QUI POURRAIENT RÉÉCRIRE L’HISTOIRE DE L’HUMANITÉ ! anciennes civilisations">
+  <a class="fiche-lien" href="/dossiers/les-pierres-d-ica" data-libelle="Les pierres d’Ica">
+    <span class="fiche-onglet">N° 049</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d049-480.webp" srcset="/assets/images/couv/d049-240.webp 240w, /assets/images/couv/d049-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les pierres d’Ica »" width="480" height="725" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>anciennes civilisations</span><span>29 oct.</span></p>
+    <h2 class="fiche-titre">Les pierres d’Ica</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="anciennes-civilisations" data-cherche="La pyramide sous-marine des Açores LA PYRAMIDE DES AÇORES ET L’ALIGNEMENT AVEC LA CITÉ PERDUE DE POSÉIDONIS – UN MYSTÈRE AU CŒUR DE L’ATLANTIQUE ! anciennes civilisations">
+  <a class="fiche-lien" href="/dossiers/la-pyramide-sous-marine-des-acores" data-libelle="La pyramide sous-marine des Açores">
+    <span class="fiche-onglet">N° 048</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d048-480.webp" srcset="/assets/images/couv/d048-240.webp 240w, /assets/images/couv/d048-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « La pyramide sous-marine des Açores »" width="480" height="720" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>anciennes civilisations</span><span>28 oct.</span></p>
+    <h2 class="fiche-titre">La pyramide sous-marine des Açores</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="vie-extraterrestre" data-cherche="Les Pléiadiens LES PLÉIADIENS – LES MYSTÉRIEUX ÊTRES VENUS DES ÉTOILES ! vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/les-pleiadiens" data-libelle="Les Pléiadiens">
+    <span class="fiche-onglet">N° 047</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d047-480.webp" srcset="/assets/images/couv/d047-240.webp 240w, /assets/images/couv/d047-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les Pléiadiens »" width="480" height="744" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>vie extraterrestre</span><span>28 oct.</span></p>
+    <h2 class="fiche-titre">Les Pléiadiens</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="vie-extraterrestre" data-cherche="Les descendants des Annunaki LES DESCENDANTS DES ANUNNAKI – LE SECRET D’UNE LIGNÉE VENUE DES ÉTOILES ? vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/les-descendants-des-annunaki" data-libelle="Les descendants des Annunaki">
+    <span class="fiche-onglet">N° 046</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d046-480.webp" srcset="/assets/images/couv/d046-240.webp 240w, /assets/images/couv/d046-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les descendants des Annunaki »" width="480" height="723" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>vie extraterrestre</span><span>27 oct.</span></p>
+    <h2 class="fiche-titre">Les descendants des Annunaki</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="histoire-secrete vie-extraterrestre" data-cherche="Le projet Starchild LE PROJET STARCHILD – L’ÉTRANGE CRÂNE QUI DÉFIE LA SCIENCE ! histoire secrète vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/le-projet-starchild" data-libelle="Le projet Starchild">
+    <span class="fiche-onglet">N° 045</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d045-480.webp" srcset="/assets/images/couv/d045-240.webp 240w, /assets/images/couv/d045-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Le projet Starchild »" width="480" height="737" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>histoire secrète</span><span>27 oct.</span></p>
+    <h2 class="fiche-titre">Le projet Starchild</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="vie-extraterrestre" data-cherche="Le reptilien de Pamela Hamilton LA RENCONTRE REPTILIENNE DE PAMELA HAMILTON – FACE À FACE AVEC UNE ENTITÉ NON HUMAINE ? vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/le-reptilien-de-pamela-hamilton" data-libelle="Le reptilien de Pamela Hamilton">
+    <span class="fiche-onglet">N° 044</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d044-480.webp" srcset="/assets/images/couv/d044-240.webp 240w, /assets/images/couv/d044-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Le reptilien de Pamela Hamilton »" width="480" height="732" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>vie extraterrestre</span><span>27 oct.</span></p>
+    <h2 class="fiche-titre">Le reptilien de Pamela Hamilton</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="vie-extraterrestre" data-cherche="Les Siriens LES SIRIENS – LES MYSTÉRIEUX ÊTRES VENUS DU SYSTÈME DE SIRIUS ! vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/les-siriens" data-libelle="Les Siriens">
+    <span class="fiche-onglet">N° 043</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d043-480.webp" srcset="/assets/images/couv/d043-240.webp 240w, /assets/images/couv/d043-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les Siriens »" width="480" height="745" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>vie extraterrestre</span><span>27 oct.</span></p>
+    <h2 class="fiche-titre">Les Siriens</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="bases-secretes vie-extraterrestre" data-cherche="La bataille de Dulce DULCE – LA GUERRE SOUTERRAINE : L’AFFRONTEMENT SECRET ENTRE L’HUMANITÉ ET LES EXTRATERRESTRES ? bases secrètes vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/la-bataille-de-dulce" data-libelle="La bataille de Dulce">
+    <span class="fiche-onglet">N° 042</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d042-480.webp" srcset="/assets/images/couv/d042-240.webp 240w, /assets/images/couv/d042-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « La bataille de Dulce »" width="480" height="729" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>bases secrètes</span><span>24 oct.</span></p>
+    <h2 class="fiche-titre">La bataille de Dulce</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="bases-secretes" data-cherche="La base de Pine Gap PINE GAP – LES SECRETS DE LA BASE LA PLUS MYSTÉRIEUSE D’AUSTRALIE ! bases secrètes">
+  <a class="fiche-lien" href="/dossiers/la-base-de-pine-gap" data-libelle="La base de Pine Gap">
+    <span class="fiche-onglet">N° 041</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d041-480.webp" srcset="/assets/images/couv/d041-240.webp 240w, /assets/images/couv/d041-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « La base de Pine Gap »" width="480" height="735" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>bases secrètes</span><span>24 oct.</span></p>
+    <h2 class="fiche-titre">La base de Pine Gap</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="cryptozoologie" data-cherche="Le chupacabra LE CHUPACABRA - LA CRÉATURE MYSTÉRIEUSE QUI SÈME LA TERREUR ! cryptozoologie">
+  <a class="fiche-lien" href="/dossiers/le-chupacabra" data-libelle="Le chupacabra">
+    <span class="fiche-onglet">N° 040</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d040-480.webp" srcset="/assets/images/couv/d040-240.webp 240w, /assets/images/couv/d040-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Le chupacabra »" width="480" height="735" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>cryptozoologie</span><span>23 oct.</span></p>
+    <h2 class="fiche-titre">Le chupacabra</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="histoire-secrete vie-extraterrestre" data-cherche="Les momies tridactyles L’ÉNIGME DES MOMIES TRIDACTYLES : LES MYSTÉRIEUX ÊTRES À TROIS DOIGTS histoire secrète vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/les-momies-tridactyles" data-libelle="Les momies tridactyles">
+    <span class="fiche-onglet">N° 039</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d039-480.webp" srcset="/assets/images/couv/d039-240.webp 240w, /assets/images/couv/d039-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les momies tridactyles »" width="480" height="729" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>histoire secrète</span><span>23 oct.</span></p>
+    <h2 class="fiche-titre">Les momies tridactyles</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="histoire-secrete" data-cherche="L’opération Highjump L’OPÉRATION HIGHJUMP – L’EXPÉDITION SECRÈTE QUI A ALIMENTÉ LES PLUS GRANDES MYSTÈRES DE L’ANTARCTIQUE ! histoire secrète">
+  <a class="fiche-lien" href="/dossiers/l-operation-highjump" data-libelle="L’opération Highjump">
+    <span class="fiche-onglet">N° 038</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d038-480.webp" srcset="/assets/images/couv/d038-240.webp 240w, /assets/images/couv/d038-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « L’opération Highjump »" width="480" height="727" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>histoire secrète</span><span>22 oct.</span></p>
+    <h2 class="fiche-titre">L’opération Highjump</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="anciennes-civilisations" data-cherche="Peintures rupestres et extraterrestres PEINTURES RUPESTRES ET EXTRATERRESTRES – LES MESSAGES VENUS DU FOND DES ÂGES ! anciennes civilisations">
+  <a class="fiche-lien" href="/dossiers/peintures-rupestres-et-extraterrestres" data-libelle="Peintures rupestres et extraterrestres">
+    <span class="fiche-onglet">N° 037</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d037-480.webp" srcset="/assets/images/couv/d037-240.webp 240w, /assets/images/couv/d037-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Peintures rupestres et extraterrestres »" width="480" height="730" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>anciennes civilisations</span><span>22 oct.</span></p>
+    <h2 class="fiche-titre">Peintures rupestres et extraterrestres</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="bases-secretes" data-cherche="Les mystères du plateau d’Albion LES MYSTÈRES DU PLATEAU D’ALBION – LES SECRETS ENFOUIS SOUS LES TERRES DE PROVENCE ! bases secrètes">
+  <a class="fiche-lien" href="/dossiers/les-mysteres-du-plateau-d-albion" data-libelle="Les mystères du plateau d’Albion">
+    <span class="fiche-onglet">N° 036</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d036-480.webp" srcset="/assets/images/couv/d036-240.webp 240w, /assets/images/couv/d036-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les mystères du plateau d’Albion »" width="480" height="751" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>bases secrètes</span><span>21 oct.</span></p>
+    <h2 class="fiche-titre">Les mystères du plateau d’Albion</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="histoire-secrete" data-cherche="Les programmes spatiaux secrets LES PROGRAMMES SPATIAUX SECRETS – CE QUE L’ON NE NOUS DIT PAS SUR LA CONQUÊTE DE L’ESPACE ! histoire secrète">
+  <a class="fiche-lien" href="/dossiers/les-programmes-spatiaux-secrets" data-libelle="Les programmes spatiaux secrets">
+    <span class="fiche-onglet">N° 035</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d035-480.webp" srcset="/assets/images/couv/d035-240.webp 240w, /assets/images/couv/d035-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les programmes spatiaux secrets »" width="480" height="736" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>histoire secrète</span><span>21 oct.</span></p>
+    <h2 class="fiche-titre">Les programmes spatiaux secrets</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="ovni vie-extraterrestre" data-cherche="Les humanoïdes reptiliens : dossiers de cas DOSSIERS DE CAS CONCERNANT DES HUMANOÏDES REPTILIENS – LES RENCONTRES LES PLUS TROUBLANTES ! ovni vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/les-humanoides-reptiliens-dossiers-de-cas" data-libelle="Les humanoïdes reptiliens : dossiers de cas">
+    <span class="fiche-onglet">N° 034</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d034-480.webp" srcset="/assets/images/couv/d034-240.webp 240w, /assets/images/couv/d034-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les humanoïdes reptiliens : dossiers de cas »" width="480" height="730" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>ovni</span><span>21 oct.</span></p>
+    <h2 class="fiche-titre">Les humanoïdes reptiliens : dossiers de cas</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="histoire-secrete" data-cherche="La Jason Society et le nouvel ordre mondial LA JASON SOCIETY ET LE NOUVEL ORDRE MONDIAL – LES CERCLES D’INFLUENCE DANS L’OMBRE ! histoire secrète">
+  <a class="fiche-lien" href="/dossiers/la-jason-society-et-le-nouvel-ordre-mondial" data-libelle="La Jason Society et le nouvel ordre mondial">
+    <span class="fiche-onglet">N° 033</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d033-480.webp" srcset="/assets/images/couv/d033-240.webp 240w, /assets/images/couv/d033-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « La Jason Society et le nouvel ordre mondial »" width="480" height="722" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>histoire secrète</span><span>20 oct.</span></p>
+    <h2 class="fiche-titre">La Jason Society et le nouvel ordre mondial</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="anciennes-civilisations" data-cherche="Les portes des dieux extraterrestres PORTE INTERDIMENSIONNELLE DANS LES ANDES ? anciennes civilisations">
+  <a class="fiche-lien" href="/dossiers/les-portes-des-dieux-extraterrestres" data-libelle="Les portes des dieux extraterrestres">
+    <span class="fiche-onglet">N° 032</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d032-480.webp" srcset="/assets/images/couv/d032-240.webp 240w, /assets/images/couv/d032-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les portes des dieux extraterrestres »" width="480" height="743" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>anciennes civilisations</span><span>20 oct.</span></p>
+    <h2 class="fiche-titre">Les portes des dieux extraterrestres</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="histoire-secrete" data-cherche="Les secrets du mont Bucegi MONT BUCEGI – LE SECRET DES ANCIENS : UNE DÉCOUVERTE QUI DÉFIE L’HISTOIRE histoire secrète">
+  <a class="fiche-lien" href="/dossiers/les-secrets-du-mont-bucegi" data-libelle="Les secrets du mont Bucegi">
+    <span class="fiche-onglet">N° 031</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d031-480.webp" srcset="/assets/images/couv/d031-240.webp 240w, /assets/images/couv/d031-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les secrets du mont Bucegi »" width="480" height="727" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>histoire secrète</span><span>19 oct.</span></p>
+    <h2 class="fiche-titre">Les secrets du mont Bucegi</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="vie-extraterrestre" data-cherche="Le groupe Nebu d’Orion GROUPE NEBU D’ORION – LE SECRET DES ÉTOILES : RÉVÉLATIONS SUR UNE CIVILISATION INCONNUE vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/le-groupe-nebu-d-orion" data-libelle="Le groupe Nebu d’Orion">
+    <span class="fiche-onglet">N° 030</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d030-480.webp" srcset="/assets/images/couv/d030-240.webp 240w, /assets/images/couv/d030-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Le groupe Nebu d’Orion »" width="480" height="725" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>vie extraterrestre</span><span>18 oct.</span></p>
+    <h2 class="fiche-titre">Le groupe Nebu d’Orion</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="anciennes-civilisations" data-cherche="Les énigmatiques statues Dogū LES ÉNIGMATIQUES STATUES JAPONAISES DOGŪ anciennes civilisations">
+  <a class="fiche-lien" href="/dossiers/les-enigmatiques-statues-dogu" data-libelle="Les énigmatiques statues Dogū">
+    <span class="fiche-onglet">N° 029</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d029-480.webp" srcset="/assets/images/couv/d029-240.webp 240w, /assets/images/couv/d029-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les énigmatiques statues Dogū »" width="480" height="730" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>anciennes civilisations</span><span>17 oct.</span></p>
+    <h2 class="fiche-titre">Les énigmatiques statues Dogū</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="anciennes-civilisations symbolisme" data-cherche="Le swastika, symbole millénaire LE SWASTIKA : LE SYMBOLE AUX MULTIPLES VISAGES anciennes civilisations symbolisme">
+  <a class="fiche-lien" href="/dossiers/le-swastika-symbole-millenaire" data-libelle="Le swastika, symbole millénaire">
+    <span class="fiche-onglet">N° 028</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d028-480.webp" srcset="/assets/images/couv/d028-240.webp 240w, /assets/images/couv/d028-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Le swastika, symbole millénaire »" width="480" height="748" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>anciennes civilisations</span><span>17 oct.</span></p>
+    <h2 class="fiche-titre">Le swastika, symbole millénaire</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="anciennes-civilisations" data-cherche="Le mystère de Mohenjo-Daro IL Y A PLUS DE 4 000 ANS, UNE CIVILISATION POSSÉDAIT DÉJÀ DES VILLES ORGANISÉES, DES RÉSEAUX D’ÉGOUTS ET UNE ARCHITECTURE REMARQUABLE… PUIS SON MONDE A DISPARU DANS L’HISTOIRE. anciennes civilisations">
+  <a class="fiche-lien" href="/dossiers/le-mystere-de-mohenjo-daro" data-libelle="Le mystère de Mohenjo-Daro">
+    <span class="fiche-onglet">N° 027</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d027-480.webp" srcset="/assets/images/couv/d027-240.webp 240w, /assets/images/couv/d027-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Le mystère de Mohenjo-Daro »" width="480" height="720" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>anciennes civilisations</span><span>15 oct.</span></p>
+    <h2 class="fiche-titre">Le mystère de Mohenjo-Daro</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="ovni vie-extraterrestre" data-cherche="Les Gris : catalogue des espèces PETITS ÊTRES À LA PEAU GRISE, GRANDS YEUX NOIRS, VISAGES SANS EXPRESSION… ET S’ILS ÉTAIENT LES VISITEURS LES PLUS SOUVENT ÉVOQUÉS DANS LES RÉCITS DE RENCONTRES EXTRATERRESTRES ? ovni vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/les-gris-catalogue-des-especes" data-libelle="Les Gris : catalogue des espèces">
+    <span class="fiche-onglet">N° 026</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d026-480.webp" srcset="/assets/images/couv/d026-240.webp 240w, /assets/images/couv/d026-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les Gris : catalogue des espèces »" width="480" height="740" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>ovni</span><span>15 oct.</span></p>
+    <h2 class="fiche-titre">Les Gris : catalogue des espèces</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="ovni vie-extraterrestre" data-cherche="L’étrange aventure de Betty Andreasson L’ÉTRANGE AVENTURE DE BETTY ANDREASSON ovni vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/l-etrange-aventure-de-betty-andreasson" data-libelle="L’étrange aventure de Betty Andreasson">
+    <span class="fiche-onglet">N° 025</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d025-480.webp" srcset="/assets/images/couv/d025-240.webp 240w, /assets/images/couv/d025-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « L’étrange aventure de Betty Andreasson »" width="480" height="734" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>ovni</span><span>15 oct.</span></p>
+    <h2 class="fiche-titre">L’étrange aventure de Betty Andreasson</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="anciennes-civilisations" data-cherche="L’histoire des Hav-Musuvs LES HAV-MUSUVS : LE PEUPLE MYSTÉRIEUX DES PROFONDEURS anciennes civilisations">
+  <a class="fiche-lien" href="/dossiers/l-histoire-des-hav-musuvs" data-libelle="L’histoire des Hav-Musuvs">
+    <span class="fiche-onglet">N° 024</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d024-480.webp" srcset="/assets/images/couv/d024-240.webp 240w, /assets/images/couv/d024-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « L’histoire des Hav-Musuvs »" width="480" height="739" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>anciennes civilisations</span><span>14 oct.</span></p>
+    <h2 class="fiche-titre">L’histoire des Hav-Musuvs</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="lieux-mysterieux" data-cherche="Les légendes du mont Kailash UNE MONTAGNE QUE L’HOMME N’A JAMAIS CONQUISE… UN SOMMET ENTOURÉ DE LÉGENDES MILLÉNAIRES… ET SI LE MONT KAILASH ÉTAIT BIEN PLUS QU’UNE SIMPLE MONTAGNE ? lieux mystérieux">
+  <a class="fiche-lien" href="/dossiers/les-legendes-du-mont-kailash" data-libelle="Les légendes du mont Kailash">
+    <span class="fiche-onglet">N° 023</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d023-480.webp" srcset="/assets/images/couv/d023-240.webp 240w, /assets/images/couv/d023-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les légendes du mont Kailash »" width="480" height="718" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>lieux mystérieux</span><span>14 oct.</span></p>
+    <h2 class="fiche-titre">Les légendes du mont Kailash</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="bases-secretes histoire-secrete" data-cherche="Le projet Redbook ET SI DES RENCONTRES ENTRE L’HUMANITÉ ET DES CIVILISATIONS EXTRATERRESTRES AVAIENT ÉTÉ ENVISAGÉES DANS LE PLUS GRAND SECRET ? bases secrètes histoire secrète">
+  <a class="fiche-lien" href="/dossiers/le-projet-redbook" data-libelle="Le projet Redbook">
+    <span class="fiche-onglet">N° 022</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d022-480.webp" srcset="/assets/images/couv/d022-240.webp 240w, /assets/images/couv/d022-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Le projet Redbook »" width="480" height="737" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>bases secrètes</span><span>14 oct.</span></p>
+    <h2 class="fiche-titre">Le projet Redbook</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="histoire-secrete vie-extraterrestre" data-cherche="La base de Nellis et les Tall Whites CHARLES HALL ET SA RENCONTRE AVEC LES GRANDS BLANCS histoire secrète vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/la-base-de-nellis-et-les-tall-whites" data-libelle="La base de Nellis et les Tall Whites">
+    <span class="fiche-onglet">N° 021</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d021-480.webp" srcset="/assets/images/couv/d021-240.webp 240w, /assets/images/couv/d021-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « La base de Nellis et les Tall Whites »" width="480" height="722" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>histoire secrète</span><span>13 oct.</span></p>
+    <h2 class="fiche-titre">La base de Nellis et les Tall Whites</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="vie-extraterrestre" data-cherche="Les Arcturiens RACE EXTRATERRESTRE : LES ARCTURIENS vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/les-arcturiens" data-libelle="Les Arcturiens">
+    <span class="fiche-onglet">N° 020</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d020-480.webp" srcset="/assets/images/couv/d020-240.webp 240w, /assets/images/couv/d020-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les Arcturiens »" width="480" height="732" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>vie extraterrestre</span><span>13 oct.</span></p>
+    <h2 class="fiche-titre">Les Arcturiens</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="faits-mysterieux" data-cherche="Les crop circles sont-ils créés par des sons ? CROP CIRCLES - LE SECRET DES ONDES : LE SON POURRAIT-IL DESSINER LES CHAMPS ? faits mystérieux">
+  <a class="fiche-lien" href="/dossiers/les-crop-circles-sont-ils-crees-par-des-sons" data-libelle="Les crop circles sont-ils créés par des sons ?">
+    <span class="fiche-onglet">N° 019</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d019-480.webp" srcset="/assets/images/couv/d019-240.webp 240w, /assets/images/couv/d019-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les crop circles sont-ils créés par des sons ? »" width="480" height="719" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>faits mystérieux</span><span>10 oct.</span></p>
+    <h2 class="fiche-titre">Les crop circles sont-ils créés par des sons ?</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="" data-cherche="Les Reptiliens : catalogue des espèces ILS SERAIENT PARMI LES ENTITÉS EXTRATERRESTRES LES PLUS REDOUTÉES DES RÉCITS UFOLOGIQUES… MAIS QUI SONT RÉELLEMENT LES REPTILIENS ? ">
+  <a class="fiche-lien" href="/dossiers/les-reptiliens-catalogue-des-especes" data-libelle="Les Reptiliens : catalogue des espèces">
+    <span class="fiche-onglet">N° 018</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d018-480.webp" srcset="/assets/images/couv/d018-240.webp 240w, /assets/images/couv/d018-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les Reptiliens : catalogue des espèces »" width="480" height="749" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>sans rubrique</span><span>10 oct.</span></p>
+    <h2 class="fiche-titre">Les Reptiliens : catalogue des espèces</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="anciennes-civilisations vie-extraterrestre" data-cherche="Les mystères des Dogons COMMENT UN PEUPLE DU MALI A-T-IL PU ÊTRE ASSOCIÉ À DES CONNAISSANCES ASTRONOMIQUES SUR SIRIUS QUI SEMBLENT DÉFIER LES CROYANCES TRADITIONNELLES ? anciennes civilisations vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/les-mysteres-des-dogons" data-libelle="Les mystères des Dogons">
+    <span class="fiche-onglet">N° 017</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d017-480.webp" srcset="/assets/images/couv/d017-240.webp 240w, /assets/images/couv/d017-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les mystères des Dogons »" width="480" height="728" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>anciennes civilisations</span><span>10 oct.</span></p>
+    <h2 class="fiche-titre">Les mystères des Dogons</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="faits-mysterieux" data-cherche="Le mystérieux Coral Castle CORAL CASTLE – LE MYSTÈRE DES PIERRES IMPOSSIBLES : LE SECRET D’EDWARD LEEDSKALNIN faits mystérieux">
+  <a class="fiche-lien" href="/dossiers/le-mysterieux-coral-castle" data-libelle="Le mystérieux Coral Castle">
+    <span class="fiche-onglet">N° 016</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d016-480.webp" srcset="/assets/images/couv/d016-240.webp 240w, /assets/images/couv/d016-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Le mystérieux Coral Castle »" width="480" height="750" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>faits mystérieux</span><span>10 oct.</span></p>
+    <h2 class="fiche-titre">Le mystérieux Coral Castle</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="vie-extraterrestre" data-cherche="Les Lyriens LES LYRIENS - LE PEUPLE DES ÉTOILES : AUX ORIGINES D’UN MYSTÈRE COSMIQUE vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/les-lyriens" data-libelle="Les Lyriens">
+    <span class="fiche-onglet">N° 015</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d015-480.webp" srcset="/assets/images/couv/d015-240.webp 240w, /assets/images/couv/d015-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les Lyriens »" width="480" height="720" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>vie extraterrestre</span><span>9 oct.</span></p>
+    <h2 class="fiche-titre">Les Lyriens</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="ovni" data-cherche="Document d’étude sur les cas OVNI (1944-1976) OVNI 1944-1976 – 32 ANS DE MYSTÈRES : LES AFFAIRES QUI ONT DÉFIÉ L’HISTOIRE ovni">
+  <a class="fiche-lien" href="/dossiers/document-d-etude-sur-les-cas-ovni-1944-1976" data-libelle="Document d’étude sur les cas OVNI (1944-1976)">
+    <span class="fiche-onglet">N° 014</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d014-480.webp" srcset="/assets/images/couv/d014-240.webp 240w, /assets/images/couv/d014-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Document d’étude sur les cas OVNI (1944-1976) »" width="480" height="730" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>ovni</span><span>8 oct.</span></p>
+    <h2 class="fiche-titre">Document d’étude sur les cas OVNI (1944-1976)</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="ovni vie-extraterrestre" data-cherche="Les Gris LES GRIS : QUI SONT CES MYSTÉRIEUX VISITEURS ? ovni vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/les-gris" data-libelle="Les Gris">
+    <span class="fiche-onglet">N° 013</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d013-480.webp" srcset="/assets/images/couv/d013-240.webp 240w, /assets/images/couv/d013-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les Gris »" width="480" height="737" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>ovni</span><span>8 oct.</span></p>
+    <h2 class="fiche-titre">Les Gris</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="faits-mysterieux" data-cherche="Le crop circle de Chilbolton CHILBOLTON - LE MESSAGE DES ÉTOILES : UNE RÉPONSE EXTRATERRESTRE À L’HUMANITÉ ? faits mystérieux">
+  <a class="fiche-lien" href="/dossiers/le-crop-circle-de-chilbolton" data-libelle="Le crop circle de Chilbolton">
+    <span class="fiche-onglet">N° 012</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d012-480.webp" srcset="/assets/images/couv/d012-240.webp 240w, /assets/images/couv/d012-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Le crop circle de Chilbolton »" width="480" height="726" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>faits mystérieux</span><span>7 oct.</span></p>
+    <h2 class="fiche-titre">Le crop circle de Chilbolton</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="faits-mysterieux ovni vie-extraterrestre" data-cherche="Le cas Billy Meier BILLY MEIER - LE CONTACT DES PLÉIADES : RÉVÉLATIONS, MYSTÈRES ET VÉRITÉS CACHÉES faits mystérieux ovni vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/le-cas-billy-meier" data-libelle="Le cas Billy Meier">
+    <span class="fiche-onglet">N° 011</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d011-480.webp" srcset="/assets/images/couv/d011-240.webp 240w, /assets/images/couv/d011-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Le cas Billy Meier »" width="480" height="730" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>faits mystérieux</span><span>6 oct.</span></p>
+    <h2 class="fiche-titre">Le cas Billy Meier</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="ovni vie-extraterrestre" data-cherche="L’incident de Zeta Reticuli LE CAS BETTY ET BARNEY HILL ovni vie extraterrestre">
+  <a class="fiche-lien" href="/dossiers/l-incident-de-zeta-reticuli" data-libelle="L’incident de Zeta Reticuli">
+    <span class="fiche-onglet">N° 010</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d010-480.webp" srcset="/assets/images/couv/d010-240.webp 240w, /assets/images/couv/d010-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « L’incident de Zeta Reticuli »" width="480" height="738" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>ovni</span><span>5 oct.</span></p>
+    <h2 class="fiche-titre">L’incident de Zeta Reticuli</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="" data-cherche="Les ruines sous-marines de Yonaguni AU LARGE DU JAPON, SOUS LES EAUX TURQUOISES DE L’OCÉAN, SE CACHE UNE FORMATION ROCHEUSE QUI DÉFIE L’IMAGINATION ! ">
+  <a class="fiche-lien" href="/dossiers/les-ruines-sous-marines-de-yonaguni" data-libelle="Les ruines sous-marines de Yonaguni">
+    <span class="fiche-onglet">N° 009</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d009-480.webp" srcset="/assets/images/couv/d009-240.webp 240w, /assets/images/couv/d009-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les ruines sous-marines de Yonaguni »" width="480" height="722" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>sans rubrique</span><span>5 oct.</span></p>
+    <h2 class="fiche-titre">Les ruines sous-marines de Yonaguni</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="" data-cherche="Les Alpha Draconiens RACES EXTRATERRESTRES : LES ALPHA DRACONIENS ">
+  <a class="fiche-lien" href="/dossiers/les-alpha-draconiens" data-libelle="Les Alpha Draconiens">
+    <span class="fiche-onglet">N° 008</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d008-480.webp" srcset="/assets/images/couv/d008-240.webp 240w, /assets/images/couv/d008-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les Alpha Draconiens »" width="480" height="744" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>sans rubrique</span><span>4 oct.</span></p>
+    <h2 class="fiche-titre">Les Alpha Draconiens</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="" data-cherche="Les avions archéologiques ET SI CERTAINS OBJETS RETROUVÉS DANS LES CIVILISATIONS ANCIENNES RESSEMBLAIENT ÉTRANGEMENT À NOS AVIONS MODERNES ? ">
+  <a class="fiche-lien" href="/dossiers/les-avions-archeologiques" data-libelle="Les avions archéologiques">
+    <span class="fiche-onglet">N° 007</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d007-480.webp" srcset="/assets/images/couv/d007-240.webp 240w, /assets/images/couv/d007-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les avions archéologiques »" width="480" height="748" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>sans rubrique</span><span>3 oct.</span></p>
+    <h2 class="fiche-titre">Les avions archéologiques</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="" data-cherche="Les hommes en noir ILS APPARAÎTRAIENT APRÈS CERTAINES OBSERVATIONS D’OVNIS… SILENCIEUX, IMPASSIBLES, VÊTUS DE NOIR. QUI SONT VRAIMENT CES MYSTÉRIEUX PERSONNAGES ? ">
+  <a class="fiche-lien" href="/dossiers/les-hommes-en-noir" data-libelle="Les hommes en noir">
+    <span class="fiche-onglet">N° 006</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d006-480.webp" srcset="/assets/images/couv/d006-240.webp 240w, /assets/images/couv/d006-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les hommes en noir »" width="480" height="718" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>sans rubrique</span><span>3 oct.</span></p>
+    <h2 class="fiche-titre">Les hommes en noir</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="" data-cherche="Le projet Silverbug ET SI L’ARMÉE AMÉRICAINE AVAIT UN JOUR ENVISAGÉ DE CONSTRUIRE SA PROPRE SOUCOUPE VOLANTE ? ">
+  <a class="fiche-lien" href="/dossiers/le-projet-silverbug" data-libelle="Le projet Silverbug">
+    <span class="fiche-onglet">N° 005</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d005-480.webp" srcset="/assets/images/couv/d005-240.webp 240w, /assets/images/couv/d005-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Le projet Silverbug »" width="480" height="723" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>sans rubrique</span><span>3 oct.</span></p>
+    <h2 class="fiche-titre">Le projet Silverbug</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="" data-cherche="Le Sphinx ET SI LE GRAND SPHINX DE GIZEH ÉTAIT BIEN PLUS ANCIEN QU’ON NE LE PENSE… ET S’IL ÉTAIT LIÉ AUX MYSTÉRIEUX ANNUNAKI ? ">
+  <a class="fiche-lien" href="/dossiers/le-sphinx" data-libelle="Le Sphinx">
+    <span class="fiche-onglet">N° 004</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d004-480.webp" srcset="/assets/images/couv/d004-240.webp 240w, /assets/images/couv/d004-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Le Sphinx »" width="480" height="733" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>sans rubrique</span><span>3 oct.</span></p>
+    <h2 class="fiche-titre">Le Sphinx</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="" data-cherche="Les Antariens VENUS DES PROFONDEURS DU COSMOS, LES ANTARIENS SERAIENT-ILS LES REPRÉSENTANTS D’UNE CIVILISATION EXTRATERRESTRE DONT NOUS IGNORONS PRESQUE TOUT ? ">
+  <a class="fiche-lien" href="/dossiers/les-antariens" data-libelle="Les Antariens">
+    <span class="fiche-onglet">N° 003</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d003-480.webp" srcset="/assets/images/couv/d003-240.webp 240w, /assets/images/couv/d003-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Les Antariens »" width="480" height="720" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>sans rubrique</span><span>3 oct.</span></p>
+    <h2 class="fiche-titre">Les Antariens</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="" data-cherche="Le triangle des Bermudes SOUS LES EAUX DU TRIANGLE DES BERMUDES SE CACHERAIT-IL LE DERNIER VESTIGE D’UNE CIVILISATION DISPARUE ? ET SI L’ATLANTIDE N’ÉTAIT PAS LÀ OÙ NOUS L’AVONS TOUJOURS CHERCHÉE ? ">
+  <a class="fiche-lien" href="/dossiers/le-triangle-des-bermudes" data-libelle="Le triangle des Bermudes">
+    <span class="fiche-onglet">N° 002</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d002-480.webp" srcset="/assets/images/couv/d002-240.webp 240w, /assets/images/couv/d002-480.webp 480w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « Le triangle des Bermudes »" width="480" height="714" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>sans rubrique</span><span>3 oct.</span></p>
+    <h2 class="fiche-titre">Le triangle des Bermudes</h2>
+  </a>
+</article><article class="fiche" data-anime data-effet="rangs" data-rubriques="" data-cherche="La généalogie des Annunaki QUI SONT VÉRITABLEMENT LES ANNUNAKI ? ET SI LES ANCIENS TEXTES MÉSOPOTAMIENS RENFERMAIENT LE RÉCIT D’UNE LIGNÉE BIEN PLUS ÉNIGMATIQUE QU’ON NE L’IMAGINE ? ">
+  <a class="fiche-lien" href="/dossiers/la-genealogie-des-annunaki" data-libelle="La généalogie des Annunaki">
+    <span class="fiche-onglet">N° 001</span>
+    <figure class="media couv  " style="--cadrage:50% 50%;aspect-ratio:15 / 23">
+  <picture>
+    <img src="/assets/images/couv/d001-800.webp" srcset="/assets/images/couv/d001-240.webp 240w, /assets/images/couv/d001-480.webp 480w, /assets/images/couv/d001-800.webp 800w" sizes="(max-width: 760px) 44vw, (max-width: 1100px) 22vw, 15vw" alt="Couverture du dossier « La généalogie des Annunaki »" width="800" height="1132" loading="lazy" decoding="async">
+  </picture>
+</figure>
+    <p class="fiche-meta"><span>sans rubrique</span><span>1er oct.</span></p>
+    <h2 class="fiche-titre">La généalogie des Annunaki</h2>
+  </a>
+</article>
+    </div>
+    <p class="index-aucun" data-aucun hidden>Aucun dossier ne correspond. Essayez un autre mot ou une autre rubrique.</p>
+  </div>
+</section>
+<section class="appel nuit" id="ecrire-appel">
+  <div class="conteneur appel-grille">
+    <svg class="cachet" viewBox="0 0 200 200" data-superpose role="img" aria-label="À vous de mener l’enquête" data-effet="tampon" data-visuel>
+  <defs><path id="cachet-cercle" d="M100 100 m-74 0 a74 74 0 1 1 148 0 a74 74 0 1 1 -148 0"/></defs>
+  <circle cx="100" cy="100" r="94" fill="none" stroke="currentColor" stroke-width="5"/>
+  <circle cx="100" cy="100" r="58" fill="none" stroke="currentColor" stroke-width="2"/>
+  <text class="cachet-tour"><textPath href="#cachet-cercle" startOffset="0" textLength="452">À VOUS DE MENER L’ENQUÊTE · À VOUS DE MENER L’ENQUÊTE ·</textPath></text>
+  <text class="cachet-centre" x="100" y="96" text-anchor="middle">FENCER’S</text>
+  <text class="cachet-centre" x="100" y="122" text-anchor="middle">FILES</text>
+</svg>
+    <div>
+      <h2 data-anime="lignes">Vous ne trouvez pas un sujet ?</h2>
+      <p data-anime>Suggérez-le à l’auteur.</p>
+      <p class="appel-actions" data-anime>
+        <a href="/auteur#ecrire" class="bouton" data-libelle="L’auteur" data-survol="magnetique">Écrire à l’auteur</a>
+        <a class="lien-fleche" href="mailto:fencerya@gmail.com">fencerya@gmail.com</a>
+      </p>
+    </div>
+  </div>
+</section>
+</main>
+<footer class="pied nuit" id="pied" data-masque-barre>
+  <div class="conteneur pied-grille">
+    <div class="pied-marque">
+      <img src="/assets/images/logo-192.webp" alt="" width="88" height="88" loading="lazy">
+      <p><strong>Fencer’s Files</strong><br>Archives · Enquêtes · Ufologie</p>
+      <p>Un blog consacré aux mystères de notre planète, aux énigmes de l’histoire et aux phénomènes inexpliqués.</p>
+      <p><a href="mailto:fencerya@gmail.com">fencerya@gmail.com</a></p>
+    </div>
+    <nav aria-label="Sommaire">
+      <p class="pied-titre">Sommaire</p>
+      <ul><li><a href="/" data-libelle="Accueil">Accueil</a></li><li><a href="/dossiers" data-libelle="Les dossiers" aria-current="page">Les dossiers</a></li><li><a href="/auteur" data-libelle="L’auteur">L’auteur</a></li><li><a href="/auteur#ecrire" data-libelle="L’auteur">Écrire à l’auteur</a></li></ul>
+    </nav>
+    <nav aria-label="Rubriques">
+      <p class="pied-titre">Rubriques</p>
+      <ul><li><a class="pied-rubrique" href="/dossiers?rubrique=vie-extraterrestre" data-libelle="Les dossiers">vie extraterrestre</a></li><li><a class="pied-rubrique" href="/dossiers?rubrique=histoire-secrete" data-libelle="Les dossiers">histoire secrète</a></li><li><a class="pied-rubrique" href="/dossiers?rubrique=anciennes-civilisations" data-libelle="Les dossiers">anciennes civilisations</a></li><li><a class="pied-rubrique" href="/dossiers?rubrique=ovni" data-libelle="Les dossiers">ovni</a></li><li><a class="pied-rubrique" href="/dossiers?rubrique=bases-secretes" data-libelle="Les dossiers">bases secrètes</a></li></ul>
+    </nav>
+    <div>
+      <p class="pied-titre">Mentions légales</p>
+      <ul class="pied-legal">
+        <li>Mentions légales : à compléter</li>
+        <li>Politique de confidentialité : à compléter</li>
+        <li><a href="#haut" data-sans-transition>Retour en haut</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="conteneur pied-bas"><p>Maquette de démonstration : le formulaire est simulé, rien n’est envoyé.</p><p>© Fencer’s Files</p></div>
+</footer>
+<div data-barre-fixe>
+  <a class="bouton bouton--contour" href="/dossiers" data-libelle="Les dossiers">Les dossiers</a>
+  <a class="bouton" href="/auteur#ecrire" data-libelle="L’auteur">Écrire</a>
+</div>
+</body>
+</html>

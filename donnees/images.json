@@ -1,0 +1,1319 @@
+{
+ "grok/accueil-ouverture": {
+  "nom": "grok/accueil-ouverture",
+  "source": "recu/grok/accueil-ouverture.jpg",
+  "role": "ouverture",
+  "alt": "Bureau de bois sombre, pile de chemises cartonnées sous une lampe",
+  "grok": true,
+  "mention": "Illustration générée",
+  "beaute": 5,
+  "empreinte": "ca3e0e9beceaccbe",
+  "ratio": "16:9",
+  "largeurs": [
+   640,
+   1280,
+   1920
+  ],
+  "mobile": {
+   "ratio": "9:16",
+   "largeurs": [
+    640,
+    1080
+   ],
+   "cadrage": "58% 56%"
+  },
+  "cadrage": "72% 61%",
+  "sujet": {
+   "x": 43.8,
+   "y": 16.7,
+   "l": 53.1,
+   "h": 72.2
+  },
+  "zones_calmes": [
+   {
+    "cote": "gauche",
+    "score": 0.94,
+    "ton": "sombre"
+   },
+   {
+    "cote": "haut",
+    "score": 0.57,
+    "ton": "sombre"
+   },
+   {
+    "cote": "bas",
+    "score": 0.49,
+    "ton": "sombre"
+   },
+   {
+    "cote": "droite",
+    "score": 0.07,
+    "ton": "sombre"
+   }
+  ],
+  "zone_texte": "gauche",
+  "recadrage": {
+   "left": 0,
+   "top": 0,
+   "width": 1920,
+   "height": 1080,
+   "source": [
+    1920,
+    1080
+   ]
+  },
+  "faible": false,
+  "raisons_faible": [],
+  "avertissements": [],
+  "fichiers": [
+   "grok/accueil-ouverture-640.webp",
+   "grok/accueil-ouverture-1280.webp",
+   "grok/accueil-ouverture-1920.webp",
+   "grok/accueil-ouverture-mobile-640.webp",
+   "grok/accueil-ouverture-mobile-1080.webp"
+  ],
+  "poids": {
+   "grok/accueil-ouverture-640.webp": 15104,
+   "grok/accueil-ouverture-1280.webp": 43888,
+   "grok/accueil-ouverture-1920.webp": 82478,
+   "grok/accueil-ouverture-mobile-640.webp": 27160,
+   "grok/accueil-ouverture-mobile-1080.webp": 56758
+  },
+  "media": "c.media({ nom: 'grok/accueil-ouverture', alt: \"Bureau de bois sombre, pile de chemises cartonnées sous une lampe\", cadrage: '72% 61%', cadrageMobile: '58% 56%', sizes: '100vw', priorite: true })"
+ },
+ "grok/accueil-transcripts": {
+  "nom": "grok/accueil-transcripts",
+  "source": "recu/grok/accueil-transcripts-v2.jpg",
+  "role": "section-fond",
+  "alt": "Magnétophone à bandes sous une lampe, feuilles vierges à côté",
+  "grok": true,
+  "mention": "Illustration générée",
+  "beaute": 5,
+  "empreinte": "c8a9011b163e26bf",
+  "ratio": "16:9",
+  "largeurs": [
+   640,
+   1280,
+   1920
+  ],
+  "mobile": null,
+  "cadrage": "48% 69%",
+  "sujet": {
+   "x": 31.3,
+   "y": 33.3,
+   "l": 59.4,
+   "h": 61.1
+  },
+  "zones_calmes": [
+   {
+    "cote": "haut",
+    "score": 0.89,
+    "ton": "sombre"
+   },
+   {
+    "cote": "gauche",
+    "score": 0.79,
+    "ton": "sombre"
+   },
+   {
+    "cote": "droite",
+    "score": 0.34,
+    "ton": "sombre"
+   },
+   {
+    "cote": "bas",
+    "score": 0.25,
+    "ton": "sombre"
+   }
+  ],
+  "zone_texte": "haut",
+  "recadrage": {
+   "left": 0,
+   "top": 0,
+   "width": 1920,
+   "height": 1080,
+   "source": [
+    1920,
+    1080
+   ]
+  },
+  "faible": false,
+  "raisons_faible": [],
+  "avertissements": [],
+  "fichiers": [
+   "grok/accueil-transcripts-640.webp",
+   "grok/accueil-transcripts-1280.webp",
+   "grok/accueil-transcripts-1920.webp"
+  ],
+  "poids": {
+   "grok/accueil-transcripts-640.webp": 13774,
+   "grok/accueil-transcripts-1280.webp": 40268,
+   "grok/accueil-transcripts-1920.webp": 71920
+  },
+  "media": "c.media({ nom: 'grok/accueil-transcripts', alt: \"Magnétophone à bandes sous une lampe, feuilles vierges à côté\", cadrage: '48% 69%', sizes: '100vw' })"
+ },
+ "grok/accueil-megalithes": {
+  "nom": "grok/accueil-megalithes",
+  "source": "recu/grok/accueil-megalithes-v2.jpg",
+  "role": "section-fond",
+  "alt": "Dolmen sur une colline rocheuse au crépuscule",
+  "grok": true,
+  "mention": "Illustration générée",
+  "beaute": 5,
+  "empreinte": "9bbe22a16bf6753d",
+  "ratio": "16:9",
+  "largeurs": [
+   640,
+   1280,
+   1920
+  ],
+  "mobile": {
+   "ratio": "9:16",
+   "largeurs": [
+    640,
+    1080
+   ],
+   "cadrage": "36% 45%"
+  },
+  "cadrage": "31% 53%",
+  "sujet": {
+   "x": 0,
+   "y": 27.8,
+   "l": 81.3,
+   "h": 50
+  },
+  "zones_calmes": [
+   {
+    "cote": "haut",
+    "score": 0.6,
+    "ton": "sombre"
+   },
+   {
+    "cote": "bas",
+    "score": 0.42,
+    "ton": "sombre"
+   },
+   {
+    "cote": "droite",
+    "score": 0.39,
+    "ton": "sombre"
+   },
+   {
+    "cote": "gauche",
+    "score": 0.37,
+    "ton": "sombre"
+   }
+  ],
+  "zone_texte": "gauche",
+  "recadrage": {
+   "left": 0,
+   "top": 0,
+   "width": 1920,
+   "height": 1080,
+   "source": [
+    1920,
+    1080
+   ]
+  },
+  "faible": false,
+  "raisons_faible": [],
+  "avertissements": [],
+  "fichiers": [
+   "grok/accueil-megalithes-640.webp",
+   "grok/accueil-megalithes-1280.webp",
+   "grok/accueil-megalithes-1920.webp",
+   "grok/accueil-megalithes-mobile-640.webp",
+   "grok/accueil-megalithes-mobile-1080.webp"
+  ],
+  "poids": {
+   "grok/accueil-megalithes-640.webp": 31904,
+   "grok/accueil-megalithes-1280.webp": 75718,
+   "grok/accueil-megalithes-1920.webp": 123660,
+   "grok/accueil-megalithes-mobile-640.webp": 29532,
+   "grok/accueil-megalithes-mobile-1080.webp": 58986
+  },
+  "media": "c.media({ nom: 'grok/accueil-megalithes', alt: \"Dolmen sur une colline rocheuse au crépuscule\", cadrage: '31% 53%', cadrageMobile: '36% 45%', sizes: '100vw' })"
+ },
+ "grok/dossiers-ouverture": {
+  "nom": "grok/dossiers-ouverture",
+  "source": "recu/grok/dossiers-ouverture.jpg",
+  "role": "ouverture",
+  "alt": "Tiroir de classeur ouvert, rempli de chemises aux onglets vierges",
+  "grok": true,
+  "mention": "Illustration générée",
+  "beaute": 4,
+  "empreinte": "f3822610b8925a2c",
+  "ratio": "16:9",
+  "largeurs": [
+   640,
+   1280,
+   1920
+  ],
+  "mobile": {
+   "ratio": "9:16",
+   "largeurs": [
+    640,
+    1080
+   ],
+   "cadrage": "42% 62%"
+  },
+  "cadrage": "48% 65%",
+  "sujet": {
+   "x": 18.8,
+   "y": 5.6,
+   "l": 68.8,
+   "h": 77.8
+  },
+  "zones_calmes": [
+   {
+    "cote": "haut",
+    "score": 0.52,
+    "ton": "sombre"
+   },
+   {
+    "cote": "droite",
+    "score": 0.44,
+    "ton": "sombre"
+   },
+   {
+    "cote": "gauche",
+    "score": 0.24,
+    "ton": "sombre"
+   },
+   {
+    "cote": "bas",
+    "score": 0.12,
+    "ton": "sombre"
+   }
+  ],
+  "zone_texte": "haut",
+  "recadrage": {
+   "left": 0,
+   "top": 0,
+   "width": 1920,
+   "height": 1080,
+   "source": [
+    1920,
+    1080
+   ]
+  },
+  "faible": false,
+  "raisons_faible": [],
+  "avertissements": [],
+  "fichiers": [
+   "grok/dossiers-ouverture-640.webp",
+   "grok/dossiers-ouverture-1280.webp",
+   "grok/dossiers-ouverture-1920.webp",
+   "grok/dossiers-ouverture-mobile-640.webp",
+   "grok/dossiers-ouverture-mobile-1080.webp"
+  ],
+  "poids": {
+   "grok/dossiers-ouverture-640.webp": 20652,
+   "grok/dossiers-ouverture-1280.webp": 46362,
+   "grok/dossiers-ouverture-1920.webp": 79448,
+   "grok/dossiers-ouverture-mobile-640.webp": 25214,
+   "grok/dossiers-ouverture-mobile-1080.webp": 51018
+  },
+  "media": "c.media({ nom: 'grok/dossiers-ouverture', alt: \"Tiroir de classeur ouvert, rempli de chemises aux onglets vierges\", cadrage: '48% 65%', cadrageMobile: '42% 62%', sizes: '100vw', priorite: true })"
+ },
+ "grok/auteur-ouverture": {
+  "nom": "grok/auteur-ouverture",
+  "source": "recu/grok/auteur-ouverture-v2.jpg",
+  "role": "ouverture",
+  "alt": "Ciel étoilé au-dessus de collines sombres, lueur à l'horizon",
+  "grok": true,
+  "mention": "Illustration générée",
+  "beaute": 4,
+  "empreinte": "1633488e424b0ba1",
+  "ratio": "16:9",
+  "largeurs": [
+   640,
+   1280,
+   1920
+  ],
+  "mobile": {
+   "ratio": "9:16",
+   "largeurs": [
+    640,
+    1080
+   ],
+   "cadrage": "58% 63%"
+  },
+  "cadrage": "74% 54%",
+  "sujet": {
+   "x": 56.3,
+   "y": 0,
+   "l": 37.5,
+   "h": 94.4
+  },
+  "zones_calmes": [
+   {
+    "cote": "gauche",
+    "score": 0.92,
+    "ton": "sombre"
+   },
+   {
+    "cote": "bas",
+    "score": 0.71,
+    "ton": "sombre"
+   },
+   {
+    "cote": "haut",
+    "score": 0.65,
+    "ton": "sombre"
+   },
+   {
+    "cote": "droite",
+    "score": 0.41,
+    "ton": "sombre"
+   }
+  ],
+  "zone_texte": "gauche",
+  "recadrage": {
+   "left": 0,
+   "top": 0,
+   "width": 1920,
+   "height": 1080,
+   "source": [
+    1920,
+    1080
+   ]
+  },
+  "faible": false,
+  "raisons_faible": [],
+  "avertissements": [],
+  "fichiers": [
+   "grok/auteur-ouverture-640.webp",
+   "grok/auteur-ouverture-1280.webp",
+   "grok/auteur-ouverture-1920.webp",
+   "grok/auteur-ouverture-mobile-640.webp",
+   "grok/auteur-ouverture-mobile-1080.webp"
+  ],
+  "poids": {
+   "grok/auteur-ouverture-640.webp": 11020,
+   "grok/auteur-ouverture-1280.webp": 22206,
+   "grok/auteur-ouverture-1920.webp": 36568,
+   "grok/auteur-ouverture-mobile-640.webp": 30830,
+   "grok/auteur-ouverture-mobile-1080.webp": 53816
+  },
+  "media": "c.media({ nom: 'grok/auteur-ouverture', alt: \"Ciel étoilé au-dessus de collines sombres, lueur à l'horizon\", cadrage: '74% 54%', cadrageMobile: '58% 63%', sizes: '100vw', priorite: true })"
+ },
+ "grok/commun-404": {
+  "nom": "grok/commun-404",
+  "source": "recu/grok/commun-404-v2.jpg",
+  "role": "vignette",
+  "alt": "Tiroir de classeur avec une chemise manquante",
+  "grok": true,
+  "mention": "Illustration générée",
+  "beaute": 3,
+  "empreinte": "e1c412e633302030",
+  "ratio": "16:9",
+  "largeurs": [
+   480,
+   640,
+   800
+  ],
+  "mobile": null,
+  "cadrage": "50% 54%",
+  "sujet": {
+   "x": 9.4,
+   "y": 33.3,
+   "l": 81.3,
+   "h": 50
+  },
+  "zones_calmes": [
+   {
+    "cote": "haut",
+    "score": 0.88,
+    "ton": "sombre"
+   },
+   {
+    "cote": "gauche",
+    "score": 0.52,
+    "ton": "sombre"
+   },
+   {
+    "cote": "droite",
+    "score": 0.51,
+    "ton": "sombre"
+   },
+   {
+    "cote": "bas",
+    "score": 0.48,
+    "ton": "sombre"
+   }
+  ],
+  "zone_texte": "haut",
+  "recadrage": {
+   "left": 0,
+   "top": 0,
+   "width": 1920,
+   "height": 1080,
+   "source": [
+    1920,
+    1080
+   ]
+  },
+  "faible": false,
+  "raisons_faible": [],
+  "avertissements": [],
+  "fichiers": [
+   "grok/commun-404-480.webp",
+   "grok/commun-404-640.webp",
+   "grok/commun-404-800.webp"
+  ],
+  "poids": {
+   "grok/commun-404-480.webp": 4358,
+   "grok/commun-404-640.webp": 6554,
+   "grok/commun-404-800.webp": 9012
+  },
+  "media": "c.media({ nom: 'grok/commun-404', alt: \"Tiroir de classeur avec une chemise manquante\", cadrage: '50% 54%', sizes: '(max-width: 760px) 50vw, 25vw', ratio: '16 / 9' })"
+ },
+ "logo": {
+  "nom": "logo",
+  "source": "recu/site2/001-a-tout-le-monde-bienvenue-sur-ce-blog.webp",
+  "role": "logo",
+  "alt": "Médaillon Fencer’s Files",
+  "largeurs": [
+   96,
+   192,
+   480
+  ]
+ },
+ "couv/d076": {
+  "nom": "couv/d076",
+  "source": "recu/couvertures/077-la-terre-creuse-et-si-notre-planete.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « La Terre creuse »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d075": {
+  "nom": "couv/d075",
+  "source": "recu/couvertures/076-et-si-la-lune-nous-cachait-quelque.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les anomalies lunaires »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d074": {
+  "nom": "couv/d074",
+  "source": "recu/couvertures/075-les-races-extraterrestres-insectoides.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les races extraterrestres insectoïdes »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d073": {
+  "nom": "couv/d073",
+  "source": "recu/couvertures/074-alien-transcript-5-le-dossier.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Alien Transcripts 5 : résumé des conclusions »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d072": {
+  "nom": "couv/d072",
+  "source": "recu/couvertures/073-denver-laeroport-aux-secrets.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « L’aéroport de Denver »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d071": {
+  "nom": "couv/d071",
+  "source": "recu/couvertures/072-australie-les-secrets-extraterrestres.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les bases extraterrestres en Australie »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d070": {
+  "nom": "couv/d070",
+  "source": "recu/couvertures/071-blue-planet-project-project-pulsar-les.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Blue Planet Project : Project Pulsar »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d069": {
+  "nom": "couv/d069",
+  "source": "recu/couvertures/070-les-bases-extraterrestres-au-mexique.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les bases extraterrestres au Mexique »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d068": {
+  "nom": "couv/d068",
+  "source": "recu/couvertures/069-les-groupes-du-nouvel-ordre-mondial-les.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les groupes du nouvel ordre mondial »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d067": {
+  "nom": "couv/d067",
+  "source": "recu/couvertures/068-lhadjar-el-gouble-baalbeck-le-colosse.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « L’Hadjar el Gouble »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d066": {
+  "nom": "couv/d066",
+  "source": "recu/couvertures/067-blue-planet-project-le-dossier-interdit.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Blue Planet Project »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d065": {
+  "nom": "couv/d065",
+  "source": "recu/couvertures/066-la-technologie-occulte-derriere-les.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « La technologie occulte derrière les ovnis »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d064": {
+  "nom": "couv/d064",
+  "source": "recu/couvertures/065-alien-transcript-4-rencontre-avec-riyah.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Alien Transcripts 4 : première rencontre avec Riyah »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d063": {
+  "nom": "couv/d063",
+  "source": "recu/couvertures/064-federations-et-conseils-galactiques.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Fédérations et conseils galactiques »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d062": {
+  "nom": "couv/d062",
+  "source": "recu/couvertures/063-race-extraterrestre-les-andromediens.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les Andromédiens »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d061": {
+  "nom": "couv/d061",
+  "source": "recu/couvertures/062-baalbeck-une-enigme-colossale-situee-1.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Baalbeck, une énigme colossale »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d060": {
+  "nom": "couv/d060",
+  "source": "recu/couvertures/061-document-detudes-sur-les-cas-ovni-1980.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Document d’étude sur les cas OVNI (1980-1994) »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d059": {
+  "nom": "couv/d059",
+  "source": "recu/couvertures/060-les-bases-extraterrestres-sur-terre.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les bases extraterrestres en Amérique du Sud »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d058": {
+  "nom": "couv/d058",
+  "source": "recu/couvertures/059-lempreinte-des-dieux-similitudes.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « L’empreinte des dieux »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d057": {
+  "nom": "couv/d057",
+  "source": "recu/couvertures/058-le-symbolisme-du-11-septembre-2001-y.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Le symbolisme du 11 septembre 2001 »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d056": {
+  "nom": "couv/d056",
+  "source": "recu/couvertures/057-les-alien-transcript-linterviexw-avec.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Alien Transcripts 3 : l’interview de l’extraterrestre »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d055": {
+  "nom": "couv/d055",
+  "source": "recu/couvertures/056-les-alien-transcripts-rencontre-avec.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Alien Transcripts 2 : rencontre avec des extraterrestres »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d054": {
+  "nom": "couv/d054",
+  "source": "recu/couvertures/055-blog-post.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Bep-Kororoti et les anciens astronautes »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d053": {
+  "nom": "couv/d053",
+  "source": "recu/couvertures/054-les-bases-extraterrestres-aux-etats.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les bases extraterrestres aux États-Unis »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d052": {
+  "nom": "couv/d052",
+  "source": "recu/couvertures/053-la-fraternite-des-sept-rayons-solaires.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « La fraternité des sept rayons solaires »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d051": {
+  "nom": "couv/d051",
+  "source": "recu/couvertures/052-blog-post_29.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les anciennes cités perdues du désert de Gobi »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d050": {
+  "nom": "couv/d050",
+  "source": "recu/couvertures/051-blog-post_28.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Alien Transcripts 1 : contact et communication »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d049": {
+  "nom": "couv/d049",
+  "source": "recu/couvertures/050-le-mystere-des-pierres-dica-les-pierres.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les pierres d’Ica »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d048": {
+  "nom": "couv/d048",
+  "source": "recu/couvertures/049-la-pyramides-des-acores-et-son.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « La pyramide sous-marine des Açores »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d047": {
+  "nom": "couv/d047",
+  "source": "recu/couvertures/048-blog-post_27.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les Pléiadiens »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d046": {
+  "nom": "couv/d046",
+  "source": "recu/couvertures/047-les-descendants-des-annunaki-la.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les descendants des Annunaki »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d045": {
+  "nom": "couv/d045",
+  "source": "recu/couvertures/046-le-projet-starchild-dans-les-annees.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Le projet Starchild »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d044": {
+  "nom": "couv/d044",
+  "source": "recu/couvertures/045-la-rencontre-reptilienne-de-pamela.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Le reptilien de Pamela Hamilton »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d043": {
+  "nom": "couv/d043",
+  "source": "recu/couvertures/044-blog-post_24.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les Siriens »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d042": {
+  "nom": "couv/d042",
+  "source": "recu/couvertures/043-la-bataille-de-dulc-e-la-plupart-des.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « La bataille de Dulce »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d041": {
+  "nom": "couv/d041",
+  "source": "recu/couvertures/042-blog-post_548.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « La base de Pine Gap »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d040": {
+  "nom": "couv/d040",
+  "source": "recu/couvertures/041-blog-post_23.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Le chupacabra »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d039": {
+  "nom": "couv/d039",
+  "source": "recu/couvertures/040-blog-post_22.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les momies tridactyles »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d038": {
+  "nom": "couv/d038",
+  "source": "recu/couvertures/039-loperation-highjump-en-1947-lamiral.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « L’opération Highjump »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d037": {
+  "nom": "couv/d037",
+  "source": "recu/couvertures/038-blog-post_21.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Peintures rupestres et extraterrestres »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d036": {
+  "nom": "couv/d036",
+  "source": "recu/couvertures/037-les-mysteres-du-plateau-dalbion-le.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les mystères du plateau d’Albion »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d035": {
+  "nom": "couv/d035",
+  "source": "recu/couvertures/036-les-programmes-spatiaux-secrets-depuis.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les programmes spatiaux secrets »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d034": {
+  "nom": "couv/d034",
+  "source": "recu/couvertures/035-blog-post_20.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les humanoïdes reptiliens : dossiers de cas »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d033": {
+  "nom": "couv/d033",
+  "source": "recu/couvertures/034-la-jason-society-et-le-nouvel-ordre.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « La Jason Society et le nouvel ordre mondial »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d032": {
+  "nom": "couv/d032",
+  "source": "recu/couvertures/033-blog-post_19.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les portes des dieux extraterrestres »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d031": {
+  "nom": "couv/d031",
+  "source": "recu/couvertures/032-blog-post_18.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les secrets du mont Bucegi »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d030": {
+  "nom": "couv/d030",
+  "source": "recu/couvertures/031-blog-post_17.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Le groupe Nebu d’Orion »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d029": {
+  "nom": "couv/d029",
+  "source": "recu/couvertures/030-les-enigmatiques-statues-japonaises.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les énigmatiques statues Dogū »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d028": {
+  "nom": "couv/d028",
+  "source": "recu/couvertures/029-blog-post_15.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Le swastika, symbole millénaire »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d027": {
+  "nom": "couv/d027",
+  "source": "recu/couvertures/028-mohenjo-daro-site-detruit-par-une.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Le mystère de Mohenjo-Daro »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d026": {
+  "nom": "couv/d026",
+  "source": "recu/couvertures/027-les-gris-catalogue-des-especes-toute.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les Gris : catalogue des espèces »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d025": {
+  "nom": "couv/d025",
+  "source": "recu/couvertures/026-blog-post_14.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « L’étrange aventure de Betty Andreasson »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d024": {
+  "nom": "couv/d024",
+  "source": "recu/couvertures/025-lhistoire-des-hav-musuvs-selon-les.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « L’histoire des Hav-Musuvs »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d023": {
+  "nom": "couv/d023",
+  "source": "recu/couvertures/024-les-legendes-du-mont-kailash-le-mont.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les légendes du mont Kailash »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d022": {
+  "nom": "couv/d022",
+  "source": "recu/couvertures/023-blog-post_13.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Le projet Redbook »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d021": {
+  "nom": "couv/d021",
+  "source": "recu/couvertures/022-charles-hall-et-sa-rencontre-avec-les.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « La base de Nellis et les Tall Whites »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d020": {
+  "nom": "couv/d020",
+  "source": "recu/couvertures/021-blog-post_900.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les Arcturiens »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d019": {
+  "nom": "couv/d019",
+  "source": "recu/couvertures/020-blog-post_69.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les crop circles sont-ils créés par des sons ? »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d018": {
+  "nom": "couv/d018",
+  "source": "recu/couvertures/019-blog-post_758.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les Reptiliens : catalogue des espèces »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d017": {
+  "nom": "couv/d017",
+  "source": "recu/couvertures/018-blog-post_10.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les mystères des Dogons »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d016": {
+  "nom": "couv/d016",
+  "source": "recu/couvertures/017-blog-post_391.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Le mystérieux Coral Castle »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d015": {
+  "nom": "couv/d015",
+  "source": "recu/couvertures/016-blog-post_08.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les Lyriens »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d014": {
+  "nom": "couv/d014",
+  "source": "recu/couvertures/015-durant-le-vingtieme-siecle-de-nombreux.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Document d’étude sur les cas OVNI (1944-1976) »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d013": {
+  "nom": "couv/d013",
+  "source": "recu/couvertures/014-en-ufologie-lun-des-mysteres-les-plus.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les Gris »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d012": {
+  "nom": "couv/d012",
+  "source": "recu/couvertures/013-blog-post_07.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Le crop circle de Chilbolton »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d011": {
+  "nom": "couv/d011",
+  "source": "recu/couvertures/012-blog-post_06.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Le cas Billy Meier »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d010": {
+  "nom": "couv/d010",
+  "source": "recu/couvertures/011-blog-post_05.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « L’incident de Zeta Reticuli »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d009": {
+  "nom": "couv/d009",
+  "source": "recu/couvertures/010-ce-dossier-archeologique-concernent.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les ruines sous-marines de Yonaguni »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d008": {
+  "nom": "couv/d008",
+  "source": "recu/couvertures/009-blog-post_04.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les Alpha Draconiens »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d007": {
+  "nom": "couv/d007",
+  "source": "recu/couvertures/008-blog-post_642.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les avions archéologiques »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d006": {
+  "nom": "couv/d006",
+  "source": "recu/couvertures/007-blog-post_563.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les hommes en noir »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d005": {
+  "nom": "couv/d005",
+  "source": "recu/couvertures/006-blog-post_742.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Le projet Silverbug »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d004": {
+  "nom": "couv/d004",
+  "source": "recu/couvertures/005-blog-post_03.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Le Sphinx »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d003": {
+  "nom": "couv/d003",
+  "source": "recu/couvertures/004-blog-post.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Les Antariens »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d002": {
+  "nom": "couv/d002",
+  "source": "recu/couvertures/003-depuis-des-siecles-une-zone-dans-le_02015223604.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « Le triangle des Bermudes »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ },
+ "couv/d001": {
+  "nom": "couv/d001",
+  "source": "recu/couvertures/002-les-annunaki-sont-devenus-celebres.jpg",
+  "role": "produit",
+  "alt": "Couverture du dossier « La généalogie des Annunaki »",
+  "beaute": 3,
+  "largeurs": [
+   240,
+   480
+  ]
+ }
+}

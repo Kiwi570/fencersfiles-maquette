@@ -1,0 +1,6 @@
+{
+  "siteActuel": "fencersfiles.blogspot.com",
+  "pagesTypes": ["/", "/dossiers", "/dossiers/la-terre-creuse", "/auteur"],
+  "effets": ["onglet", "caviardage", "pile", "rangee", "tampon"],
+  "grille": { "dispenses": {} }
+}

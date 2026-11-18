@@ -1,0 +1,6584 @@
+{
+  "dossier": "/Users/paul/Downloads/fencersfiles-recu",
+  "date": "2026-11-17T17:36:48.352Z",
+  "detection": "Vision (macOS) + mesures sharp",
+  "planches": [
+    "planche.jpg",
+    "planche-2.jpg",
+    "planche-3.jpg",
+    "planche-4.jpg"
+  ],
+  "legende_planche": "cadre jaune : sujet ; croix rouge : cadrage ; fond rose : à vérifier",
+  "doublons": [
+    {
+      "garder": "013-blog-post_07.webp",
+      "ecarter": "020-blog-post_69.webp",
+      "type": "doublon",
+      "distance": 0,
+      "ressemblance": 1
+    }
+  ],
+  "images": [
+    {
+      "fichier": "chatgpt-image-29-sept.png",
+      "nom": "chatgpt-image-29-sept",
+      "drapeau": "autre",
+      "largeur": 1024,
+      "hauteur": 683,
+      "ratio": "3:2",
+      "ratio_valeur": 1.499,
+      "orientation": "paysage",
+      "format": "png",
+      "poids": 1282732,
+      "transparence": false,
+      "sujet": {
+        "x": 16.7,
+        "y": 9.1,
+        "l": 64.7,
+        "h": 25.8,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        50,
+        26
+      ],
+      "cadrage_css": "50% 26%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.21,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.17,
+          "ton": "moyen",
+          "recouvre_sujet": 0.15
+        },
+        {
+          "cote": "droite",
+          "score": 0.17,
+          "ton": "moyen",
+          "recouvre_sujet": 0.14
+        },
+        {
+          "cote": "haut",
+          "score": 0.08,
+          "ton": "moyen",
+          "recouvre_sujet": 0.48
+        }
+      ],
+      "qualite": {
+        "nettete": 107.5,
+        "bruit": 1.57,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "1024 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "bf977337d7f3f319",
+      "drapeaux": [
+        "autre",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "fencer-s-files-frontieres.webp",
+      "nom": "fencer-s-files-frontieres",
+      "drapeau": "autre",
+      "largeur": 1024,
+      "hauteur": 1449,
+      "ratio": "0.71",
+      "ratio_valeur": 0.707,
+      "orientation": "portrait",
+      "format": "webp",
+      "poids": 159506,
+      "transparence": false,
+      "sujet": {
+        "x": 16.4,
+        "y": 3.9,
+        "l": 60.5,
+        "h": 89.3,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        48,
+        40
+      ],
+      "cadrage_css": "48% 40%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.07,
+          "ton": "clair",
+          "recouvre_sujet": 0.38
+        },
+        {
+          "cote": "bas",
+          "score": 0.03,
+          "ton": "clair",
+          "recouvre_sujet": 0.49
+        },
+        {
+          "cote": "gauche",
+          "score": 0.02,
+          "ton": "clair",
+          "recouvre_sujet": 0.53
+        },
+        {
+          "cote": "haut",
+          "score": 0.01,
+          "ton": "clair",
+          "recouvre_sujet": 0.54
+        }
+      ],
+      "qualite": {
+        "nettete": 43.2,
+        "bruit": 1.19,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "1024 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LA CENEALO CE · DES · ANNUNAK",
+        "blocs": 3,
+        "surface": 11.3,
+        "details": [
+          {
+            "texte": "LA CENEALO CE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "DES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "ANNUNAK",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "390b134d4d0d175b",
+      "drapeaux": [
+        "autre",
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "001-a-tout-le-monde-bienvenue-sur-ce-blog.webp",
+      "nom": "001-a-tout-le-monde-bienvenue-sur-ce-blog",
+      "drapeau": null,
+      "largeur": 1254,
+      "hauteur": 1254,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 157444,
+      "transparence": false,
+      "sujet": {
+        "x": 19.1,
+        "y": 14.7,
+        "l": 41.2,
+        "h": 69.1,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        42,
+        50
+      ],
+      "cadrage_css": "42% 50%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.46,
+          "ton": "sombre",
+          "recouvre_sujet": 0.22
+        },
+        {
+          "cote": "droite",
+          "score": 0.32,
+          "ton": "sombre",
+          "recouvre_sujet": 0.01
+        },
+        {
+          "cote": "gauche",
+          "score": 0.29,
+          "ton": "sombre",
+          "recouvre_sujet": 0.36
+        },
+        {
+          "cote": "haut",
+          "score": 0.28,
+          "ton": "sombre",
+          "recouvre_sujet": 0.24
+        }
+      ],
+      "qualite": {
+        "nettete": 53.1,
+        "bruit": 0.75,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "1254 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "FENCER'S · FILES- · ARCHIVES • ENQUÊTES • UFOLOGIE · DOSSIER · CLASSIFIE · TOP SECRET · UNIDENTIFIED · AERIAL PHENOMENA · APPROVEDI · DIES ONES",
+        "blocs": 10,
+        "surface": 24.5,
+        "details": [
+          {
+            "texte": "FENCER'S",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "FILES-",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "ARCHIVES • ENQUÊTES • UFOLOGIE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "DOSSIER",
+            "niveau": "document"
+          },
+          {
+            "texte": "CLASSIFIE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "TOP SECRET",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "UNIDENTIFIED",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "AERIAL PHENOMENA",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "APPROVEDI",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "DIES ONES",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "fcd4f4f8d1b0b0f0",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "002-les-annunaki-sont-devenus-celebres.webp",
+      "nom": "002-les-annunaki-sont-devenus-celebres",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 36418,
+      "transparence": false,
+      "sujet": {
+        "x": 13.3,
+        "y": 0.2,
+        "l": 63.8,
+        "h": 85.8,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        46,
+        31
+      ],
+      "cadrage_css": "46% 31%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.09,
+          "ton": "moyen",
+          "recouvre_sujet": 0.37
+        },
+        {
+          "cote": "bas",
+          "score": 0.07,
+          "ton": "moyen",
+          "recouvre_sujet": 0.38
+        },
+        {
+          "cote": "gauche",
+          "score": 0.02,
+          "ton": "moyen",
+          "recouvre_sujet": 0.57
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.63
+        }
+      ],
+      "qualite": {
+        "nettete": 91.5,
+        "bruit": 3.37,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "DA GENEALO A · NUNARI",
+        "blocs": 2,
+        "surface": 24.8,
+        "details": [
+          {
+            "texte": "DA GENEALO A",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "NUNARI",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "198cb09ccc8e1555",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "003-depuis-des-siecles-une-zone-dans-le_02015223604.webp",
+      "nom": "003-depuis-des-siecles-une-zone-dans-le_02015223604",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 8216,
+      "transparence": false,
+      "sujet": {
+        "x": 11.8,
+        "y": 4.4,
+        "l": 42.6,
+        "h": 83.8,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        34,
+        44
+      ],
+      "cadrage_css": "34% 44%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.22,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "bas",
+          "score": 0.14,
+          "ton": "sombre",
+          "recouvre_sujet": 0.28
+        },
+        {
+          "cote": "haut",
+          "score": 0.09,
+          "ton": "sombre",
+          "recouvre_sujet": 0.37
+        },
+        {
+          "cote": "gauche",
+          "score": 0.01,
+          "ton": "sombre",
+          "recouvre_sujet": 0.59
+        }
+      ],
+      "qualite": {
+        "nettete": 103.5,
+        "bruit": 3.27,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LE TRIANGLE DES · ERMUDES · LATINAYSE?",
+        "blocs": 3,
+        "surface": 30.9,
+        "details": [
+          {
+            "texte": "LE TRIANGLE DES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "ERMUDES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "LATINAYSE?",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "54b6f0e8ccd0f855",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "004-blog-post.webp",
+      "nom": "004-blog-post",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 6834,
+      "transparence": false,
+      "sujet": {
+        "x": 0.6,
+        "y": 0,
+        "l": 99.4,
+        "h": 100,
+        "source": "visage"
+      },
+      "visages": 1,
+      "cadrage": [
+        52,
+        53
+      ],
+      "cadrage_css": "52% 53%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.99
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 1
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.99
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.99
+        }
+      ],
+      "qualite": {
+        "nettete": 80.2,
+        "bruit": 3.19,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "ES ANTARIENS",
+        "blocs": 1,
+        "surface": 11.7,
+        "details": [
+          {
+            "texte": "ES ANTARIENS",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "b0b0b8f0d8a9cd9e",
+      "drapeaux": [
+        "visage",
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "005-blog-post_03.webp",
+      "nom": "005-blog-post_03",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 7548,
+      "transparence": false,
+      "sujet": {
+        "x": 7.4,
+        "y": 65.6,
+        "l": 84.3,
+        "h": 31.4,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        46,
+        73
+      ],
+      "cadrage_css": "46% 73%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.26,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.19,
+          "ton": "moyen",
+          "recouvre_sujet": 0.26
+        },
+        {
+          "cote": "droite",
+          "score": 0.15,
+          "ton": "moyen",
+          "recouvre_sujet": 0.25
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.76
+        }
+      ],
+      "qualite": {
+        "nettete": 85.1,
+        "bruit": 3.48,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LE SPHINX · Monument Annunaki?",
+        "blocs": 2,
+        "surface": 25.5,
+        "details": [
+          {
+            "texte": "LE SPHINX",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Monument Annunaki?",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "b42bebbf3475f0a2",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "006-blog-post_742.webp",
+      "nom": "006-blog-post_742",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 6640,
+      "transparence": false,
+      "sujet": {
+        "x": 4.7,
+        "y": 11.3,
+        "l": 88.6,
+        "h": 65.3,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        44,
+        38
+      ],
+      "cadrage_css": "44% 38%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.1,
+          "ton": "moyen",
+          "recouvre_sujet": 0.29
+        },
+        {
+          "cote": "droite",
+          "score": 0.01,
+          "ton": "moyen",
+          "recouvre_sujet": 0.54
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.58
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.6
+        }
+      ],
+      "qualite": {
+        "nettete": 78.7,
+        "bruit": 3.15,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LE PROJET · SILVERBUG",
+        "blocs": 2,
+        "surface": 28.7,
+        "details": [
+          {
+            "texte": "LE PROJET",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "SILVERBUG",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "9cb0b0305e0fabfc",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "007-blog-post_563.webp",
+      "nom": "007-blog-post_563",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 7896,
+      "transparence": false,
+      "sujet": {
+        "x": 7.8,
+        "y": 38.4,
+        "l": 11,
+        "h": 32.7,
+        "source": "corps"
+      },
+      "visages": 1,
+      "cadrage": [
+        73,
+        43
+      ],
+      "cadrage_css": "73% 43%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.26,
+          "ton": "sombre",
+          "recouvre_sujet": 0.02
+        },
+        {
+          "cote": "haut",
+          "score": 0.24,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.21,
+          "ton": "sombre",
+          "recouvre_sujet": 0.09
+        },
+        {
+          "cote": "droite",
+          "score": 0.2,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        }
+      ],
+      "qualite": {
+        "nettete": 98.8,
+        "bruit": 3.4,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "MUNIAINS · ANTOS CHOSE?",
+        "blocs": 2,
+        "surface": 16.4,
+        "details": [
+          {
+            "texte": "MUNIAINS",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "ANTOS CHOSE?",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "cd0ba7a36327b2e8",
+      "drapeaux": [
+        "visage",
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "008-blog-post_642.webp",
+      "nom": "008-blog-post_642",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 6596,
+      "transparence": false,
+      "sujet": {
+        "x": 13.9,
+        "y": 0.1,
+        "l": 84.5,
+        "h": 56.9,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        43,
+        24
+      ],
+      "cadrage_css": "43% 24%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.21,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.07,
+          "ton": "moyen",
+          "recouvre_sujet": 0.37
+        },
+        {
+          "cote": "droite",
+          "score": 0.01,
+          "ton": "moyen",
+          "recouvre_sujet": 0.55
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.84
+        }
+      ],
+      "qualite": {
+        "nettete": 89.3,
+        "bruit": 2.61,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "AVONS · AUKCHBOIOGIQUES",
+        "blocs": 2,
+        "surface": 16.6,
+        "details": [
+          {
+            "texte": "AVONS",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "AUKCHBOIOGIQUES",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "1333610d19545d49",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "009-blog-post_04.webp",
+      "nom": "009-blog-post_04",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 7742,
+      "transparence": false,
+      "sujet": {
+        "x": 3.2,
+        "y": 1.6,
+        "l": 88.2,
+        "h": 85.1,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        45,
+        42
+      ],
+      "cadrage_css": "45% 42%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.04,
+          "ton": "sombre",
+          "recouvre_sujet": 0.55
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.78
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.67
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.84
+        }
+      ],
+      "qualite": {
+        "nettete": 101.8,
+        "bruit": 3.54,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "ES ALPHA · ACONIEN · CE APHA DRACOME",
+        "blocs": 3,
+        "surface": 20.5,
+        "details": [
+          {
+            "texte": "ES ALPHA",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "ACONIEN",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "CE APHA DRACOME",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "140918cc4c63f6d2",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "010-ce-dossier-archeologique-concernent.webp",
+      "nom": "010-ce-dossier-archeologique-concernent",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 6216,
+      "transparence": false,
+      "sujet": {
+        "x": 2.6,
+        "y": 1.9,
+        "l": 92.8,
+        "h": 68,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        44,
+        26
+      ],
+      "cadrage_css": "44% 26%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.22,
+          "ton": "sombre",
+          "recouvre_sujet": 0.13
+        },
+        {
+          "cote": "gauche",
+          "score": 0.05,
+          "ton": "sombre",
+          "recouvre_sujet": 0.64
+        },
+        {
+          "cote": "droite",
+          "score": 0.04,
+          "ton": "sombre",
+          "recouvre_sujet": 0.6
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.88
+        }
+      ],
+      "qualite": {
+        "nettete": 82.1,
+        "bruit": 2.67,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "serimel sai",
+        "blocs": 1,
+        "surface": 8.4,
+        "details": [
+          {
+            "texte": "serimel sai",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "f8b2b08cc1e0e4c4",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "011-blog-post_05.webp",
+      "nom": "011-blog-post_05",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 8178,
+      "transparence": false,
+      "sujet": {
+        "x": 3.2,
+        "y": 4.4,
+        "l": 57.6,
+        "h": 95.3,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        35,
+        51
+      ],
+      "cadrage_css": "35% 51%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.22,
+          "ton": "moyen",
+          "recouvre_sujet": 0.02
+        },
+        {
+          "cote": "haut",
+          "score": 0.04,
+          "ton": "moyen",
+          "recouvre_sujet": 0.5
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.88
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.57
+        }
+      ],
+      "qualite": {
+        "nettete": 107.2,
+        "bruit": 3.46,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LENEDENY · ZETATRERCUN · LE'ETRANGI · AVENTURI · BETTYAERARNEAHIC",
+        "blocs": 5,
+        "surface": 38.4,
+        "details": [
+          {
+            "texte": "LENEDENY",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "ZETATRERCUN",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "LE'ETRANGI",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "AVENTURI",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "BETTYAERARNEAHIC",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "ee3270f0f07b7972",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "012-blog-post_06.webp",
+      "nom": "012-blog-post_06",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 6954,
+      "transparence": false,
+      "sujet": {
+        "x": 7,
+        "y": 0,
+        "l": 65.2,
+        "h": 98.4,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        43,
+        36
+      ],
+      "cadrage_css": "43% 36%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.09,
+          "ton": "moyen",
+          "recouvre_sujet": 0.3
+        },
+        {
+          "cote": "bas",
+          "score": 0.02,
+          "ton": "sombre",
+          "recouvre_sujet": 0.62
+        },
+        {
+          "cote": "haut",
+          "score": 0.01,
+          "ton": "moyen",
+          "recouvre_sujet": 0.65
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.81
+        }
+      ],
+      "qualite": {
+        "nettete": 81.2,
+        "bruit": 2.97,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "MEKE · RAT EE · NTACTE · FFABULATEUR P",
+        "blocs": 4,
+        "surface": 30.9,
+        "details": [
+          {
+            "texte": "MEKE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "RAT EE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "NTACTE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "FFABULATEUR P",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "bb1b35d9c8f2f0f0",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "013-blog-post_07.webp",
+      "nom": "013-blog-post_07",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 5686,
+      "transparence": false,
+      "sujet": {
+        "x": 15.1,
+        "y": 0,
+        "l": 71.7,
+        "h": 98.4,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        48,
+        58
+      ],
+      "cadrage_css": "48% 58%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.13,
+          "ton": "sombre",
+          "recouvre_sujet": 0.61
+        },
+        {
+          "cote": "bas",
+          "score": 0.05,
+          "ton": "sombre",
+          "recouvre_sujet": 0.68
+        },
+        {
+          "cote": "droite",
+          "score": 0.01,
+          "ton": "moyen",
+          "recouvre_sujet": 0.66
+        },
+        {
+          "cote": "haut",
+          "score": 0.01,
+          "ton": "moyen",
+          "recouvre_sujet": 0.72
+        }
+      ],
+      "qualite": {
+        "nettete": 85.6,
+        "bruit": 2.89,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "CROP CIRQUEE",
+        "blocs": 1,
+        "surface": 10.4,
+        "details": [
+          {
+            "texte": "CROP CIRQUEE",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "fe5ffefcdef0b0f0",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "014-en-ufologie-lun-des-mysteres-les-plus.webp",
+      "nom": "014-en-ufologie-lun-des-mysteres-les-plus",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 8290,
+      "transparence": false,
+      "sujet": {
+        "x": 15,
+        "y": 14.6,
+        "l": 59.6,
+        "h": 82.2,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        42,
+        60
+      ],
+      "cadrage_css": "42% 60%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.1,
+          "ton": "moyen",
+          "recouvre_sujet": 0.3
+        },
+        {
+          "cote": "haut",
+          "score": 0.08,
+          "ton": "moyen",
+          "recouvre_sujet": 0.35
+        },
+        {
+          "cote": "gauche",
+          "score": 0.02,
+          "ton": "sombre",
+          "recouvre_sujet": 0.51
+        },
+        {
+          "cote": "bas",
+          "score": 0.01,
+          "ton": "moyen",
+          "recouvre_sujet": 0.54
+        }
+      ],
+      "qualite": {
+        "nettete": 107.5,
+        "bruit": 3.22,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LES GRIS",
+        "blocs": 1,
+        "surface": 16.7,
+        "details": [
+          {
+            "texte": "LES GRIS",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "e8eae2e9e8e8b2f0",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "015-durant-le-vingtieme-siecle-de-nombreux.webp",
+      "nom": "015-durant-le-vingtieme-siecle-de-nombreux",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 30146,
+      "transparence": false,
+      "sujet": {
+        "x": 5.5,
+        "y": 0.5,
+        "l": 89.4,
+        "h": 64.9,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        49,
+        34
+      ],
+      "cadrage_css": "49% 34%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.2,
+          "ton": "moyen",
+          "recouvre_sujet": 0.01
+        },
+        {
+          "cote": "droite",
+          "score": 0.02,
+          "ton": "moyen",
+          "recouvre_sujet": 0.57
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.56
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.88
+        }
+      ],
+      "qualite": {
+        "nettete": 118.8,
+        "bruit": 3.01,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "DOCUMENT D'ETUDE · SUR LES CAS OVNE · 1944-1976",
+        "blocs": 3,
+        "surface": 23.4,
+        "details": [
+          {
+            "texte": "DOCUMENT D'ETUDE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "SUR LES CAS OVNE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "1944-1976",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "aaaa72e9d0e86c72",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "016-blog-post_08.webp",
+      "nom": "016-blog-post_08",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 7866,
+      "transparence": false,
+      "sujet": {
+        "x": 16.4,
+        "y": 6.7,
+        "l": 69.7,
+        "h": 88.7,
+        "source": "visage"
+      },
+      "visages": 5,
+      "cadrage": [
+        51,
+        49
+      ],
+      "cadrage_css": "51% 49%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.02,
+          "ton": "moyen",
+          "recouvre_sujet": 0.52
+        },
+        {
+          "cote": "haut",
+          "score": 0.01,
+          "ton": "moyen",
+          "recouvre_sujet": 0.56
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.58
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.61
+        }
+      ],
+      "qualite": {
+        "nettete": 98.5,
+        "bruit": 3.59,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LESIS RIENS",
+        "blocs": 1,
+        "surface": 8.8,
+        "details": [
+          {
+            "texte": "LESIS RIENS",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "fcacaae4aceca4c4",
+      "drapeaux": [
+        "5 visages",
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "017-blog-post_391.webp",
+      "nom": "017-blog-post_391",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 8526,
+      "transparence": false,
+      "sujet": {
+        "x": 13.4,
+        "y": 0,
+        "l": 78.5,
+        "h": 24.9,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        50,
+        13
+      ],
+      "cadrage_css": "50% 13%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.22,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.17,
+          "ton": "moyen",
+          "recouvre_sujet": 0.2
+        },
+        {
+          "cote": "gauche",
+          "score": 0.16,
+          "ton": "moyen",
+          "recouvre_sujet": 0.17
+        },
+        {
+          "cote": "haut",
+          "score": 0.03,
+          "ton": "moyen",
+          "recouvre_sujet": 0.56
+        }
+      ],
+      "qualite": {
+        "nettete": 104.2,
+        "bruit": 3.69,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LE MYSTERIEUX · RAL CASILE",
+        "blocs": 2,
+        "surface": 17.9,
+        "details": [
+          {
+            "texte": "LE MYSTERIEUX",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "RAL CASILE",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "13615991a45194e1",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "018-blog-post_10.webp",
+      "nom": "018-blog-post_10",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 8152,
+      "transparence": false,
+      "sujet": {
+        "x": 8.6,
+        "y": 0,
+        "l": 80.1,
+        "h": 75.8,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        45,
+        31
+      ],
+      "cadrage_css": "45% 31%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.12,
+          "ton": "moyen",
+          "recouvre_sujet": 0.25
+        },
+        {
+          "cote": "gauche",
+          "score": 0.03,
+          "ton": "moyen",
+          "recouvre_sujet": 0.6
+        },
+        {
+          "cote": "droite",
+          "score": 0.02,
+          "ton": "moyen",
+          "recouvre_sujet": 0.54
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.8
+        }
+      ],
+      "qualite": {
+        "nettete": 99.1,
+        "bruit": 3.57,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "TESIN · DES · GONS",
+        "blocs": 3,
+        "surface": 9.5,
+        "details": [
+          {
+            "texte": "TESIN",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "DES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "GONS",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "b0f0e9c9ee8f6928",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "019-blog-post_758.webp",
+      "nom": "019-blog-post_758",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 8536,
+      "transparence": false,
+      "sujet": {
+        "x": 5.9,
+        "y": 1.5,
+        "l": 70.6,
+        "h": 85.3,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        46,
+        41
+      ],
+      "cadrage_css": "46% 41%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.11,
+          "ton": "sombre",
+          "recouvre_sujet": 0.35
+        },
+        {
+          "cote": "bas",
+          "score": 0.07,
+          "ton": "sombre",
+          "recouvre_sujet": 0.44
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.73
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.68
+        }
+      ],
+      "qualite": {
+        "nettete": 115.5,
+        "bruit": 3.52,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "72cac3f625d5d154",
+      "drapeaux": [
+        "petite"
+      ]
+    },
+    {
+      "fichier": "020-blog-post_69.webp",
+      "nom": "020-blog-post_69",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 5686,
+      "transparence": false,
+      "sujet": {
+        "x": 15.1,
+        "y": 0,
+        "l": 71.7,
+        "h": 98.4,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        48,
+        58
+      ],
+      "cadrage_css": "48% 58%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.13,
+          "ton": "sombre",
+          "recouvre_sujet": 0.61
+        },
+        {
+          "cote": "bas",
+          "score": 0.05,
+          "ton": "sombre",
+          "recouvre_sujet": 0.68
+        },
+        {
+          "cote": "droite",
+          "score": 0.01,
+          "ton": "moyen",
+          "recouvre_sujet": 0.66
+        },
+        {
+          "cote": "haut",
+          "score": 0.01,
+          "ton": "moyen",
+          "recouvre_sujet": 0.72
+        }
+      ],
+      "qualite": {
+        "nettete": 85.6,
+        "bruit": 2.89,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "CROP CIRQUEE",
+        "blocs": 1,
+        "surface": 10.4,
+        "details": [
+          {
+            "texte": "CROP CIRQUEE",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "fe5ffefcdef0b0f0",
+      "doublon_de": {
+        "fichier": "013-blog-post_07.webp",
+        "type": "doublon",
+        "distance": 0,
+        "ressemblance": 1
+      },
+      "drapeaux": [
+        "petite",
+        "texte décoratif",
+        "doublon de 013-blog-post_07.webp"
+      ]
+    },
+    {
+      "fichier": "021-blog-post_900.webp",
+      "nom": "021-blog-post_900",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 34520,
+      "transparence": false,
+      "sujet": {
+        "x": 13.3,
+        "y": 0,
+        "l": 80.1,
+        "h": 85.5,
+        "source": "visage"
+      },
+      "visages": 1,
+      "cadrage": [
+        53,
+        42
+      ],
+      "cadrage_css": "53% 42%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.04,
+          "ton": "moyen",
+          "recouvre_sujet": 0.47
+        },
+        {
+          "cote": "gauche",
+          "score": 0.01,
+          "ton": "sombre",
+          "recouvre_sujet": 0.57
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.71
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.8
+        }
+      ],
+      "qualite": {
+        "nettete": 91.1,
+        "bruit": 2.96,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LES ARCTURIENS",
+        "blocs": 1,
+        "surface": 14.9,
+        "details": [
+          {
+            "texte": "LES ARCTURIENS",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "d2b498d4dcc8c8b8",
+      "drapeaux": [
+        "visage",
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "022-charles-hall-et-sa-rencontre-avec-les.webp",
+      "nom": "022-charles-hall-et-sa-rencontre-avec-les",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 34300,
+      "transparence": false,
+      "sujet": {
+        "x": 17.1,
+        "y": 24.3,
+        "l": 63.9,
+        "h": 72.3,
+        "source": "visage"
+      },
+      "visages": 2,
+      "cadrage": [
+        49,
+        57
+      ],
+      "cadrage_css": "49% 57%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.13,
+          "ton": "moyen",
+          "recouvre_sujet": 0.2
+        },
+        {
+          "cote": "droite",
+          "score": 0.07,
+          "ton": "moyen",
+          "recouvre_sujet": 0.38
+        },
+        {
+          "cote": "gauche",
+          "score": 0.06,
+          "ton": "moyen",
+          "recouvre_sujet": 0.41
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.58
+        }
+      ],
+      "qualite": {
+        "nettete": 116.3,
+        "bruit": 3.03,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "La base de Nellis · efles Tall Whites",
+        "blocs": 2,
+        "surface": 25.1,
+        "details": [
+          {
+            "texte": "La base de Nellis",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "efles Tall Whites",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "f2b6e4eca8e9e8c8",
+      "drapeaux": [
+        "2 visages",
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "023-blog-post_13.webp",
+      "nom": "023-blog-post_13",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 36306,
+      "transparence": false,
+      "sujet": {
+        "x": 17.3,
+        "y": 2.8,
+        "l": 63.7,
+        "h": 91.8,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        47,
+        50
+      ],
+      "cadrage_css": "47% 50%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.05,
+          "ton": "moyen",
+          "recouvre_sujet": 0.52
+        },
+        {
+          "cote": "droite",
+          "score": 0.05,
+          "ton": "moyen",
+          "recouvre_sujet": 0.48
+        },
+        {
+          "cote": "bas",
+          "score": 0.04,
+          "ton": "sombre",
+          "recouvre_sujet": 0.54
+        },
+        {
+          "cote": "haut",
+          "score": 0.03,
+          "ton": "sombre",
+          "recouvre_sujet": 0.59
+        }
+      ],
+      "qualite": {
+        "nettete": 117,
+        "bruit": 3.5,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "PROJET · REDBOOK · MONDES SOUTERRAINS · ALIENS HUMAINS",
+        "blocs": 4,
+        "surface": 33.1,
+        "details": [
+          {
+            "texte": "PROJET",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "REDBOOK",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "MONDES SOUTERRAINS",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "ALIENS HUMAINS",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "aab24fc9c3d4f0f2",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "024-les-legendes-du-mont-kailash-le-mont.webp",
+      "nom": "024-les-legendes-du-mont-kailash-le-mont",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 35588,
+      "transparence": false,
+      "sujet": {
+        "x": 19.1,
+        "y": 0,
+        "l": 50.1,
+        "h": 85.8,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        45,
+        47
+      ],
+      "cadrage_css": "45% 47%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.14,
+          "ton": "sombre",
+          "recouvre_sujet": 0.2
+        },
+        {
+          "cote": "bas",
+          "score": 0.13,
+          "ton": "sombre",
+          "recouvre_sujet": 0.3
+        },
+        {
+          "cote": "gauche",
+          "score": 0.06,
+          "ton": "sombre",
+          "recouvre_sujet": 0.45
+        },
+        {
+          "cote": "haut",
+          "score": 0.04,
+          "ton": "sombre",
+          "recouvre_sujet": 0.5
+        }
+      ],
+      "qualite": {
+        "nettete": 106,
+        "bruit": 3.11,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LES LEGENDES · DU MONTIKATLASH. · Tg sommet spirituel · de la planète · Bonus : le Kalaisa Jemple",
+        "blocs": 5,
+        "surface": 47.4,
+        "details": [
+          {
+            "texte": "LES LEGENDES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "DU MONTIKATLASH.",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Tg sommet spirituel",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "de la planète",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Bonus : le Kalaisa Jemple",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "5670f09ff9f07031",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "025-lhistoire-des-hav-musuvs-selon-les.webp",
+      "nom": "025-lhistoire-des-hav-musuvs-selon-les",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 34148,
+      "transparence": false,
+      "sujet": {
+        "x": 39.5,
+        "y": 20.8,
+        "l": 53.4,
+        "h": 78.1,
+        "source": "corps"
+      },
+      "visages": 2,
+      "cadrage": [
+        62,
+        42
+      ],
+      "cadrage_css": "62% 42%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.21,
+          "ton": "moyen",
+          "recouvre_sujet": 0.01
+        },
+        {
+          "cote": "haut",
+          "score": 0.13,
+          "ton": "sombre",
+          "recouvre_sujet": 0.22
+        },
+        {
+          "cote": "bas",
+          "score": 0.05,
+          "ton": "moyen",
+          "recouvre_sujet": 0.52
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.64
+        }
+      ],
+      "qualite": {
+        "nettete": 104.4,
+        "bruit": 3.25,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "f2b0b8cceca4b85c",
+      "drapeaux": [
+        "2 visages",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "026-blog-post_14.webp",
+      "nom": "026-blog-post_14",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 35112,
+      "transparence": false,
+      "sujet": {
+        "x": 10.2,
+        "y": 2.7,
+        "l": 77.7,
+        "h": 66.7,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        48,
+        33
+      ],
+      "cadrage_css": "48% 33%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.21,
+          "ton": "moyen",
+          "recouvre_sujet": 0.1
+        },
+        {
+          "cote": "droite",
+          "score": 0.06,
+          "ton": "moyen",
+          "recouvre_sujet": 0.47
+        },
+        {
+          "cote": "gauche",
+          "score": 0.05,
+          "ton": "moyen",
+          "recouvre_sujet": 0.5
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.72
+        }
+      ],
+      "qualite": {
+        "nettete": 93.2,
+        "bruit": 3.18,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "71733757454b6961",
+      "drapeaux": [
+        "petite"
+      ]
+    },
+    {
+      "fichier": "027-les-gris-catalogue-des-especes-toute.webp",
+      "nom": "027-les-gris-catalogue-des-especes-toute",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 34990,
+      "transparence": false,
+      "sujet": {
+        "x": 16.2,
+        "y": 39.7,
+        "l": 51.5,
+        "h": 51.5,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        40,
+        68
+      ],
+      "cadrage_css": "40% 68%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.2,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.17,
+          "ton": "sombre",
+          "recouvre_sujet": 0.1
+        },
+        {
+          "cote": "gauche",
+          "score": 0.11,
+          "ton": "sombre",
+          "recouvre_sujet": 0.31
+        },
+        {
+          "cote": "bas",
+          "score": 0.09,
+          "ton": "sombre",
+          "recouvre_sujet": 0.39
+        }
+      ],
+      "qualite": {
+        "nettete": 101.9,
+        "bruit": 2.82,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "MAS GIRLS · CATALOGUBDES DIFFÉRENTES · ESPÈCES RECENSÉES",
+        "blocs": 3,
+        "surface": 26.6,
+        "details": [
+          {
+            "texte": "MAS GIRLS",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "CATALOGUBDES DIFFÉRENTES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "ESPÈCES RECENSÉES",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "56f1f4eeac347471",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "028-mohenjo-daro-site-detruit-par-une.webp",
+      "nom": "028-mohenjo-daro-site-detruit-par-une",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 36092,
+      "transparence": false,
+      "sujet": {
+        "x": 19.1,
+        "y": 5.9,
+        "l": 45.6,
+        "h": 80.9,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        42,
+        52
+      ],
+      "cadrage_css": "42% 52%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.21,
+          "ton": "moyen",
+          "recouvre_sujet": 0.1
+        },
+        {
+          "cote": "bas",
+          "score": 0.11,
+          "ton": "sombre",
+          "recouvre_sujet": 0.28
+        },
+        {
+          "cote": "haut",
+          "score": 0.09,
+          "ton": "moyen",
+          "recouvre_sujet": 0.38
+        },
+        {
+          "cote": "gauche",
+          "score": 0.07,
+          "ton": "moyen",
+          "recouvre_sujet": 0.42
+        }
+      ],
+      "qualite": {
+        "nettete": 123,
+        "bruit": 3.26,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "Site detruit · par une explosion · atomique?",
+        "blocs": 3,
+        "surface": 19.5,
+        "details": [
+          {
+            "texte": "Site detruit",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "par une explosion",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "atomique?",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "b0d482814b82b071",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "029-blog-post_15.webp",
+      "nom": "029-blog-post_15",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 39632,
+      "transparence": false,
+      "sujet": {
+        "x": 10.9,
+        "y": 15.5,
+        "l": 73.6,
+        "h": 84.4,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        46,
+        48
+      ],
+      "cadrage_css": "46% 48%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.09,
+          "ton": "sombre",
+          "recouvre_sujet": 0.41
+        },
+        {
+          "cote": "droite",
+          "score": 0.07,
+          "ton": "sombre",
+          "recouvre_sujet": 0.52
+        },
+        {
+          "cote": "gauche",
+          "score": 0.04,
+          "ton": "sombre",
+          "recouvre_sujet": 0.61
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.73
+        }
+      ],
+      "qualite": {
+        "nettete": 110.2,
+        "bruit": 3.63,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "MILLONDURE",
+        "blocs": 1,
+        "surface": 20,
+        "details": [
+          {
+            "texte": "MILLONDURE",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "d4b290d2ab47f1b4",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "030-les-enigmatiques-statues-japonaises.webp",
+      "nom": "030-les-enigmatiques-statues-japonaises",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 36664,
+      "transparence": false,
+      "sujet": {
+        "x": 6.5,
+        "y": 1.5,
+        "l": 86.9,
+        "h": 88.1,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        44,
+        30
+      ],
+      "cadrage_css": "44% 30%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.74
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.74
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.83
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.61
+        }
+      ],
+      "qualite": {
+        "nettete": 107,
+        "bruit": 3.58,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LES ENIGMAT QUES · STATUES DOGU",
+        "blocs": 2,
+        "surface": 16.6,
+        "details": [
+          {
+            "texte": "LES ENIGMAT QUES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "STATUES DOGU",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "b0b0b2b2a0b3b575",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "031-blog-post_17.webp",
+      "nom": "031-blog-post_17",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 5064,
+      "transparence": false,
+      "sujet": {
+        "x": 16.9,
+        "y": 21.7,
+        "l": 74.8,
+        "h": 69.5,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        52,
+        51
+      ],
+      "cadrage_css": "52% 51%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.19,
+          "ton": "sombre",
+          "recouvre_sujet": 0.28
+        },
+        {
+          "cote": "gauche",
+          "score": 0.17,
+          "ton": "sombre",
+          "recouvre_sujet": 0.4
+        },
+        {
+          "cote": "bas",
+          "score": 0.08,
+          "ton": "sombre",
+          "recouvre_sujet": 0.56
+        },
+        {
+          "cote": "droite",
+          "score": 0.05,
+          "ton": "sombre",
+          "recouvre_sujet": 0.55
+        }
+      ],
+      "qualite": {
+        "nettete": 73.4,
+        "bruit": 2.42,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "NEBU · ORIONI",
+        "blocs": 2,
+        "surface": 6.3,
+        "details": [
+          {
+            "texte": "NEBU",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "ORIONI",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "451d397153496971",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "032-blog-post_18.webp",
+      "nom": "032-blog-post_18",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 34662,
+      "transparence": false,
+      "sujet": {
+        "x": 13.2,
+        "y": 0,
+        "l": 74.3,
+        "h": 35.7,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        45,
+        19
+      ],
+      "cadrage_css": "45% 19%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.27,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.15,
+          "ton": "moyen",
+          "recouvre_sujet": 0.24
+        },
+        {
+          "cote": "droite",
+          "score": 0.13,
+          "ton": "moyen",
+          "recouvre_sujet": 0.25
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.74
+        }
+      ],
+      "qualite": {
+        "nettete": 85.2,
+        "bruit": 3.17,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "ded4a8dece6ef8a1",
+      "drapeaux": [
+        "petite"
+      ]
+    },
+    {
+      "fichier": "033-blog-post_19.webp",
+      "nom": "033-blog-post_19",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 36784,
+      "transparence": false,
+      "sujet": {
+        "x": 36.6,
+        "y": 0.3,
+        "l": 38.8,
+        "h": 48.3,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        48,
+        20
+      ],
+      "cadrage_css": "48% 20%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.25,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.2,
+          "ton": "moyen",
+          "recouvre_sujet": 0.04
+        },
+        {
+          "cote": "droite",
+          "score": 0.19,
+          "ton": "moyen",
+          "recouvre_sujet": 0.19
+        },
+        {
+          "cote": "haut",
+          "score": 0.08,
+          "ton": "moyen",
+          "recouvre_sujet": 0.38
+        }
+      ],
+      "qualite": {
+        "nettete": 99.5,
+        "bruit": 3.49,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "DRE PORTES DES DIEUX · EXURATERRESTRES",
+        "blocs": 2,
+        "surface": 19.6,
+        "details": [
+          {
+            "texte": "DRE PORTES DES DIEUX",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "EXURATERRESTRES",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "b25296809cf0f0f0",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "034-la-jason-society-et-le-nouvel-ordre.webp",
+      "nom": "034-la-jason-society-et-le-nouvel-ordre",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 4692,
+      "transparence": false,
+      "sujet": {
+        "x": 8.7,
+        "y": 27.2,
+        "l": 84.7,
+        "h": 53.4,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        50,
+        45
+      ],
+      "cadrage_css": "50% 45%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.13,
+          "ton": "clair",
+          "recouvre_sujet": 0.19
+        },
+        {
+          "cote": "bas",
+          "score": 0.07,
+          "ton": "moyen",
+          "recouvre_sujet": 0.38
+        },
+        {
+          "cote": "gauche",
+          "score": 0.05,
+          "ton": "moyen",
+          "recouvre_sujet": 0.42
+        },
+        {
+          "cote": "droite",
+          "score": 0.04,
+          "ton": "moyen",
+          "recouvre_sujet": 0.45
+        }
+      ],
+      "qualite": {
+        "nettete": 79,
+        "bruit": 2.04,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "138f0f711571170f",
+      "drapeaux": [
+        "petite"
+      ]
+    },
+    {
+      "fichier": "035-blog-post_20.webp",
+      "nom": "035-blog-post_20",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 37670,
+      "transparence": false,
+      "sujet": {
+        "x": 5.8,
+        "y": 0.5,
+        "l": 85.3,
+        "h": 68.9,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        42,
+        26
+      ],
+      "cadrage_css": "42% 26%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.17,
+          "ton": "moyen",
+          "recouvre_sujet": 0.11
+        },
+        {
+          "cote": "droite",
+          "score": 0.04,
+          "ton": "moyen",
+          "recouvre_sujet": 0.54
+        },
+        {
+          "cote": "gauche",
+          "score": 0.01,
+          "ton": "sombre",
+          "recouvre_sujet": 0.59
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.84
+        }
+      ],
+      "qualite": {
+        "nettete": 110.2,
+        "bruit": 3.28,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LES HUMANDIDES REPTILIENS · (dossiera de cas)",
+        "blocs": 2,
+        "surface": 16.2,
+        "details": [
+          {
+            "texte": "LES HUMANDIDES REPTILIENS",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "(dossiera de cas)",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "c6f1a88a9aba2a70",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "036-les-programmes-spatiaux-secrets-depuis.webp",
+      "nom": "036-les-programmes-spatiaux-secrets-depuis",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 35714,
+      "transparence": false,
+      "sujet": {
+        "x": 2,
+        "y": 0,
+        "l": 87.6,
+        "h": 35.8,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        47,
+        22
+      ],
+      "cadrage_css": "47% 22%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.21,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.13,
+          "ton": "sombre",
+          "recouvre_sujet": 0.26
+        },
+        {
+          "cote": "gauche",
+          "score": 0.08,
+          "ton": "moyen",
+          "recouvre_sujet": 0.34
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.88
+        }
+      ],
+      "qualite": {
+        "nettete": 113.7,
+        "bruit": 3.13,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LES PROGRAMMES · SPATIAU, SECRETS",
+        "blocs": 2,
+        "surface": 22.6,
+        "details": [
+          {
+            "texte": "LES PROGRAMMES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "SPATIAU, SECRETS",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "b0b0b2c8ea86ecb1",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "037-les-mysteres-du-plateau-dalbion-le.webp",
+      "nom": "037-les-mysteres-du-plateau-dalbion-le",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 38510,
+      "transparence": false,
+      "sujet": {
+        "x": 5.1,
+        "y": 2.5,
+        "l": 79.4,
+        "h": 30.1,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        45,
+        20
+      ],
+      "cadrage_css": "45% 20%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.2,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.14,
+          "ton": "moyen",
+          "recouvre_sujet": 0.18
+        },
+        {
+          "cote": "gauche",
+          "score": 0.11,
+          "ton": "moyen",
+          "recouvre_sujet": 0.26
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.68
+        }
+      ],
+      "qualite": {
+        "nettete": 112.1,
+        "bruit": 3.6,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LESIMLSUERES · PLATEAÚDALBION",
+        "blocs": 2,
+        "surface": 27.5,
+        "details": [
+          {
+            "texte": "LESIMLSUERES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "PLATEAÚDALBION",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "b9a3ece0c0b8d6a4",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "038-blog-post_21.webp",
+      "nom": "038-blog-post_21",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 39106,
+      "transparence": false,
+      "sujet": {
+        "x": 11.8,
+        "y": 4.4,
+        "l": 61.8,
+        "h": 63.2,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        41,
+        27
+      ],
+      "cadrage_css": "41% 27%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.24,
+          "ton": "moyen",
+          "recouvre_sujet": 0.05
+        },
+        {
+          "cote": "droite",
+          "score": 0.16,
+          "ton": "moyen",
+          "recouvre_sujet": 0.21
+        },
+        {
+          "cote": "gauche",
+          "score": 0.09,
+          "ton": "moyen",
+          "recouvre_sujet": 0.45
+        },
+        {
+          "cote": "haut",
+          "score": 0.04,
+          "ton": "moyen",
+          "recouvre_sujet": 0.54
+        }
+      ],
+      "qualite": {
+        "nettete": 123.1,
+        "bruit": 3.74,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "e2268352ccc4e431",
+      "drapeaux": [
+        "petite"
+      ]
+    },
+    {
+      "fichier": "039-loperation-highjump-en-1947-lamiral.webp",
+      "nom": "039-loperation-highjump-en-1947-lamiral",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 36128,
+      "transparence": false,
+      "sujet": {
+        "x": 19.1,
+        "y": 64.7,
+        "l": 47.1,
+        "h": 20.6,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        42,
+        75
+      ],
+      "cadrage_css": "42% 75%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.2,
+          "ton": "moyen",
+          "recouvre_sujet": 0.03
+        },
+        {
+          "cote": "haut",
+          "score": 0.2,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.17,
+          "ton": "moyen",
+          "recouvre_sujet": 0.11
+        },
+        {
+          "cote": "bas",
+          "score": 0.11,
+          "ton": "moyen",
+          "recouvre_sujet": 0.27
+        }
+      ],
+      "qualite": {
+        "nettete": 112.7,
+        "bruit": 3.4,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "e5a571f0e3e7f673",
+      "drapeaux": [
+        "petite"
+      ]
+    },
+    {
+      "fichier": "040-blog-post_22.webp",
+      "nom": "040-blog-post_22",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 3316,
+      "transparence": false,
+      "sujet": {
+        "x": 17.8,
+        "y": 26.9,
+        "l": 65.7,
+        "h": 62.8,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        49,
+        48
+      ],
+      "cadrage_css": "49% 48%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.52,
+          "ton": "sombre",
+          "recouvre_sujet": 0.37
+        },
+        {
+          "cote": "bas",
+          "score": 0.52,
+          "ton": "sombre",
+          "recouvre_sujet": 0.46
+        },
+        {
+          "cote": "haut",
+          "score": 0.51,
+          "ton": "sombre",
+          "recouvre_sujet": 0.15
+        },
+        {
+          "cote": "gauche",
+          "score": 0.5,
+          "ton": "sombre",
+          "recouvre_sujet": 0.35
+        }
+      ],
+      "qualite": {
+        "nettete": 40.5,
+        "bruit": 1.47,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "f0f071e5e9e8e033",
+      "drapeaux": [
+        "petite"
+      ]
+    },
+    {
+      "fichier": "041-blog-post_23.webp",
+      "nom": "041-blog-post_23",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 5250,
+      "transparence": false,
+      "sujet": {
+        "x": 9.4,
+        "y": 10.9,
+        "l": 84.9,
+        "h": 83.8,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        47,
+        48
+      ],
+      "cadrage_css": "47% 48%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.16,
+          "ton": "sombre",
+          "recouvre_sujet": 0.58
+        },
+        {
+          "cote": "gauche",
+          "score": 0.13,
+          "ton": "sombre",
+          "recouvre_sujet": 0.64
+        },
+        {
+          "cote": "droite",
+          "score": 0.09,
+          "ton": "sombre",
+          "recouvre_sujet": 0.72
+        },
+        {
+          "cote": "bas",
+          "score": 0.05,
+          "ton": "sombre",
+          "recouvre_sujet": 0.72
+        }
+      ],
+      "qualite": {
+        "nettete": 61.8,
+        "bruit": 2.79,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "d1715931717147d4",
+      "drapeaux": [
+        "petite"
+      ]
+    },
+    {
+      "fichier": "042-blog-post_548.webp",
+      "nom": "042-blog-post_548",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 37554,
+      "transparence": false,
+      "sujet": {
+        "x": 20.6,
+        "y": 3.3,
+        "l": 67.9,
+        "h": 33,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        46,
+        28
+      ],
+      "cadrage_css": "46% 28%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.28,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.2,
+          "ton": "sombre",
+          "recouvre_sujet": 0.16
+        },
+        {
+          "cote": "droite",
+          "score": 0.18,
+          "ton": "moyen",
+          "recouvre_sujet": 0.24
+        },
+        {
+          "cote": "haut",
+          "score": 0.02,
+          "ton": "sombre",
+          "recouvre_sujet": 0.61
+        }
+      ],
+      "qualite": {
+        "nettete": 100.7,
+        "bruit": 3.46,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LA BASE · DE PINE GAP · The bras Kapionnage · meventes Abatialie",
+        "blocs": 4,
+        "surface": 37.3,
+        "details": [
+          {
+            "texte": "LA BASE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "DE PINE GAP",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "The bras Kapionnage",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "meventes Abatialie",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "def1b0f8f9e4a3f4",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "043-la-bataille-de-dulc-e-la-plupart-des.webp",
+      "nom": "043-la-bataille-de-dulc-e-la-plupart-des",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 36218,
+      "transparence": false,
+      "sujet": {
+        "x": 10,
+        "y": 4.6,
+        "l": 72.2,
+        "h": 33.5,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        38,
+        27
+      ],
+      "cadrage_css": "38% 27%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.23,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.18,
+          "ton": "moyen",
+          "recouvre_sujet": 0.19
+        },
+        {
+          "cote": "gauche",
+          "score": 0.16,
+          "ton": "moyen",
+          "recouvre_sujet": 0.25
+        },
+        {
+          "cote": "haut",
+          "score": 0.01,
+          "ton": "moyen",
+          "recouvre_sujet": 0.63
+        }
+      ],
+      "qualite": {
+        "nettete": 94.4,
+        "bruit": 3.25,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "ALA TARE · ULCE",
+        "blocs": 2,
+        "surface": 16.5,
+        "details": [
+          {
+            "texte": "ALA TARE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "ULCE",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "33b23038a4f07077",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "044-blog-post_24.webp",
+      "nom": "044-blog-post_24",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 38292,
+      "transparence": false,
+      "sujet": {
+        "x": 16.5,
+        "y": 12,
+        "l": 65.4,
+        "h": 56.5,
+        "source": "visage"
+      },
+      "visages": 2,
+      "cadrage": [
+        49,
+        37
+      ],
+      "cadrage_css": "49% 37%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.23,
+          "ton": "moyen",
+          "recouvre_sujet": 0.07
+        },
+        {
+          "cote": "droite",
+          "score": 0.13,
+          "ton": "moyen",
+          "recouvre_sujet": 0.31
+        },
+        {
+          "cote": "gauche",
+          "score": 0.1,
+          "ton": "moyen",
+          "recouvre_sujet": 0.33
+        },
+        {
+          "cote": "haut",
+          "score": 0.06,
+          "ton": "moyen",
+          "recouvre_sujet": 0.43
+        }
+      ],
+      "qualite": {
+        "nettete": 98.8,
+        "bruit": 3.55,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "39b4b6b6e46515cc",
+      "drapeaux": [
+        "2 visages",
+        "petite"
+      ]
+    },
+    {
+      "fichier": "045-la-rencontre-reptilienne-de-pamela.webp",
+      "nom": "045-la-rencontre-reptilienne-de-pamela",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 36092,
+      "transparence": false,
+      "sujet": {
+        "x": 18.7,
+        "y": 0,
+        "l": 73.3,
+        "h": 75.3,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        45,
+        37
+      ],
+      "cadrage_css": "45% 37%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.18,
+          "ton": "sombre",
+          "recouvre_sujet": 0.22
+        },
+        {
+          "cote": "gauche",
+          "score": 0.13,
+          "ton": "sombre",
+          "recouvre_sujet": 0.4
+        },
+        {
+          "cote": "droite",
+          "score": 0.05,
+          "ton": "sombre",
+          "recouvre_sujet": 0.6
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.73
+        }
+      ],
+      "qualite": {
+        "nettete": 94.7,
+        "bruit": 3.29,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LE REPTIKIEN · PAMELA HAMILTOT",
+        "blocs": 2,
+        "surface": 25.2,
+        "details": [
+          {
+            "texte": "LE REPTIKIEN",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "PAMELA HAMILTOT",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "f4db73b7b270b4b4",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "046-le-projet-starchild-dans-les-annees.webp",
+      "nom": "046-le-projet-starchild-dans-les-annees",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 34472,
+      "transparence": false,
+      "sujet": {
+        "x": 0,
+        "y": 10.2,
+        "l": 100,
+        "h": 89.9,
+        "source": "visage"
+      },
+      "visages": 1,
+      "cadrage": [
+        51,
+        72
+      ],
+      "cadrage_css": "51% 72%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.9
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.9
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.71
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 1
+        }
+      ],
+      "qualite": {
+        "nettete": 76.8,
+        "bruit": 3.14,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "STARCHIED",
+        "blocs": 1,
+        "surface": 29.8,
+        "details": [
+          {
+            "texte": "STARCHIED",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "d4b092b294b3e2ec",
+      "drapeaux": [
+        "visage",
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "047-les-descendants-des-annunaki-la.webp",
+      "nom": "047-les-descendants-des-annunaki-la",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 35662,
+      "transparence": false,
+      "sujet": {
+        "x": 11.8,
+        "y": 4.4,
+        "l": 48.5,
+        "h": 51.5,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        37,
+        27
+      ],
+      "cadrage_css": "37% 27%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.25,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.24,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.07,
+          "ton": "moyen",
+          "recouvre_sujet": 0.36
+        },
+        {
+          "cote": "haut",
+          "score": 0.05,
+          "ton": "sombre",
+          "recouvre_sujet": 0.42
+        }
+      ],
+      "qualite": {
+        "nettete": 105.2,
+        "bruit": 3.61,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LES DESCENDANTS · DESI · ANNUNAK",
+        "blocs": 3,
+        "surface": 28.8,
+        "details": [
+          {
+            "texte": "LES DESCENDANTS",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "DESI",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "ANNUNAK",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "f26a464ea4a64407",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "048-blog-post_27.webp",
+      "nom": "048-blog-post_27",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 38866,
+      "transparence": false,
+      "sujet": {
+        "x": 2.9,
+        "y": 40.7,
+        "l": 93.4,
+        "h": 58.9,
+        "source": "corps"
+      },
+      "visages": 3,
+      "cadrage": [
+        50,
+        58
+      ],
+      "cadrage_css": "50% 58%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.23,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.02,
+          "ton": "moyen",
+          "recouvre_sujet": 0.53
+        },
+        {
+          "cote": "gauche",
+          "score": 0.01,
+          "ton": "moyen",
+          "recouvre_sujet": 0.55
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.92
+        }
+      ],
+      "qualite": {
+        "nettete": 99.3,
+        "bruit": 3.49,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "ENPISSAPTE",
+        "blocs": 1,
+        "surface": 20.5,
+        "details": [
+          {
+            "texte": "ENPISSAPTE",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "5612134c4a6d4955",
+      "drapeaux": [
+        "3 visages",
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "049-la-pyramides-des-acores-et-son.webp",
+      "nom": "049-la-pyramides-des-acores-et-son",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 36678,
+      "transparence": false,
+      "sujet": {
+        "x": 13.2,
+        "y": 0.6,
+        "l": 76.6,
+        "h": 96.2,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        46,
+        47
+      ],
+      "cadrage_css": "46% 47%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.64
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.72
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.75
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.7
+        }
+      ],
+      "qualite": {
+        "nettete": 117.2,
+        "bruit": 3.27,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "CONSTANRE · DES CORES",
+        "blocs": 2,
+        "surface": 22.2,
+        "details": [
+          {
+            "texte": "CONSTANRE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "DES CORES",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "1e5785c1e868f496",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "050-le-mystere-des-pierres-dica-les-pierres.webp",
+      "nom": "050-le-mystere-des-pierres-dica-les-pierres",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 34876,
+      "transparence": false,
+      "sujet": {
+        "x": 10.5,
+        "y": 3.9,
+        "l": 84.5,
+        "h": 93.3,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        47,
+        55
+      ],
+      "cadrage_css": "47% 55%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.69
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.82
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.75
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.78
+        }
+      ],
+      "qualite": {
+        "nettete": 103.3,
+        "bruit": 3.42,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LES 123R · HISTOIRE < THÉORIES · SYMBOLISMED",
+        "blocs": 3,
+        "surface": 30.8,
+        "details": [
+          {
+            "texte": "LES 123R",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "HISTOIRE < THÉORIES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "SYMBOLISMED",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "3073b797d8cdccf0",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "051-blog-post_28.webp",
+      "nom": "051-blog-post_28",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 34506,
+      "transparence": false,
+      "sujet": {
+        "x": 4.7,
+        "y": 3.2,
+        "l": 89.7,
+        "h": 93.6,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        49,
+        50
+      ],
+      "cadrage_css": "49% 50%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.83
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.8
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.81
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.81
+        }
+      ],
+      "qualite": {
+        "nettete": 105.6,
+        "bruit": 2.99,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LAS ALIEND · TRANSTRIPTS · PARTIR",
+        "blocs": 3,
+        "surface": 20.6,
+        "details": [
+          {
+            "texte": "LAS ALIEND",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "TRANSTRIPTS",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "PARTIR",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "c4b435e8ac94f4f0",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "052-blog-post_29.webp",
+      "nom": "052-blog-post_29",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 37586,
+      "transparence": false,
+      "sujet": {
+        "x": 19.1,
+        "y": 5.9,
+        "l": 39.7,
+        "h": 75,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        39,
+        46
+      ],
+      "cadrage_css": "39% 46%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.24,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "bas",
+          "score": 0.16,
+          "ton": "moyen",
+          "recouvre_sujet": 0.18
+        },
+        {
+          "cote": "gauche",
+          "score": 0.1,
+          "ton": "sombre",
+          "recouvre_sujet": 0.39
+        },
+        {
+          "cote": "haut",
+          "score": 0.1,
+          "ton": "sombre",
+          "recouvre_sujet": 0.33
+        }
+      ],
+      "qualite": {
+        "nettete": 128.8,
+        "bruit": 3.6,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LES ANCIENNES · CITES PERDUES · DI'NAROR EN AMAZONIE",
+        "blocs": 3,
+        "surface": 30.7,
+        "details": [
+          {
+            "texte": "LES ANCIENNES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "CITES PERDUES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "DI'NAROR EN AMAZONIE",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "f064e898d4749af0",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "053-la-fraternite-des-sept-rayons-solaires.webp",
+      "nom": "053-la-fraternite-des-sept-rayons-solaires",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 39744,
+      "transparence": false,
+      "sujet": {
+        "x": 4.3,
+        "y": 0,
+        "l": 88.6,
+        "h": 80.4,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        45,
+        27
+      ],
+      "cadrage_css": "45% 27%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.13,
+          "ton": "moyen",
+          "recouvre_sujet": 0.39
+        },
+        {
+          "cote": "droite",
+          "score": 0.01,
+          "ton": "moyen",
+          "recouvre_sujet": 0.66
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.72
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.89
+        }
+      ],
+      "qualite": {
+        "nettete": 141.1,
+        "bruit": 3.77,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": false,
+      "empreinte": "f4cebebce9ceeafc",
+      "drapeaux": [
+        "petite"
+      ]
+    },
+    {
+      "fichier": "054-les-bases-extraterrestres-aux-etats.webp",
+      "nom": "054-les-bases-extraterrestres-aux-etats",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 38814,
+      "transparence": false,
+      "sujet": {
+        "x": 9.9,
+        "y": 0,
+        "l": 78.7,
+        "h": 78.7,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        46,
+        40
+      ],
+      "cadrage_css": "46% 40%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.15,
+          "ton": "sombre",
+          "recouvre_sujet": 0.31
+        },
+        {
+          "cote": "gauche",
+          "score": 0.04,
+          "ton": "moyen",
+          "recouvre_sujet": 0.59
+        },
+        {
+          "cote": "droite",
+          "score": 0.04,
+          "ton": "moyen",
+          "recouvre_sujet": 0.56
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.79
+        }
+      ],
+      "qualite": {
+        "nettete": 127.9,
+        "bruit": 3.53,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LES BASES EXTRATERRESTRES · SUR TERRE · NETATS-UNIS · CETTE",
+        "blocs": 4,
+        "surface": 60.3,
+        "details": [
+          {
+            "texte": "LES BASES EXTRATERRESTRES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "SUR TERRE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "NETATS-UNIS",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "CETTE",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "c8ea91aab032b6aa",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "055-blog-post.webp",
+      "nom": "055-blog-post",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 30612,
+      "transparence": false,
+      "sujet": {
+        "x": 8.5,
+        "y": 0.1,
+        "l": 83.3,
+        "h": 90,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        45,
+        31
+      ],
+      "cadrage_css": "45% 31%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.71
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.72
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.83
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "clair",
+          "recouvre_sujet": 0.6
+        }
+      ],
+      "qualite": {
+        "nettete": 129.9,
+        "bruit": 2.25,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "BEP KOKORDY? EU · LES QUOTIEDOS · HISURRONAUTES",
+        "blocs": 3,
+        "surface": 29.5,
+        "details": [
+          {
+            "texte": "BEP KOKORDY? EU",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "LES QUOTIEDOS",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "HISURRONAUTES",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "4f235555552d0f17",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "056-les-alien-transcripts-rencontre-avec.webp",
+      "nom": "056-les-alien-transcripts-rencontre-avec",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 34192,
+      "transparence": false,
+      "sujet": {
+        "x": 8.3,
+        "y": 1.6,
+        "l": 79.1,
+        "h": 93.6,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        47,
+        55
+      ],
+      "cadrage_css": "47% 55%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.74
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.64
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.75
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.68
+        }
+      ],
+      "qualite": {
+        "nettete": 121.6,
+        "bruit": 3.13,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LES ALIEN · TRANSCRIPTS · DES EXTRATERRESTRES",
+        "blocs": 3,
+        "surface": 27.5,
+        "details": [
+          {
+            "texte": "LES ALIEN",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "TRANSCRIPTS",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "DES EXTRATERRESTRES",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "d4e0f0d4a8caf0f0",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "057-les-alien-transcript-linterviexw-avec.webp",
+      "nom": "057-les-alien-transcript-linterviexw-avec",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 35612,
+      "transparence": false,
+      "sujet": {
+        "x": 23.3,
+        "y": 17.1,
+        "l": 60.1,
+        "h": 64.2,
+        "source": "visage"
+      },
+      "visages": 1,
+      "cadrage": [
+        53,
+        51
+      ],
+      "cadrage_css": "53% 51%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.11,
+          "ton": "sombre",
+          "recouvre_sujet": 0.27
+        },
+        {
+          "cote": "bas",
+          "score": 0.11,
+          "ton": "moyen",
+          "recouvre_sujet": 0.28
+        },
+        {
+          "cote": "haut",
+          "score": 0.09,
+          "ton": "moyen",
+          "recouvre_sujet": 0.31
+        },
+        {
+          "cote": "droite",
+          "score": 0.08,
+          "ton": "sombre",
+          "recouvre_sujet": 0.38
+        }
+      ],
+      "qualite": {
+        "nettete": 117.4,
+        "bruit": 3.32,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LES ALIEN · TRANSCRIPUS · PARTIER · NTERVIEW DE · *EXTRATERRESTRE",
+        "blocs": 5,
+        "surface": 39.5,
+        "details": [
+          {
+            "texte": "LES ALIEN",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "TRANSCRIPUS",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "PARTIER",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "NTERVIEW DE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "*EXTRATERRESTRE",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "d6b0f0d6e4e1b2b2",
+      "drapeaux": [
+        "visage",
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "058-le-symbolisme-du-11-septembre-2001-y.webp",
+      "nom": "058-le-symbolisme-du-11-septembre-2001-y",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 33446,
+      "transparence": false,
+      "sujet": {
+        "x": 11.8,
+        "y": 0.6,
+        "l": 78.9,
+        "h": 83.3,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        47,
+        33
+      ],
+      "cadrage_css": "47% 33%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.08,
+          "ton": "moyen",
+          "recouvre_sujet": 0.43
+        },
+        {
+          "cote": "droite",
+          "score": 0.01,
+          "ton": "moyen",
+          "recouvre_sujet": 0.64
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.59
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.78
+        }
+      ],
+      "qualite": {
+        "nettete": 107.9,
+        "bruit": 2.95,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LE SYMBOLISME · SEPTEMBRE 2001",
+        "blocs": 2,
+        "surface": 28.4,
+        "details": [
+          {
+            "texte": "LE SYMBOLISME",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "SEPTEMBRE 2001",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "d6d0618e9c9c9296",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "059-lempreinte-des-dieux-similitudes.webp",
+      "nom": "059-lempreinte-des-dieux-similitudes",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 37302,
+      "transparence": false,
+      "sujet": {
+        "x": 0.7,
+        "y": 1.3,
+        "l": 69.8,
+        "h": 98.2,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        29,
+        57
+      ],
+      "cadrage_css": "29% 57%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.14,
+          "ton": "moyen",
+          "recouvre_sujet": 0.26
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.96
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.67
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.69
+        }
+      ],
+      "qualite": {
+        "nettete": 137.4,
+        "bruit": 3.46,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "CEMPREINTE · DES DIEUX. · Similitudes impossibles · wet incroyables",
+        "blocs": 4,
+        "surface": 49,
+        "details": [
+          {
+            "texte": "CEMPREINTE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "DES DIEUX.",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Similitudes impossibles",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "wet incroyables",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "71b0938183d05030",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "060-les-bases-extraterrestres-sur-terre.webp",
+      "nom": "060-les-bases-extraterrestres-sur-terre",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 37656,
+      "transparence": false,
+      "sujet": {
+        "x": 1.1,
+        "y": 11.5,
+        "l": 95.2,
+        "h": 70.5,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        44,
+        50
+      ],
+      "cadrage_css": "44% 50%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.05,
+          "ton": "moyen",
+          "recouvre_sujet": 0.46
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.69
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.64
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.64
+        }
+      ],
+      "qualite": {
+        "nettete": 128.4,
+        "bruit": 3.27,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LES BASSUR TERRESTRES · LA ZONE · SUD-AMERICAINE · Uruguay-Argentine · Antarctique",
+        "blocs": 5,
+        "surface": 56.8,
+        "details": [
+          {
+            "texte": "LES BASSUR TERRESTRES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "LA ZONE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "SUD-AMERICAINE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Uruguay-Argentine",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Antarctique",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "e824f5b233f46135",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "061-document-detudes-sur-les-cas-ovni-1980.webp",
+      "nom": "061-document-detudes-sur-les-cas-ovni-1980",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 28610,
+      "transparence": false,
+      "sujet": {
+        "x": 6.7,
+        "y": 3.1,
+        "l": 80.7,
+        "h": 51.9,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        44,
+        24
+      ],
+      "cadrage_css": "44% 24%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.23,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.12,
+          "ton": "sombre",
+          "recouvre_sujet": 0.36
+        },
+        {
+          "cote": "gauche",
+          "score": 0.07,
+          "ton": "sombre",
+          "recouvre_sujet": 0.43
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.74
+        }
+      ],
+      "qualite": {
+        "nettete": 110,
+        "bruit": 2,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "DOCUMENT D'ETUDE · SUR LES CAS OVNI · (1980-1994)",
+        "blocs": 3,
+        "surface": 28.1,
+        "details": [
+          {
+            "texte": "DOCUMENT D'ETUDE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "SUR LES CAS OVNI",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "(1980-1994)",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "aaae1e61e1e0694a",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "062-baalbeck-une-enigme-colossale-situee-1.webp",
+      "nom": "062-baalbeck-une-enigme-colossale-situee-1",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 35706,
+      "transparence": false,
+      "sujet": {
+        "x": 18,
+        "y": 0,
+        "l": 82,
+        "h": 97.9,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        52,
+        41
+      ],
+      "cadrage_css": "52% 41%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.04,
+          "ton": "moyen",
+          "recouvre_sujet": 0.54
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.98
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.82
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.77
+        }
+      ],
+      "qualite": {
+        "nettete": 121.3,
+        "bruit": 3.27,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "UNE ENIGME COLOSSALE",
+        "blocs": 1,
+        "surface": 10.2,
+        "details": [
+          {
+            "texte": "UNE ENIGME COLOSSALE",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "ea509c8aa2aa2e33",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "063-race-extraterrestre-les-andromediens.webp",
+      "nom": "063-race-extraterrestre-les-andromediens",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 35976,
+      "transparence": false,
+      "sujet": {
+        "x": 3.2,
+        "y": 9.7,
+        "l": 96.8,
+        "h": 72.6,
+        "source": "visage"
+      },
+      "visages": 2,
+      "cadrage": [
+        54,
+        48
+      ],
+      "cadrage_css": "54% 48%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.06,
+          "ton": "sombre",
+          "recouvre_sujet": 0.48
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.67
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.73
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.7
+        }
+      ],
+      "qualite": {
+        "nettete": 94.9,
+        "bruit": 3.26,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "ANDROMEDIENS",
+        "blocs": 1,
+        "surface": 12.1,
+        "details": [
+          {
+            "texte": "ANDROMEDIENS",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "a0d2c8cc94496d65",
+      "drapeaux": [
+        "2 visages",
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "064-federations-et-conseils-galactiques.webp",
+      "nom": "064-federations-et-conseils-galactiques",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 38948,
+      "transparence": false,
+      "sujet": {
+        "x": 10.3,
+        "y": 4.4,
+        "l": 57.4,
+        "h": 67.6,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        44,
+        38
+      ],
+      "cadrage_css": "44% 38%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.18,
+          "ton": "moyen",
+          "recouvre_sujet": 0.13
+        },
+        {
+          "cote": "bas",
+          "score": 0.17,
+          "ton": "moyen",
+          "recouvre_sujet": 0.11
+        },
+        {
+          "cote": "gauche",
+          "score": 0.05,
+          "ton": "moyen",
+          "recouvre_sujet": 0.5
+        },
+        {
+          "cote": "haut",
+          "score": 0.03,
+          "ton": "moyen",
+          "recouvre_sujet": 0.5
+        }
+      ],
+      "qualite": {
+        "nettete": 129.7,
+        "bruit": 3.45,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "CONSETES GALACTIQUES",
+        "blocs": 1,
+        "surface": 17.2,
+        "details": [
+          {
+            "texte": "CONSETES GALACTIQUES",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "f171d4b3b2755353",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "065-alien-transcript-4-rencontre-avec-riyah.webp",
+      "nom": "065-alien-transcript-4-rencontre-avec-riyah",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 37988,
+      "transparence": false,
+      "sujet": {
+        "x": 18.1,
+        "y": 0.3,
+        "l": 75.5,
+        "h": 99.6,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        56,
+        60
+      ],
+      "cadrage_css": "56% 60%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.01,
+          "ton": "moyen",
+          "recouvre_sujet": 0.55
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.84
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.75
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.75
+        }
+      ],
+      "qualite": {
+        "nettete": 127.2,
+        "bruit": 3.45,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "ES ALIEN · TRANSCRIPTS · PARTIE 4 · PREMIRE RENCONTRE",
+        "blocs": 4,
+        "surface": 37.5,
+        "details": [
+          {
+            "texte": "ES ALIEN",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "TRANSCRIPTS",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "PARTIE 4",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "PREMIRE RENCONTRE",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "f0e9eed4e0e2c9e0",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "066-la-technologie-occulte-derriere-les.webp",
+      "nom": "066-la-technologie-occulte-derriere-les",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 36758,
+      "transparence": false,
+      "sujet": {
+        "x": 10.3,
+        "y": 0,
+        "l": 82.1,
+        "h": 30.6,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        39,
+        15
+      ],
+      "cadrage_css": "39% 15%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.24,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.15,
+          "ton": "sombre",
+          "recouvre_sujet": 0.23
+        },
+        {
+          "cote": "droite",
+          "score": 0.14,
+          "ton": "moyen",
+          "recouvre_sujet": 0.25
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.72
+        }
+      ],
+      "qualite": {
+        "nettete": 128.3,
+        "bruit": 3.34,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "INTECHNONOEIE · DERRIERELES OVNIS",
+        "blocs": 2,
+        "surface": 39.3,
+        "details": [
+          {
+            "texte": "INTECHNONOEIE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "DERRIERELES OVNIS",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "d4f3a292b171f8f8",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "067-blue-planet-project-le-dossier-interdit.webp",
+      "nom": "067-blue-planet-project-le-dossier-interdit",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 37444,
+      "transparence": false,
+      "sujet": {
+        "x": 2.9,
+        "y": 0,
+        "l": 75,
+        "h": 93.6,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        42,
+        40
+      ],
+      "cadrage_css": "42% 40%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.05,
+          "ton": "moyen",
+          "recouvre_sujet": 0.42
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.87
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.75
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.61
+        }
+      ],
+      "qualite": {
+        "nettete": 108.9,
+        "bruit": 3.44,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "BLUE PLANET · PROJECT",
+        "blocs": 2,
+        "surface": 25.1,
+        "details": [
+          {
+            "texte": "BLUE PLANET",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "PROJECT",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "b4f232d0928af0c4",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "068-lhadjar-el-gouble-baalbeck-le-colosse.webp",
+      "nom": "068-lhadjar-el-gouble-baalbeck-le-colosse",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 36280,
+      "transparence": false,
+      "sujet": {
+        "x": 30.2,
+        "y": 0,
+        "l": 64.1,
+        "h": 28.4,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        52,
+        18
+      ],
+      "cadrage_css": "52% 18%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.22,
+          "ton": "moyen",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.2,
+          "ton": "moyen",
+          "recouvre_sujet": 0.07
+        },
+        {
+          "cote": "droite",
+          "score": 0.14,
+          "ton": "moyen",
+          "recouvre_sujet": 0.24
+        },
+        {
+          "cote": "haut",
+          "score": 0.03,
+          "ton": "moyen",
+          "recouvre_sujet": 0.52
+        }
+      ],
+      "qualite": {
+        "nettete": 125.5,
+        "bruit": 3.23,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "'HADJAR · ELL GOUBLE",
+        "blocs": 2,
+        "surface": 24.5,
+        "details": [
+          {
+            "texte": "'HADJAR",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "ELL GOUBLE",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "f231b3a08e3cd6f0",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "069-les-groupes-du-nouvel-ordre-mondial-les.webp",
+      "nom": "069-les-groupes-du-nouvel-ordre-mondial-les",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 37302,
+      "transparence": false,
+      "sujet": {
+        "x": 14.7,
+        "y": 4.4,
+        "l": 52.9,
+        "h": 83.8,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        42,
+        54
+      ],
+      "cadrage_css": "42% 54%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.14,
+          "ton": "moyen",
+          "recouvre_sujet": 0.16
+        },
+        {
+          "cote": "bas",
+          "score": 0.08,
+          "ton": "moyen",
+          "recouvre_sujet": 0.35
+        },
+        {
+          "cote": "haut",
+          "score": 0.04,
+          "ton": "moyen",
+          "recouvre_sujet": 0.46
+        },
+        {
+          "cote": "gauche",
+          "score": 0.01,
+          "ton": "moyen",
+          "recouvre_sujet": 0.53
+        }
+      ],
+      "qualite": {
+        "nettete": 137.5,
+        "bruit": 3.14,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "FOX-BA · FILLES · GROUPES · ORDREMONDIAL",
+        "blocs": 4,
+        "surface": 42.3,
+        "details": [
+          {
+            "texte": "FOX-BA",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "FILLES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "GROUPES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "ORDREMONDIAL",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "f0f0f0b29296d4f0",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "070-les-bases-extraterrestres-au-mexique.webp",
+      "nom": "070-les-bases-extraterrestres-au-mexique",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 37568,
+      "transparence": false,
+      "sujet": {
+        "x": 0.5,
+        "y": 0,
+        "l": 88.2,
+        "h": 87.4,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        41,
+        34
+      ],
+      "cadrage_css": "41% 34%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.07,
+          "ton": "moyen",
+          "recouvre_sujet": 0.56
+        },
+        {
+          "cote": "droite",
+          "score": 0.01,
+          "ton": "moyen",
+          "recouvre_sujet": 0.63
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.86
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.88
+        }
+      ],
+      "qualite": {
+        "nettete": 123.1,
+        "bruit": 3.63,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LES BASES EXURATERRESTRES · MEX QUE",
+        "blocs": 2,
+        "surface": 25.8,
+        "details": [
+          {
+            "texte": "LES BASES EXURATERRESTRES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "MEX QUE",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "cce6e698d06933e0",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "071-blue-planet-project-project-pulsar-les.webp",
+      "nom": "071-blue-planet-project-project-pulsar-les",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 38044,
+      "transparence": false,
+      "sujet": {
+        "x": 0.5,
+        "y": 0.8,
+        "l": 86.9,
+        "h": 95.4,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        45,
+        39
+      ],
+      "cadrage_css": "45% 39%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.94
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.65
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.85
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.77
+        }
+      ],
+      "qualite": {
+        "nettete": 108.8,
+        "bruit": 3.5,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "BLUE PLANET · PROJECT · PROJECT PULSAR",
+        "blocs": 3,
+        "surface": 40.1,
+        "details": [
+          {
+            "texte": "BLUE PLANET",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "PROJECT",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "PROJECT PULSAR",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "f0f0385ad2c8c8b6",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "072-australie-les-secrets-extraterrestres.webp",
+      "nom": "072-australie-les-secrets-extraterrestres",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 37018,
+      "transparence": false,
+      "sujet": {
+        "x": 6.6,
+        "y": 0.4,
+        "l": 84.6,
+        "h": 74,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        47,
+        31
+      ],
+      "cadrage_css": "47% 31%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.14,
+          "ton": "moyen",
+          "recouvre_sujet": 0.23
+        },
+        {
+          "cote": "droite",
+          "score": 0.01,
+          "ton": "moyen",
+          "recouvre_sujet": 0.58
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.62
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.84
+        }
+      ],
+      "qualite": {
+        "nettete": 128.7,
+        "bruit": 3.4,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "EXTRATERRE SIRES · SUR TERRE · AUSTRALIE · Australle du sud",
+        "blocs": 4,
+        "surface": 43.4,
+        "details": [
+          {
+            "texte": "EXTRATERRE SIRES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "SUR TERRE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "AUSTRALIE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "Australle du sud",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "927a7e65b5b4588c",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "073-denver-laeroport-aux-secrets.webp",
+      "nom": "073-denver-laeroport-aux-secrets",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 35402,
+      "transparence": false,
+      "sujet": {
+        "x": 4.6,
+        "y": 0.4,
+        "l": 95.4,
+        "h": 85.8,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        45,
+        50
+      ],
+      "cadrage_css": "45% 50%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.01,
+          "ton": "moyen",
+          "recouvre_sujet": 0.58
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.76
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.86
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.94
+        }
+      ],
+      "qualite": {
+        "nettete": 106.8,
+        "bruit": 3.02,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "DYNEROPORT · DE DENVER · LES SYMBULISME:",
+        "blocs": 3,
+        "surface": 24.2,
+        "details": [
+          {
+            "texte": "DYNEROPORT",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "DE DENVER",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "LES SYMBULISME:",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "f0928ae498aaf6b2",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "074-alien-transcript-5-le-dossier.webp",
+      "nom": "074-alien-transcript-5-le-dossier",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 34818,
+      "transparence": false,
+      "sujet": {
+        "x": 9.6,
+        "y": 20.3,
+        "l": 90.2,
+        "h": 79.7,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        49,
+        62
+      ],
+      "cadrage_css": "49% 62%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.07,
+          "ton": "moyen",
+          "recouvre_sujet": 0.38
+        },
+        {
+          "cote": "gauche",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.61
+        },
+        {
+          "cote": "droite",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.79
+        },
+        {
+          "cote": "bas",
+          "score": 0,
+          "ton": "moyen",
+          "recouvre_sujet": 0.9
+        }
+      ],
+      "qualite": {
+        "nettete": 128.4,
+        "bruit": 3.28,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LES · ALIEN · TRANSCRIPTS · RULES · ME DES · ONCLUSIONS",
+        "blocs": 6,
+        "surface": 29.2,
+        "details": [
+          {
+            "texte": "LES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "ALIEN",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "TRANSCRIPTS",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "RULES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "ME DES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "ONCLUSIONS",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "94f0e8cce8d292d2",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "075-les-races-extraterrestres-insectoides.webp",
+      "nom": "075-les-races-extraterrestres-insectoides",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 33734,
+      "transparence": false,
+      "sujet": {
+        "x": 8.8,
+        "y": 0,
+        "l": 89.7,
+        "h": 32,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        47,
+        19
+      ],
+      "cadrage_css": "47% 19%",
+      "zones_calmes": [
+        {
+          "cote": "bas",
+          "score": 0.24,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "gauche",
+          "score": 0.14,
+          "ton": "sombre",
+          "recouvre_sujet": 0.25
+        },
+        {
+          "cote": "droite",
+          "score": 0.11,
+          "ton": "sombre",
+          "recouvre_sujet": 0.31
+        },
+        {
+          "cote": "haut",
+          "score": 0,
+          "ton": "sombre",
+          "recouvre_sujet": 0.82
+        }
+      ],
+      "qualite": {
+        "nettete": 116.3,
+        "bruit": 2.93,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "EXTRATERRESTRE. · INSECTOIDES",
+        "blocs": 2,
+        "surface": 31.6,
+        "details": [
+          {
+            "texte": "EXTRATERRESTRE.",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "INSECTOIDES",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "b2f0babaa4e6c39a",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "076-et-si-la-lune-nous-cachait-quelque.webp",
+      "nom": "076-et-si-la-lune-nous-cachait-quelque",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 31624,
+      "transparence": false,
+      "sujet": {
+        "x": 33.8,
+        "y": 4.4,
+        "l": 32.4,
+        "h": 88.2,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        50,
+        59
+      ],
+      "cadrage_css": "50% 59%",
+      "zones_calmes": [
+        {
+          "cote": "gauche",
+          "score": 0.15,
+          "ton": "sombre",
+          "recouvre_sujet": 0.14
+        },
+        {
+          "cote": "droite",
+          "score": 0.15,
+          "ton": "sombre",
+          "recouvre_sujet": 0.14
+        },
+        {
+          "cote": "bas",
+          "score": 0.11,
+          "ton": "sombre",
+          "recouvre_sujet": 0.26
+        },
+        {
+          "cote": "haut",
+          "score": 0.1,
+          "ton": "moyen",
+          "recouvre_sujet": 0.28
+        }
+      ],
+      "qualite": {
+        "nettete": 121.9,
+        "bruit": 3.11,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "ANOMALIES · LUN: · MIRES · SUA ROSES TIRION TRA",
+        "blocs": 4,
+        "surface": 31.5,
+        "details": [
+          {
+            "texte": "ANOMALIES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "LUN:",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "MIRES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "SUA ROSES TIRION TRA",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "f0f694cc465357d4",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    },
+    {
+      "fichier": "077-la-terre-creuse-et-si-notre-planete.webp",
+      "nom": "077-la-terre-creuse-et-si-notre-planete",
+      "drapeau": null,
+      "largeur": 128,
+      "hauteur": 128,
+      "ratio": "1:1",
+      "ratio_valeur": 1,
+      "orientation": "carre",
+      "format": "webp",
+      "poids": 38450,
+      "transparence": false,
+      "sujet": {
+        "x": 20.6,
+        "y": 2.9,
+        "l": 54.4,
+        "h": 85.3,
+        "source": "saillance"
+      },
+      "visages": 0,
+      "cadrage": [
+        47,
+        51
+      ],
+      "cadrage_css": "47% 51%",
+      "zones_calmes": [
+        {
+          "cote": "droite",
+          "score": 0.1,
+          "ton": "moyen",
+          "recouvre_sujet": 0.32
+        },
+        {
+          "cote": "bas",
+          "score": 0.08,
+          "ton": "sombre",
+          "recouvre_sujet": 0.36
+        },
+        {
+          "cote": "gauche",
+          "score": 0.07,
+          "ton": "sombre",
+          "recouvre_sujet": 0.41
+        },
+        {
+          "cote": "haut",
+          "score": 0.03,
+          "ton": "moyen",
+          "recouvre_sujet": 0.5
+        }
+      ],
+      "qualite": {
+        "nettete": 134,
+        "bruit": 3.57,
+        "compression": 1,
+        "faible": true,
+        "raisons": [
+          "128 px de large"
+        ]
+      },
+      "lisible": {
+        "niveau": "decoratif",
+        "a_verifier": false,
+        "texte": "LA TERRE · CREUSE · THEORIESCIMAGES · LES DOUZE ENTREES",
+        "blocs": 4,
+        "surface": 52,
+        "details": [
+          {
+            "texte": "LA TERRE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "CREUSE",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "THEORIESCIMAGES",
+            "niveau": "decoratif"
+          },
+          {
+            "texte": "LES DOUZE ENTREES",
+            "niveau": "decoratif"
+          }
+        ]
+      },
+      "empreinte": "f871f0f0d4f8f8b2",
+      "drapeaux": [
+        "petite",
+        "texte décoratif"
+      ]
+    }
+  ]
+}

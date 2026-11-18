@@ -1,0 +1,15 @@
+{
+  "nom": "Fencer’s Files",
+  "adresse": "https://fencersfiles-maquette.vercel.app",
+  "siteActuel": "fencersfiles.blogspot.com",
+  "version": 1,
+  "langues": ["fr"],
+  "navigation": ["accueil", "dossiers", "auteur"],
+  "actionEntete": { "page": "auteur", "ancre": "ecrire" },
+  "couleurs": { "fond": "#f1ece1", "texte": "#14171c", "voile": "#14171c", "ouverture": "#14171c", "menu": "#14171c", "theme": "#14171c" },
+  "formeVoile": "rideau",
+  "contact": { "email": "fencerya@gmail.com" },
+  "polices": ["/assets/fonts/big-shoulders-display-latin-800-normal.woff2"],
+  "imagePartage": "grok/accueil-ouverture-1280.webp",
+  "curseur": false
+}

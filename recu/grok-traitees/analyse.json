@@ -1,0 +1,79 @@
+{
+  "dossier": "/home/claude/projets/fencersfiles-maquette/recu/grok-traitees",
+  "date": "2026-11-17T17:48:01.055Z",
+  "detection": "mesures sharp seulement",
+  "planches": [
+    "planche.jpg"
+  ],
+  "legende_planche": "cadre jaune : sujet ; croix rouge : cadrage ; fond rose : à vérifier",
+  "doublons": [],
+  "images": [
+    {
+      "fichier": "accueil-transcripts.jpg",
+      "nom": "accueil-transcripts",
+      "drapeau": null,
+      "largeur": 1920,
+      "hauteur": 1080,
+      "ratio": "16:9",
+      "ratio_valeur": 1.778,
+      "orientation": "paysage",
+      "format": "jpeg",
+      "poids": 318903,
+      "transparence": false,
+      "sujet": {
+        "x": 9.4,
+        "y": 38.9,
+        "l": 90.6,
+        "h": 61.1,
+        "source": "contrastes"
+      },
+      "visages": 0,
+      "cadrage": [
+        58,
+        78
+      ],
+      "cadrage_css": "58% 78%",
+      "zones_calmes": [
+        {
+          "cote": "haut",
+          "score": 0.9,
+          "ton": "sombre",
+          "recouvre_sujet": 0
+        },
+        {
+          "cote": "droite",
+          "score": 0.53,
+          "ton": "sombre",
+          "recouvre_sujet": 0.61
+        },
+        {
+          "cote": "gauche",
+          "score": 0.51,
+          "ton": "sombre",
+          "recouvre_sujet": 0.47
+        },
+        {
+          "cote": "bas",
+          "score": 0.17,
+          "ton": "sombre",
+          "recouvre_sujet": 0.91
+        }
+      ],
+      "qualite": {
+        "nettete": 9.1,
+        "bruit": 0.95,
+        "compression": 1.63,
+        "faible": true,
+        "raisons": [
+          "compression visible"
+        ]
+      },
+      "lisible": null,
+      "empreinte": "9edadcd4e4e06b31",
+      "drapeaux": [
+        "compression visible",
+        "calme haut"
+      ]
+    }
+  ]
+}

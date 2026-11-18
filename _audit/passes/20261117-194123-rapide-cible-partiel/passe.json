@@ -1,0 +1,16 @@
+{
+ "id": "20261117-194123-rapide-cible-partiel",
+ "date": "2026-11-17T19:42:01.285Z",
+ "niveau": "rapide",
+ "pages": "/,/auteur,/dossiers,/dossiers/la-terre-creuse",
+ "etapes": [
+  "fichiers",
+  "mesures"
+ ],
+ "version": "1",
+ "echecs": 105,
+ "aRegarder": 7,
+ "nonLances": 0,
+ "manquants": 0,
+ "statut": "échecs"
+}

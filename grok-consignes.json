@@ -1,0 +1,140 @@
+{
+  "client": "Fencer's Files",
+  "activite": "média",
+  "direction": "Les dossiers",
+  "date": "2026-11-17T17:48:15.287Z",
+  "images": [
+    {
+      "nom": "accueil-ouverture",
+      "fichier": "accueil-ouverture.jpg",
+      "page": "Accueil",
+      "emplacement": "ouverture, fond derrière le dernier dossier (ordinateur)",
+      "role": "ouverture",
+      "format": "16:9",
+      "grok": "1168×784",
+      "priorite": "Indispensable",
+      "gabarit": "ouverture",
+      "pieges": [],
+      "consigne": "Three-quarter view of a private home study desk at night, seen slightly from above: on the right side, a neat stack of plain buff kraft card folders with blank index tabs, one folder lying half open and completely empty, an old brass desk lamp casting a warm pool of light on them, the whole left half of the frame a calm dark wooden desktop falling into deep shadow, a modest private desk and nothing like an office or a police room. Wide horizontal composition, aspect ratio 16:9, main subject well inside the central area with generous margins on every side, so the image can be cropped, generous empty space on the left third of the frame for a title. Modern editorial documentary photograph, full-frame camera, 35mm lens, quiet, nocturnal, investigative, like a private archive kept by a lifelong enthusiast mood, palette of deep ink black (#14171C), warm off-white (#F1ECE1), cream card, one very small accent of stamp red (#D63C25), one warm low light source only (a desk lamp indoors, the last dusk light outdoors), deep soft shadows, no neon, no green glow, tactile aged paper, dark wood, brushed steel, rough stone, set in a quiet private place far from any city, nothing like a government office, a newsroom or a film set on a clear autumn evening, fine film grain, shallow depth of field, calm and credible, clean composition with generous negative space. No readable headline, no newspaper title, no readable print, no screen content, no on-air sign with letters, no real journalist, no real place presented as news, no logo on microphones. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "accueil-ouverture",
+      "fichier": "accueil-ouverture-mobile.jpg",
+      "page": "Accueil",
+      "emplacement": "ouverture, fond derrière le dernier dossier (téléphone)",
+      "role": "ouverture",
+      "format": "9:16",
+      "grok": "784×1168",
+      "priorite": "Indispensable",
+      "gabarit": "ouverture",
+      "pieges": [],
+      "consigne": "Three-quarter view of a private home study desk at night, seen slightly from above: on the right side, a neat stack of plain buff kraft card folders with blank index tabs, one folder lying half open and completely empty, an old brass desk lamp casting a warm pool of light on them, the whole left half of the frame a calm dark wooden desktop falling into deep shadow, a modest private desk and nothing like an office or a police room. Vertical composition, aspect ratio 9:16, highest resolution available, at least 1080 pixels wide, main subject well inside the central area with generous margins on every side, so the image can be cropped, main subject in the lower half, quiet uncluttered area in the upper half for a title. Modern editorial documentary photograph, full-frame camera, 35mm lens, quiet, nocturnal, investigative, like a private archive kept by a lifelong enthusiast mood, palette of deep ink black (#14171C), warm off-white (#F1ECE1), cream card, one very small accent of stamp red (#D63C25), one warm low light source only (a desk lamp indoors, the last dusk light outdoors), deep soft shadows, no neon, no green glow, tactile aged paper, dark wood, brushed steel, rough stone, set in a quiet private place far from any city, nothing like a government office, a newsroom or a film set on a clear autumn evening, fine film grain, shallow depth of field, calm and credible, clean composition with generous negative space. No readable headline, no newspaper title, no readable print, no screen content, no on-air sign with letters, no real journalist, no real place presented as news, no logo on microphones. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "accueil-megalithes",
+      "fichier": "accueil-megalithes-mobile.jpg",
+      "page": "Accueil",
+      "emplacement": "bande plein écran Anciennes civilisations (téléphone)",
+      "role": "section-fond",
+      "format": "9:16",
+      "grok": "784×1168",
+      "priorite": "Indispensable",
+      "gabarit": "section-fond",
+      "pieges": [
+        "visages"
+      ],
+      "consigne": "Low-angle view of three colossal rough-cut rectangular stone blocks stacked in an ancient unnamed quarry at dusk, weathered pale limestone with deep tool marks, one tiny distant human silhouette seen from behind standing at their foot to give the scale, a clear darkening sky with the very first stars, dry bare ground, an invented site that copies no real monument and no real ruin. Vertical composition, aspect ratio 9:16, highest resolution available, at least 1080 pixels wide, main subject well inside the central area with generous margins on every side, so the image can be cropped, main subject in the lower half, quiet uncluttered area in the upper half for a title. Modern editorial documentary photograph, full-frame camera, 35mm lens, quiet, nocturnal, investigative, like a private archive kept by a lifelong enthusiast mood, palette of deep ink black (#14171C), warm off-white (#F1ECE1), cream card, one very small accent of stamp red (#D63C25), one warm low light source only (a desk lamp indoors, the last dusk light outdoors), deep soft shadows, no neon, no green glow, tactile aged paper, dark wood, brushed steel, rough stone, set in a quiet private place far from any city, nothing like a government office, a newsroom or a film set on a clear autumn evening, fine film grain, shallow depth of field, calm and credible, clean composition with generous negative space. No readable headline, no newspaper title, no readable print, no screen content, no on-air sign with letters, no real journalist, no real place presented as news, no logo on microphones. Seen strictly from behind, face never visible, head turned away, or cropped at the shoulders. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "dossiers-ouverture",
+      "fichier": "dossiers-ouverture.jpg",
+      "page": "Les dossiers",
+      "emplacement": "ouverture, bandeau sous le grand titre (ordinateur)",
+      "role": "ouverture",
+      "format": "16:9",
+      "grok": "1168×784",
+      "priorite": "Indispensable",
+      "gabarit": "ouverture",
+      "pieges": [],
+      "consigne": "Close view from above into one open drawer of an old dark steel filing cabinet in a private study, the drawer tightly filled with hanging buff kraft card folders receding into soft focus, every index tab blank cream card with nothing written, one folder pulled up slightly higher than the others, warm lamp light from one side, the top third of the frame dark and calm. Wide horizontal composition, aspect ratio 16:9, main subject well inside the central area with generous margins on every side, so the image can be cropped, quiet uncluttered area in the upper half for a title. Modern editorial documentary photograph, full-frame camera, 35mm lens, quiet, nocturnal, investigative, like a private archive kept by a lifelong enthusiast mood, palette of deep ink black (#14171C), warm off-white (#F1ECE1), cream card, one very small accent of stamp red (#D63C25), one warm low light source only (a desk lamp indoors, the last dusk light outdoors), deep soft shadows, no neon, no green glow, tactile aged paper, dark wood, brushed steel, rough stone, set in a quiet private place far from any city, nothing like a government office, a newsroom or a film set on a clear autumn evening, fine film grain, shallow depth of field, calm and credible, clean composition with generous negative space. No readable headline, no newspaper title, no readable print, no screen content, no on-air sign with letters, no real journalist, no real place presented as news, no logo on microphones. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "dossiers-ouverture",
+      "fichier": "dossiers-ouverture-mobile.jpg",
+      "page": "Les dossiers",
+      "emplacement": "ouverture, bandeau sous le grand titre (téléphone)",
+      "role": "ouverture",
+      "format": "9:16",
+      "grok": "784×1168",
+      "priorite": "Indispensable",
+      "gabarit": "ouverture",
+      "pieges": [],
+      "consigne": "Close view from above into one open drawer of an old dark steel filing cabinet in a private study, the drawer tightly filled with hanging buff kraft card folders receding into soft focus, every index tab blank cream card with nothing written, one folder pulled up slightly higher than the others, warm lamp light from one side, the top third of the frame dark and calm. Vertical composition, aspect ratio 9:16, highest resolution available, at least 1080 pixels wide, main subject well inside the central area with generous margins on every side, so the image can be cropped, main subject in the lower half, quiet uncluttered area in the upper half for a title. Modern editorial documentary photograph, full-frame camera, 35mm lens, quiet, nocturnal, investigative, like a private archive kept by a lifelong enthusiast mood, palette of deep ink black (#14171C), warm off-white (#F1ECE1), cream card, one very small accent of stamp red (#D63C25), one warm low light source only (a desk lamp indoors, the last dusk light outdoors), deep soft shadows, no neon, no green glow, tactile aged paper, dark wood, brushed steel, rough stone, set in a quiet private place far from any city, nothing like a government office, a newsroom or a film set on a clear autumn evening, fine film grain, shallow depth of field, calm and credible, clean composition with generous negative space. No readable headline, no newspaper title, no readable print, no screen content, no on-air sign with letters, no real journalist, no real place presented as news, no logo on microphones. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "accueil-transcripts",
+      "fichier": "accueil-transcripts-v2.jpg",
+      "page": "Accueil",
+      "emplacement": "fond de la série Alien Transcripts",
+      "role": "section-fond",
+      "format": "16:9",
+      "grok": "1168×784",
+      "priorite": "Indispensable",
+      "gabarit": "section-fond",
+      "pieges": [],
+      "consigne": "Side view of a vintage reel-to-reel tape recorder standing on a dark wooden table in a small quiet room at night, placed in the right half of the frame, the whole machine in crisp sharp focus with fine detail on the two tape reels and the brushed steel, lit by one warm lamp, a few blank sheets of paper stacked beside it, the left half and the upper part of the frame a plain dark wall in shadow with nothing on it, no picture, no window, no shape in the background, nobody in the room. Wide horizontal composition, aspect ratio 16:9, main subject well inside the central area with generous margins on every side, so the image can be cropped, quiet uncluttered area in the upper half for a title. Modern editorial documentary photograph, full-frame camera, 35mm lens, quiet, nocturnal, investigative, like a private archive kept by a lifelong enthusiast mood, palette of deep ink black (#14171C), warm off-white (#F1ECE1), cream card, one very small accent of stamp red (#D63C25), one warm low light source only (a desk lamp indoors, the last dusk light outdoors), deep soft shadows, no neon, no green glow, tactile aged paper, dark wood, brushed steel, rough stone, set in a quiet private place far from any city, nothing like a government office, a newsroom or a film set on a clear autumn evening, fine film grain, shallow depth of field, calm and credible, clean composition with generous negative space. No readable headline, no newspaper title, no readable print, no screen content, no on-air sign with letters, no real journalist, no real place presented as news, no logo on microphones. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "accueil-megalithes",
+      "fichier": "accueil-megalithes-v2.jpg",
+      "page": "Accueil",
+      "emplacement": "bande plein écran Anciennes civilisations (ordinateur)",
+      "role": "section-fond",
+      "format": "16:9",
+      "grok": "1168×784",
+      "priorite": "Indispensable",
+      "gabarit": "section-fond",
+      "pieges": [],
+      "consigne": "A single ancient dolmen alone on a rocky moss-covered hilltop at dusk, seen from a low angle: one huge flat capstone resting on four rough upright stones, placed in the right half of the frame, the whole left half open sky with soft orange and pink dusk clouds above distant dark hills, the very first stars, the same monument as a lone megalithic tomb and nothing else, not Stonehenge, no stone circle, no row of standing stones, no second monument, nobody in the frame. Wide horizontal composition, aspect ratio 16:9, main subject well inside the central area with generous margins on every side, so the image can be cropped, generous empty space on the left third of the frame for a title. Modern editorial documentary photograph, full-frame camera, 35mm lens, quiet, nocturnal, investigative, like a private archive kept by a lifelong enthusiast mood, palette of deep ink black (#14171C), warm off-white (#F1ECE1), cream card, one very small accent of stamp red (#D63C25), one warm low light source only (a desk lamp indoors, the last dusk light outdoors), deep soft shadows, no neon, no green glow, tactile aged paper, dark wood, brushed steel, rough stone, set in a quiet private place far from any city, nothing like a government office, a newsroom or a film set on a clear autumn evening, fine film grain, shallow depth of field, calm and credible, clean composition with generous negative space. No readable headline, no newspaper title, no readable print, no screen content, no on-air sign with letters, no real journalist, no real place presented as news, no logo on microphones. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "auteur-ouverture",
+      "fichier": "auteur-ouverture-v2.jpg",
+      "page": "L'auteur et contact",
+      "emplacement": "ouverture (ordinateur)",
+      "role": "ouverture",
+      "format": "16:9",
+      "grok": "1168×784",
+      "priorite": "Indispensable",
+      "gabarit": "ouverture",
+      "pieges": [],
+      "consigne": "Real long-exposure night photograph of a vast clear sky dense with sharp pinpoint stars and a soft natural band of the Milky Way rising from the right, above a low line of dark rolling hills, a thin warm glow along the horizon, the whole left half of the frame open dark sky, a true astrophotograph with fine natural grain and not an illustration, no flat vector shapes, nobody in the frame, the sky completely natural with no craft, no beam and no strange light. Wide horizontal composition, aspect ratio 16:9, main subject well inside the central area with generous margins on every side, so the image can be cropped, generous empty space on the left third of the frame for a title. Modern editorial documentary photograph, full-frame camera, 35mm lens, quiet, nocturnal, investigative, like a private archive kept by a lifelong enthusiast mood, palette of deep ink black (#14171C), warm off-white (#F1ECE1), cream card, one very small accent of stamp red (#D63C25), one warm low light source only (a desk lamp indoors, the last dusk light outdoors), deep soft shadows, no neon, no green glow, tactile aged paper, dark wood, brushed steel, rough stone, set in a quiet private place far from any city, nothing like a government office, a newsroom or a film set on a clear autumn evening, fine film grain, shallow depth of field, calm and credible, clean composition with generous negative space. No readable headline, no newspaper title, no readable print, no screen content, no on-air sign with letters, no real journalist, no real place presented as news, no logo on microphones. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "auteur-ouverture",
+      "fichier": "auteur-ouverture-mobile-v2.jpg",
+      "page": "L'auteur et contact",
+      "emplacement": "ouverture (téléphone)",
+      "role": "ouverture",
+      "format": "9:16",
+      "grok": "784×1168",
+      "priorite": "Indispensable",
+      "gabarit": "ouverture",
+      "pieges": [],
+      "consigne": "Real long-exposure night photograph of a vast clear sky dense with sharp pinpoint stars and a soft natural band of the Milky Way rising from the right, above a low line of dark rolling hills, a thin warm glow along the horizon, the whole left half of the frame open dark sky, a true astrophotograph with fine natural grain and not an illustration, no flat vector shapes, nobody in the frame, the sky completely natural with no craft, no beam and no strange light. Vertical composition, aspect ratio 9:16, highest resolution available, at least 1080 pixels wide, main subject well inside the central area with generous margins on every side, so the image can be cropped, main subject in the lower half, quiet uncluttered area in the upper half for a title. Modern editorial documentary photograph, full-frame camera, 35mm lens, quiet, nocturnal, investigative, like a private archive kept by a lifelong enthusiast mood, palette of deep ink black (#14171C), warm off-white (#F1ECE1), cream card, one very small accent of stamp red (#D63C25), one warm low light source only (a desk lamp indoors, the last dusk light outdoors), deep soft shadows, no neon, no green glow, tactile aged paper, dark wood, brushed steel, rough stone, set in a quiet private place far from any city, nothing like a government office, a newsroom or a film set on a clear autumn evening, fine film grain, shallow depth of field, calm and credible, clean composition with generous negative space. No readable headline, no newspaper title, no readable print, no screen content, no on-air sign with letters, no real journalist, no real place presented as news, no logo on microphones. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    },
+    {
+      "nom": "commun-404",
+      "fichier": "commun-404-v2.jpg",
+      "page": "404",
+      "emplacement": "tête de page",
+      "role": "404",
+      "format": "16:9",
+      "grok": "1168×784",
+      "priorite": "Conseillée",
+      "gabarit": "404",
+      "pieges": [],
+      "consigne": "Real photograph looking straight into one open drawer of an old dark steel filing cabinet: a tight row of worn buff kraft card folders standing upright with blank tabs, softly out of focus at both ends, and one clear empty gap in the middle where a single folder is missing, a thin shaft of warm lamp light falling exactly into the gap, real paper texture with worn edges and dust, the upper part of the frame dark and calm, a true photograph and not an illustration, not flat vector art, no glass case, no display box, no frame around the drawer. Wide horizontal composition, aspect ratio 16:9, main subject well inside the central area with generous margins on every side, so the image can be cropped, quiet uncluttered area in the upper half for a title. Modern editorial documentary photograph, full-frame camera, 35mm lens, quiet, nocturnal, investigative, like a private archive kept by a lifelong enthusiast mood, palette of deep ink black (#14171C), warm off-white (#F1ECE1), cream card, one very small accent of stamp red (#D63C25), one warm low light source only (a desk lamp indoors, the last dusk light outdoors), deep soft shadows, no neon, no green glow, tactile aged paper, dark wood, brushed steel, rough stone, set in a quiet private place far from any city, nothing like a government office, a newsroom or a film set on a clear autumn evening, fine film grain, shallow depth of field, calm and credible, clean composition with generous negative space. No readable headline, no newspaper title, no readable print, no screen content, no on-air sign with letters, no real journalist, no real place presented as news, no logo on microphones. No text, no letters, no numbers, no logos, no brand names, no signage, no watermark, no signature, no recognizable person, no visible face, no real or famous people, not a specific real building or landmark."
+    }
+  ]
+}

@@ -1,0 +1,3608 @@
+{
+ "total": 76,
+ "sansRubrique": 10,
+ "rubriques": [
+  {
+   "nom": "vie extraterrestre",
+   "cle": "vie-extraterrestre",
+   "nombre": 32
+  },
+  {
+   "nom": "histoire secrète",
+   "cle": "histoire-secrete",
+   "nombre": 16
+  },
+  {
+   "nom": "anciennes civilisations",
+   "cle": "anciennes-civilisations",
+   "nombre": 15
+  },
+  {
+   "nom": "ovni",
+   "cle": "ovni",
+   "nombre": 12
+  },
+  {
+   "nom": "bases secrètes",
+   "cle": "bases-secretes",
+   "nombre": 8
+  },
+  {
+   "nom": "faits mystérieux",
+   "cle": "faits-mysterieux",
+   "nombre": 4
+  },
+  {
+   "nom": "symbolisme",
+   "cle": "symbolisme",
+   "nombre": 3
+  },
+  {
+   "nom": "archéologie",
+   "cle": "archeologie",
+   "nombre": 2
+  },
+  {
+   "nom": "lieux mystérieux",
+   "cle": "lieux-mysterieux",
+   "nombre": 2
+  },
+  {
+   "nom": "théorie du complot",
+   "cle": "theorie-du-complot",
+   "nombre": 2
+  },
+  {
+   "nom": "cryptozoologie",
+   "cle": "cryptozoologie",
+   "nombre": 1
+  },
+  {
+   "nom": "espace",
+   "cle": "espace",
+   "nombre": 1
+  }
+ ],
+ "liste": [
+  {
+   "numero": "076",
+   "billet": "077",
+   "slug": "la-terre-creuse",
+   "titre": "La Terre creuse",
+   "accroche": "LA TERRE CREUSE – ET SI NOTRE PLANÈTE CACHAIT UN MONDE INCONNU EN SON SEIN ?",
+   "texte": [
+    {
+     "t": "Et si la Terre n’était pas exactement ce que nous imaginons ? Depuis des siècles, une théorie fascinante alimente les récits les plus mystérieux : celle d’un monde souterrain, dissimulé au cœur même de notre planète.",
+     "fort": false
+    },
+    {
+     "t": "Civilisations oubliées, vastes cavités souterraines, passages secrets, Agartha, Shambhala… Que racontent les anciennes légendes et les théories entourant cet univers mystérieux ?",
+     "fort": false
+    },
+    {
+     "t": "Des explorations polaires aux récits ésotériques, partez à la découverte des grandes énigmes de la Terre creuse.",
+     "fort": false
+    },
+    {
+     "t": "Existe-t-il un monde caché sous nos pieds, ou sommes-nous face à l’une des plus grandes légendes de l’histoire ?",
+     "fort": false
+    },
+    {
+     "t": "LE MONDE INTÉRIEUR : UN MYSTÈRE QUI N’A PAS FINI DE FAIRE PARLER DE LUI !",
+     "fort": true
+    },
+    {
+     "t": "OSEZ EXPLORER LES SECRETS DE NOTRE PLANÈTE !",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "histoire secrète",
+    "lieux mystérieux"
+   ],
+   "date": "2026-11-17",
+   "dateTexte": "17 novembre 2026",
+   "dateCourte": "17 nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/d264tt8dagbrk2pycxb1d/la-th-orie-de-la-terre-creuse.pdf?rlkey=put4va0clvaf5cd9jvc38on4p&st=m7va6z60&dl=0",
+   "drive": "1R2M4w6MSMbzxfdpIbAOyRu6LZUQ1loSz",
+   "source": "https://fencersfiles.blogspot.com/2026/11/la-terre-creuse-et-si-notre-planete.html",
+   "image": "couv/d076",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "075",
+   "billet": "076",
+   "slug": "les-anomalies-lunaires",
+   "titre": "Les anomalies lunaires",
+   "accroche": "ET SI LA LUNE NOUS CACHAIT QUELQUE CHOSE ?",
+   "texte": [
+    {
+     "t": "Des structures mystérieuses, des lumières insolites, des formations troublantes… Depuis des décennies, certaines images lunaires alimentent les plus grandes interrogations.",
+     "fort": false
+    },
+    {
+     "t": "Simple illusion d’optique ? Phénomènes naturels méconnus ? Ou anomalies qui méritent une enquête approfondie ?",
+     "fort": false
+    },
+    {
+     "t": "Que se cache-t-il réellement à la surface de notre satellite ?",
+     "fort": false
+    },
+    {
+     "t": "Dans ce nouveau dossier de FENCER’S FILES, plongez au cœur des photographies les plus énigmatiques de la Lune et explorez les hypothèses qui alimentent ces fascinantes énigmes.",
+     "fort": false
+    },
+    {
+     "t": "REGARDEZ LA LUNE AUTREMENT… SES MYSTÈRES NE FONT QUE COMMENCER !",
+     "fort": true
+    },
+    {
+     "t": "À VOUS DE MENER L’ENQUÊTE !",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "espace",
+    "histoire secrète",
+    "vie extraterrestre"
+   ],
+   "date": "2026-11-16",
+   "dateTexte": "16 novembre 2026",
+   "dateCourte": "16 nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/8beluf2rolfhrenviytet/Les-anomalies-lunaires.pdf?rlkey=w6dpiemwtf5v4mppjh2ms9szh&st=wutgiidp&dl=0",
+   "drive": "1Rr4P9JbFdH1y587VPgMMKg4BLtedVbxE",
+   "source": "https://fencersfiles.blogspot.com/2026/11/et-si-la-lune-nous-cachait-quelque.html",
+   "image": "couv/d075",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "074",
+   "billet": "075",
+   "slug": "les-races-extraterrestres-insectoides",
+   "titre": "Les races extraterrestres insectoïdes",
+   "accroche": "LES RACES EXTRATERRESTRES INSECTOÏDES – À LA DÉCOUVERTE DES VISITEURS LES PLUS ÉNIGMATIQUES DU COSMOS !",
+   "texte": [
+    {
+     "t": "Étranges, fascinants et mystérieux, les Insectoïdes occupent une place particulière dans les récits ufologiques consacrés aux civilisations extraterrestres.",
+     "fort": false
+    },
+    {
+     "t": "Qui seraient ces êtres à l’apparence insectoïde ? D’où viendraient-ils ? Quelles seraient leurs caractéristiques, leurs origines et leurs intentions supposées ?",
+     "fort": false
+    },
+    {
+     "t": "À travers ce nouveau dossier, partez à la découverte des différentes descriptions, témoignages et théories entourant ces mystérieuses entités.",
+     "fort": false
+    },
+    {
+     "t": "Une plongée au cœur de l’inconnu, aux frontières de l’ufologie et des mystères extraterrestres !",
+     "fort": false
+    },
+    {
+     "t": "Osez explorer ce que nous ne connaissons pas encore !",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "vie extraterrestre"
+   ],
+   "date": "2026-11-15",
+   "dateTexte": "15 novembre 2026",
+   "dateCourte": "15 nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/h7b92dhab3i4qpfkbcc0k/les-races-extraterrestres-insectoides.pdf?rlkey=s2iebk5qstlrgjgro4ih3187a&st=3al6xwof&dl=0",
+   "drive": "1RKzLaQaVjfdYX0U18KqBE0BzO6gvWs3S",
+   "source": "https://fencersfiles.blogspot.com/2026/11/les-races-extraterrestres-insectoides.html",
+   "image": "couv/d074",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "073",
+   "billet": "074",
+   "slug": "alien-transcripts-5-resume-des-conclusions",
+   "titre": "Alien Transcripts 5 : résumé des conclusions",
+   "accroche": "ALIEN TRANSCRIPT 5",
+   "texte": [
+    {
+     "t": "LE MESSAGE INTERDIT",
+     "fort": true
+    },
+    {
+     "t": "Et si certains témoignages pouvaient nous apporter un éclairage inédit sur le phénomène extraterrestre ?",
+     "fort": false
+    },
+    {
+     "t": "Avec ce cinquième volet de la série ALIEN TRANSCRIPT, plongez dans un nouvel épisode consacré aux récits, aux déclarations et aux mystérieuses informations attribuées à des intelligences non humaines.",
+     "fort": false
+    },
+    {
+     "t": "Quels secrets pourraient se cacher derrière ces échanges ? Quelles révélations sont avancées ? Et surtout, que faut-il penser de ces témoignages troublants ?",
+     "fort": false
+    },
+    {
+     "t": "Entre confidences, mystères extraterrestres et interrogations sur notre place dans l’univers, ce nouveau dossier vous invite à poursuivre l’exploration de l’une des énigmes les plus fascinantes de l’ufologie.",
+     "fort": false
+    },
+    {
+     "t": "Le voile se lève-t-il progressivement sur une réalité qui nous échappe encore ?",
+     "fort": false
+    },
+    {
+     "t": "Découvrez le cinquième volet de la série ALIEN TRANSCRIPT sur Fencer’s Files !",
+     "fort": false
+    },
+    {
+     "t": "FENCER’S FILES – Les mystères ne font que commencer…",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "histoire secrète",
+    "vie extraterrestre"
+   ],
+   "date": "2026-11-13",
+   "dateTexte": "13 novembre 2026",
+   "dateCourte": "13 nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/2e4u08u99kdfopl0ql51e/alien-transcripts-5-r-sum-des-conclusions.pdf?rlkey=5q5gay6u82mt7y65ffh0xuavd&st=6yp18994&dl=0",
+   "drive": "19nbvior5Nm40MP-1lb4mXxagGc2gvg4-",
+   "source": "https://fencersfiles.blogspot.com/2026/11/alien-transcript-5-le-dossier.html",
+   "image": "couv/d073",
+   "discret": false,
+   "serie": "alien-transcripts"
+  },
+  {
+   "numero": "072",
+   "billet": "073",
+   "slug": "l-aeroport-de-denver",
+   "titre": "L’aéroport de Denver",
+   "accroche": "DENVER : L’AÉROPORT AUX SECRETS INAVOUABLES",
+   "texte": [
+    {
+     "t": "Inauguré en 1995, l’aéroport international de Denver, aux États-Unis, est devenu au fil des années l’un des lieux les plus énigmatiques et controversés de la planète.",
+     "fort": false
+    },
+    {
+     "t": "Fresques murales inquiétantes, symboles mystérieux, gargouilles, cheval bleu surnommé « Blucifer », réseaux de tunnels souterrains et théories sur d’éventuelles installations secrètes… cet immense complexe nourrit les spéculations les plus surprenantes.",
+     "fort": false
+    },
+    {
+     "t": "Pourquoi son architecture et certaines de ses œuvres suscitent-elles autant de questions ? Que se cache-t-il réellement derrière les nombreuses légendes qui entourent cet aéroport ?",
+     "fort": false
+    },
+    {
+     "t": "Entre faits documentés, symbolisme, rumeurs et théories du complot, partez à la découverte d’un lieu où le réel semble parfois rejoindre l’inexplicable.",
+     "fort": false
+    },
+    {
+     "t": "Et si l’aéroport de Denver cachait une histoire bien plus étonnante que celle d’un simple terminal aérien ?",
+     "fort": false
+    },
+    {
+     "t": "Découvrez notre dossier complet sur Fencer’s Files !",
+     "fort": false
+    },
+    {
+     "t": "FENCER’S FILES – Explorez les mystères derrière les apparences.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "histoire secrète",
+    "symbolisme",
+    "théorie du complot"
+   ],
+   "date": "2026-11-13",
+   "dateTexte": "13 novembre 2026",
+   "dateCourte": "13 nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/k4v4rr2fnpumc4qwueydq/les-tranges-muraux-de-l-a-roport-de-Denver.pdf?rlkey=3zqjveqlv3b9s7yajzr572zxc&st=t0lz4pxv&dl=0",
+   "drive": "1e02XTFGQob-mSLFfqKyQUJW44hGVHZce",
+   "source": "https://fencersfiles.blogspot.com/2026/11/denver-laeroport-aux-secrets.html",
+   "image": "couv/d072",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "071",
+   "billet": "072",
+   "slug": "les-bases-extraterrestres-en-australie",
+   "titre": "Les bases extraterrestres en Australie",
+   "accroche": "L’Australie serait-elle simplement une terre de mystères… ou le théâtre d’une histoire encore méconnue ?",
+   "texte": [
+    {
+     "t": "AUSTRALIE : LES SECRETS EXTRATERRESTRES ENFOUIS DU CONTINENT ROUGEL’Australie, avec ses immenses étendues désertiques, ses territoires isolés et ses installations militaires reculées, nourrit depuis longtemps les récits les plus intrigants liés au phénomène OVNI.",
+     "fort": false
+    },
+    {
+     "t": "Des observations inexpliquées aux témoignages troublants, en passant par les mystérieuses installations souterraines et les théories concernant d’éventuelles présences extraterrestres, le continent australien occupe une place particulière dans l’imaginaire ufologique.",
+     "fort": false
+    },
+    {
+     "t": "Quels secrets pourraient se cacher dans ces régions reculées ? Certaines zones abriteraient-elles des installations inconnues du grand public ? Existe-t-il des éléments sérieux permettant d’étayer ces hypothèses ?",
+     "fort": false
+    },
+    {
+     "t": "Dans ce dossier, partez à la découverte des lieux mystérieux, des témoignages et des théories qui alimentent l’une des grandes énigmes de l’ufologie australienne.",
+     "fort": false
+    },
+    {
+     "t": "Découvrez notre enquête sur Fencer’s Files !",
+     "fort": false
+    },
+    {
+     "t": "FENCER’S FILES – Explorez les mystères au-delà des frontières du connu.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "bases secrètes",
+    "ovni",
+    "vie extraterrestre"
+   ],
+   "date": "2026-11-13",
+   "dateTexte": "13 novembre 2026",
+   "dateCourte": "13 nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/3jkhw20ll0r8yp8nenmsg/les-bases-extraterrestres-en-australie.pdf?rlkey=op2ey42plpm1jwfhsrtj8yg47&st=lcy3gukq&dl=0",
+   "drive": "1yT9vEMBTdY8G-PliWnNfP3oIxeIcdirs",
+   "source": "https://fencersfiles.blogspot.com/2026/11/australie-les-secrets-extraterrestres.html",
+   "image": "couv/d071",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "070",
+   "billet": "071",
+   "slug": "blue-planet-project-project-pulsar",
+   "titre": "Blue Planet Project : Project Pulsar",
+   "accroche": "BLUE PLANET PROJECT – PROJECT PULSAR : LES SECRETS D’UN PROGRAMME CLASSIFIÉ ?",
+   "texte": [
+    {
+     "t": "Et si certains des plus grands mystères liés au phénomène extraterrestre étaient dissimulés derrière des programmes secrets ?",
+     "fort": false
+    },
+    {
+     "t": "Ce dossier vous plonge dans l’univers énigmatique du Blue Planet Project et du Project Pulsar : documents controversés, théories sur les technologies extraterrestres, présumés programmes confidentiels et révélations attribuées à des sources mystérieuses.",
+     "fort": false
+    },
+    {
+     "t": "Quels secrets se cachent derrière ces appellations ? S’agit-il de simples spéculations ou de pistes méritant d’être examinées ?",
+     "fort": false
+    },
+    {
+     "t": "Un dossier fascinant à découvrir pour tous les passionnés d’ufologie, de mystères et de phénomènes inexpliqués.",
+     "fort": false
+    },
+    {
+     "t": "Retrouvez ce nouveau dossier sur Fencer’s Files.",
+     "fort": false
+    },
+    {
+     "t": "Les réponses sont peut-être plus mystérieuses que les questions…",
+     "fort": false
+    },
+    {
+     "t": "Découvrez le dossier et faites-vous votre propre opinion !",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "histoire secrète",
+    "vie extraterrestre"
+   ],
+   "date": "2026-11-13",
+   "dateTexte": "13 novembre 2026",
+   "dateCourte": "13 nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/moputdvtzm0t41gr027v1/Blue-Planet-Project-Pulsar.pdf?rlkey=4gz8v86mgczbd3fbajrcxdtj4&st=6409wh5k&dl=0",
+   "drive": "19iBJE7I9Kne6nFRAsCV4ohapSmreuOus",
+   "source": "https://fencersfiles.blogspot.com/2026/11/blue-planet-project-project-pulsar-les.html",
+   "image": "couv/d070",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "069",
+   "billet": "070",
+   "slug": "les-bases-extraterrestres-au-mexique",
+   "titre": "Les bases extraterrestres au Mexique",
+   "accroche": "LES BASES EXTRATERRESTRES AU MEXIQUE : LES SECRETS ENFOUIS",
+   "texte": [
+    {
+     "t": "Le Mexique, terre de civilisations anciennes, de légendes mystérieuses et de phénomènes inexpliqués, est au cœur de nombreuses histoires liées à la présence extraterrestre.",
+     "fort": false
+    },
+    {
+     "t": "Des régions désertiques aux profondeurs de sites archéologiques, certaines théories évoquent l’existence de bases souterraines, de présences non humaines et d’étranges activités observées dans le ciel mexicain.",
+     "fort": false
+    },
+    {
+     "t": "Dans ce dossier, partez à la découverte :",
+     "fort": false
+    },
+    {
+     "t": "Des lieux associés aux légendes de bases extraterrestres.",
+     "fort": false
+    },
+    {
+     "t": "Des activités pratiquées dans ces bases",
+     "fort": false
+    },
+    {
+     "t": "Composition des bases (effectifs extraterrestres et humains, machines)",
+     "fort": false
+    },
+    {
+     "t": "Plongez dans une enquête au cœur de l’un des territoires les plus fascinants de l’ufologie.",
+     "fort": false
+    },
+    {
+     "t": "Le Mexique abriterait-il des secrets que nous sommes encore loin de comprendre ?",
+     "fort": false
+    },
+    {
+     "t": "la célèbre Zone du Silence de Mapimí, dans le désert de Chihuahua, est souvent associée aux récits d’OVNI et de présences extraterrestres. Toutefois, aucune base extraterrestre n’y a été démontrée.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "bases secrètes",
+    "ovni",
+    "vie extraterrestre"
+   ],
+   "date": "2026-11-11",
+   "dateTexte": "11 novembre 2026",
+   "dateCourte": "11 nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/72acba15igxkk76u905a5/les-bases-extraterrestres-au-Mexique.pdf?rlkey=z5sy4yrvl7v3smsuendtavpzc&st=i81ogo3l&dl=0",
+   "drive": "1g8_O75U1gkZ8n5HI_mAhsKNaKRFxqyMs",
+   "source": "https://fencersfiles.blogspot.com/2026/11/les-bases-extraterrestres-au-mexique.html",
+   "image": "couv/d069",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "068",
+   "billet": "069",
+   "slug": "les-groupes-du-nouvel-ordre-mondial",
+   "titre": "Les groupes du nouvel ordre mondial",
+   "accroche": "LES GROUPES DU NOUVEL ORDRE MONDIAL : LES PUISSANCES DANS L’OMBRE",
+   "texte": [
+    {
+     "t": "Qui sont les organisations, institutions et réseaux d’influence qui participent à façonner les grandes orientations du monde contemporain ?",
+     "fort": false
+    },
+    {
+     "t": "Des clubs privés aux forums économiques internationaux, en passant par les think tanks, les réseaux politiques et les organisations financières, ce dossier explore les groupes souvent associés à la notion de Nouvel Ordre Mondial.",
+     "fort": false
+    },
+    {
+     "t": "Au programme :",
+     "fort": false
+    },
+    {
+     "t": "Le groupe Bilderberg",
+     "fort": false
+    },
+    {
+     "t": "La Commission trilatérale",
+     "fort": false
+    },
+    {
+     "t": "Le Council on Foreign Relations (CFR)",
+     "fort": false
+    },
+    {
+     "t": "Le Forum économique mondial de Davos",
+     "fort": false
+    },
+    {
+     "t": "Le groupe des 300 : mythes et controverses",
+     "fort": false
+    },
+    {
+     "t": "Les grandes institutions financières internationales",
+     "fort": false
+    },
+    {
+     "t": "Les réseaux d’influence politique et économique",
+     "fort": false
+    },
+    {
+     "t": "Les théories sur un gouvernement mondial",
+     "fort": false
+    },
+    {
+     "t": "Entre faits historiques, réseaux d’influence, pouvoir économique et théories controversées, découvrez les acteurs qui alimentent les interrogations sur la gouvernance mondiale.",
+     "fort": false
+    },
+    {
+     "t": "Qui détient réellement les clés du pouvoir mondial ?",
+     "fort": false
+    },
+    {
+     "t": "Un dossier à découvrir sur Fencer’s Files.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "histoire secrète",
+    "théorie du complot"
+   ],
+   "date": "2026-11-11",
+   "dateTexte": "11 novembre 2026",
+   "dateCourte": "11 nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/nbec6n2g18elc0xqulcpt/le-nouvel-ordre-mondial.pdf?rlkey=t8civ3wi4k6oepa22jyrv3vsg&st=8b7zfyje&dl=0",
+   "drive": "1YSKPdccLkjupbwwPx4jr1Hcmud63SWPW",
+   "source": "https://fencersfiles.blogspot.com/2026/11/les-groupes-du-nouvel-ordre-mondial-les.html",
+   "image": "couv/d068",
+   "discret": true,
+   "serie": null
+  },
+  {
+   "numero": "067",
+   "billet": "068",
+   "slug": "l-hadjar-el-gouble",
+   "titre": "L’Hadjar el Gouble",
+   "accroche": "UN BLOC DE PIERRE GIGANTESQUE, UNE DIMENSION IMPRESSIONNANTE… COMMENT LES CIVILISATIONS DE L’ANTIQUITÉ ONT-ELLES PU ENVISAGER DE TELS MONUMENTS ?",
+   "texte": [
+    {
+     "t": "L’HADJAR EL GOUBLE À BAALBECK : LE COLOSSE DE PIERRE AUX ORIGINES MYSTÉRIEUSES",
+     "fort": true
+    },
+    {
+     "t": "Au cœur du site antique de Baalbeck, au Liban, les gigantesques blocs de pierre témoignent d’un savoir-faire architectural qui continue de fasciner les passionnés d’histoire et d’archéologie.",
+     "fort": false
+    },
+    {
+     "t": "Parmi ces vestiges, l’Hadjar el Gouble intrigue par ses dimensions et son apparence monumentale. Comment une telle masse rocheuse a-t-elle pu être extraite, travaillée et intégrée à un ensemble architectural aussi impressionnant ?",
+     "fort": false
+    },
+    {
+     "t": "Quelles techniques les bâtisseurs de l’Antiquité maîtrisaient-ils ? Quels moyens de transport et de levage utilisaient-ils ? Ces blocs colossaux révèlent-ils des connaissances techniques encore trop peu connues ?",
+     "fort": false
+    },
+    {
+     "t": "Entre prouesses architecturales, énigmes historiques et hypothèses alternatives, ce dossier vous invite à explorer l’un des aspects les plus fascinants du patrimoine mégalithique de Baalbeck.",
+     "fort": false
+    },
+    {
+     "t": "COMMENT LES ANCIENS BÂTISSEURS ONT-ILS PU MANIPULER DE TELLES MASSES DE PIERRE ? UN DÉFI QUI CONTINUE DE NOURRIR LES INTERROGATIONS !",
+     "fort": true
+    },
+    {
+     "t": "Découvrez l’énigme de l’Hadjar el Gouble et les mystères des mégalithes de Baalbeck dans ce nouveau dossier sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "anciennes civilisations",
+    "archéologie"
+   ],
+   "date": "2026-11-10",
+   "dateTexte": "10 novembre 2026",
+   "dateCourte": "10 nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/lxqy3yipqvltz9foxg1ao/l-hadjar-el-gouble-baalbeck.pdf?rlkey=1olwjcusw36gu3lmuq2nf75zo&st=f6w594qs&dl=0",
+   "drive": "19UhFfF6dNxjMHk9yOSlfKB5vmOkk6_yw",
+   "source": "https://fencersfiles.blogspot.com/2026/11/lhadjar-el-gouble-baalbeck-le-colosse.html",
+   "image": "couv/d067",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "066",
+   "billet": "067",
+   "slug": "blue-planet-project",
+   "titre": "Blue Planet Project",
+   "accroche": "ET SI LES AUTORITÉS EN SACHENT BIEN PLUS QU’ELLES NE LE DISENT SUR LA PRÉSENCE EXTRATERRESTRE SUR TERRE ?",
+   "texte": [
+    {
+     "t": "BLUE PLANET PROJECT : LE DOSSIER INTERDIT ?",
+     "fort": true
+    },
+    {
+     "t": "Un mystérieux dossier circule dans les milieux ufologiques. Son nom : BLUE PLANET PROJECT. Il évoquerait des informations confidentielles sur des entités non humaines, des rencontres inexpliquées et de prétendues recherches secrètes liées au phénomène OVNI.",
+     "fort": false
+    },
+    {
+     "t": "Qui serait à l’origine de ce document ? Que contiendrait-il réellement ? Pourquoi son contenu alimente-t-il autant de controverses dans la communauté ufologique ?",
+     "fort": false
+    },
+    {
+     "t": "Entre témoignages allégués, documents controversés et hypothèses sur une présence extraterrestre, plongez dans une affaire où les frontières entre secret, désinformation et spéculation deviennent particulièrement troublantes.",
+     "fort": false
+    },
+    {
+     "t": "UN DOSSIER QUI PRÉTEND LEVER LE VOILE SUR L’INCONNU… MAIS QUE CACHE RÉELLEMENT LE BLUE PLANET PROJECT ?",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "histoire secrète",
+    "vie extraterrestre"
+   ],
+   "date": "2026-11-10",
+   "dateTexte": "10 novembre 2026",
+   "dateCourte": "10 nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/j2me8pu2vauhr44rahmyi/blue-planet-project.pdf?rlkey=qih7vb30b5ps3qwqqaraw8zrz&st=kskf3qhm&dl=0",
+   "drive": "1EzIYcXhm69CcoFy2-WztyZxDVoobkVnI",
+   "source": "https://fencersfiles.blogspot.com/2026/11/blue-planet-project-le-dossier-interdit.html",
+   "image": "couv/d066",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "065",
+   "billet": "066",
+   "slug": "la-technologie-occulte-derriere-les-ovnis",
+   "titre": "La technologie occulte derrière les ovnis",
+   "accroche": "LA TECHNOLOGIE OCCULTE DERRIÈRE LES OVNIS",
+   "texte": [
+    {
+     "t": "Les secrets d’une technologie qui défie notre compréhension…Et si les OVNIS observés depuis des décennies étaient bien plus que de simples engins inconnus ? Derrière leurs déplacements extraordinaires, leurs accélérations fulgurantes et leurs capacités apparemment inexplicables, se cacherait peut-être une technologie dont nous ignorons encore les véritables principes.",
+     "fort": false
+    },
+    {
+     "t": "Propulsion révolutionnaire, manipulation supposée de l’espace-temps, champs énergétiques, matériaux inconnus et technologies avancées… Autant de pistes qui alimentent les recherches et les spéculations autour du phénomène OVNI.",
+     "fort": false
+    },
+    {
+     "t": "S’agit-il de technologies extraterrestres, de programmes secrets ou de phénomènes physiques encore mal compris ?",
+     "fort": false
+    },
+    {
+     "t": "À travers ce dossier, explorez les hypothèses les plus fascinantes concernant les mécanismes qui pourraient se cacher derrière ces mystérieux appareils.",
+     "fort": false
+    },
+    {
+     "t": "ET SI LA TECHNOLOGIE DES OVNIS AVAIT DES DÉCENNIES, VOIRE DES SIÈCLES D’AVANCE SUR NOS CONNAISSANCES ?",
+     "fort": true
+    },
+    {
+     "t": "FENCER’S FILES – EXPLOREZ LES TECHNOLOGIES AUX FRONTIÈRES DE L’IMPOSSIBLE !",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "ovni"
+   ],
+   "date": "2026-11-09",
+   "dateTexte": "9 novembre 2026",
+   "dateCourte": "9 nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/q5mrhcs0ev5p4mrxbuo1r/la-technologie-occulte-derri-re-les-ovnis.pdf?rlkey=tq5mmtlnerhapvourx6gbcehj&st=p79d5isb&dl=0",
+   "drive": "1tJLvSk55WcbKc0G-h_sj1dHxVmsg5__Y",
+   "source": "https://fencersfiles.blogspot.com/2026/11/la-technologie-occulte-derriere-les.html",
+   "image": "couv/d065",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "064",
+   "billet": "065",
+   "slug": "alien-transcripts-4-premiere-rencontre-avec-riyah",
+   "titre": "Alien Transcripts 4 : première rencontre avec Riyah",
+   "accroche": "ALIEN TRANSCRIPT 4 - RENCONTRE AVEC RIYAH",
+   "texte": [
+    {
+     "t": "RENCONTRE AVEC RIYAH - LE TÉMOIGNAGE D’UNE RENCONTRE EXTRATERRESTREUne rencontre hors du commun aux frontières de l’inexpliqué…Et si une rencontre avec une intelligence venue d’ailleurs pouvait bouleverser notre perception de l’univers et de notre propre existence ?",
+     "fort": false
+    },
+    {
+     "t": "À travers le récit attribué à Riyah, plongez dans une histoire fascinante qui nous entraîne au cœur du mystère extraterrestre. Qui est réellement Riyah ? Quelle est son origine ? Que révèle ce témoignage sur les civilisations supposées venues d’ailleurs et leurs éventuelles relations avec l’humanité ?",
+     "fort": false
+    },
+    {
+     "t": "Entre récit de contact, révélations troublantes et interrogations ufologiques, ce dossier vous invite à découvrir une histoire qui ne manquera pas de susciter votre curiosité.",
+     "fort": false
+    },
+    {
+     "t": "UNE RENCONTRE, UN TÉMOIGNAGE, DES QUESTIONS… ET SI L’INCONNU ÉTAIT PLUS PROCHE QUE NOUS LE PENSONS ?",
+     "fort": true
+    },
+    {
+     "t": "FENCER’S FILES – OSEZ FRANCHIR LES FRONTIÈRES DE L’INEXPLIQUÉ !",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "histoire secrète",
+    "vie extraterrestre"
+   ],
+   "date": "2026-11-09",
+   "dateTexte": "9 novembre 2026",
+   "dateCourte": "9 nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/x0kyl4w5kozhthlsofnpw/alien-transcripts-4-rencontre-avec-Riyah.pdf?rlkey=ghrrpqhfesgfuzzvvceknxd3x&st=88bx192r&dl=0",
+   "drive": "1_3Ajnmmc8JUSmzDLN9ys2wp45Jh1GzsB",
+   "source": "https://fencersfiles.blogspot.com/2026/11/alien-transcript-4-rencontre-avec-riyah.html",
+   "image": "couv/d064",
+   "discret": false,
+   "serie": "alien-transcripts"
+  },
+  {
+   "numero": "063",
+   "billet": "064",
+   "slug": "federations-et-conseils-galactiques",
+   "titre": "Fédérations et conseils galactiques",
+   "accroche": "FÉDÉRATIONS ET CONSEILS GALACTIQUES – LES GRANDES INSTANCES DU COSMOS",
+   "texte": [
+    {
+     "t": "Et si la Terre n’était qu’une infime partie d’un immense réseau de civilisations extraterrestres ?",
+     "fort": false
+    },
+    {
+     "t": "Dans les récits ufologiques, certaines fédérations et certains conseils galactiques seraient présentés comme des alliances regroupant différentes civilisations venues des quatre coins de l’univers. Organisations interstellaires, assemblées de représentants extraterrestres, règles cosmiques et interactions supposées avec l’humanité : autant de sujets qui alimentent les théories les plus fascinantes.",
+     "fort": false
+    },
+    {
+     "t": "Qui seraient ces mystérieuses instances ? Quelles civilisations les composeraient ? Quel rôle pourraient-elles jouer dans l’avenir de notre planète ?",
+     "fort": false
+    },
+    {
+     "t": "Entre récits de contacts, témoignages controversés et hypothèses sur une gouvernance galactique, plongez dans un univers où les frontières du possible semblent disparaître.",
+     "fort": false
+    },
+    {
+     "t": "FENCER’S FILES – ET SI L’HUMANITÉ N’ÉTAIT PAS SEULE DANS L’IMMENSITÉ DU COSMOS ?",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "vie extraterrestre"
+   ],
+   "date": "2026-11-08",
+   "dateTexte": "8 novembre 2026",
+   "dateCourte": "8 nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/u89ykikiycd6aisqu2rhm/f-d-rations-et-conseils-galactiques.pdf?rlkey=ezy65a1ngukp0cbjmkjupjusz&st=x21qp6og&dl=0",
+   "drive": "1JG-s1CvkqKWdUfWHiQMnW6u8xbCOChjW",
+   "source": "https://fencersfiles.blogspot.com/2026/11/federations-et-conseils-galactiques.html",
+   "image": "couv/d063",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "062",
+   "billet": "063",
+   "slug": "les-andromediens",
+   "titre": "Les Andromédiens",
+   "accroche": "RACE EXTRATERRESTRE - LES ANDROMEDIENS",
+   "texte": [
+    {
+     "t": "LES VISITEURS DE LA GALAXIE D’ANDROMÈDE",
+     "fort": true
+    },
+    {
+     "t": "À des millions d’années-lumière de notre planète, une civilisation extraterrestre pourrait-elle observer notre monde depuis les profondeurs du cosmos ?",
+     "fort": false
+    },
+    {
+     "t": "Les Andromédiens occupent une place particulière dans les récits ufologiques et les théories sur les civilisations extraterrestres. Décrits comme des êtres évolués, dotés de connaissances scientifiques et technologiques avancées, ils seraient associés à différentes fédérations et instances galactiques.",
+     "fort": false
+    },
+    {
+     "t": "Qui seraient réellement ces mystérieux visiteurs ? Quelles seraient leurs origines, leurs intentions et leurs relations supposées avec l’humanité ?",
+     "fort": false
+    },
+    {
+     "t": "Entre témoignages, récits de contacts, révélations controversées et hypothèses extraterrestres, ce dossier vous invite à explorer l’un des grands mystères de l’ufologie.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "vie extraterrestre"
+   ],
+   "date": "2026-11-08",
+   "dateTexte": "8 novembre 2026",
+   "dateCourte": "8 nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/o8txe6td8r2ynphbkbkhm/Les-androm-diens.pdf?rlkey=k9x92gt6mqqyvkqy2gg17s7y5&st=6h78r053&dl=0",
+   "drive": "1BT3NLt-164AlBerT--lDhZw7AFnO7GYJ",
+   "source": "https://fencersfiles.blogspot.com/2026/11/race-extraterrestre-les-andromediens.html",
+   "image": "couv/d062",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "061",
+   "billet": "062",
+   "slug": "baalbeck-une-enigme-colossale",
+   "titre": "Baalbeck, une énigme colossale",
+   "accroche": "BAALBECK – LES MYSTÈRES D’UNE ÉNIGME COLOSSALE !",
+   "texte": [
+    {
+     "t": "COMMENT LES ANCIENS ONT-ILS PU DÉPLACER ET ASSEMBLER DES BLOCS DE PIERRE PESANT PLUSIEURS CENTAINES DE TONNES ?",
+     "fort": true
+    },
+    {
+     "t": "Au Liban, le site antique de Baalbeck abrite l’un des ensembles mégalithiques les plus impressionnants de la planète. Ses gigantesques blocs de pierre, ses fondations monumentales et ses constructions défiant l’imagination soulèvent encore de nombreuses interrogations.",
+     "fort": false
+    },
+    {
+     "t": "Le célèbre Trilithon, composé de trois blocs monumentaux, constitue l’un des plus grands défis de l’ingénierie antique.",
+     "fort": false
+    },
+    {
+     "t": "Mais comment ces pierres colossales ont-elles été extraites, transportées et mises en place ? Quels moyens techniques les bâtisseurs de l’Antiquité maîtrisaient-ils réellement ?",
+     "fort": false
+    },
+    {
+     "t": "Entre prouesses architecturales, mystères archéologiques et théories des anciens astronautes, Baalbeck continue de nourrir les hypothèses les plus fascinantes.",
+     "fort": false
+    },
+    {
+     "t": "DES PIERRES GÉANTES. UNE INGÉNIERIE HORS DU COMMUN. UN MYSTÈRE QUI TRAVERSE LES MILLÉNAIRES… BAALBECK DÉFIE ENCORE NOTRE IMAGINATION !",
+     "fort": true
+    },
+    {
+     "t": "Découvrez cette enquête exceptionnelle sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "anciennes civilisations",
+    "archéologie"
+   ],
+   "date": "2026-11-06",
+   "dateTexte": "6 novembre 2026",
+   "dateCourte": "6 nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/8mlqhigtfrm2z9qo8lh0v/Baalbeck-une-nigme-colossale.pdf?rlkey=bwvkqht3u17maa90vrtax6u07&st=bornok4s&dl=0",
+   "drive": "1p9Pt6_-ztrr8hLmnKTobsuImeRzfDhsO",
+   "source": "https://fencersfiles.blogspot.com/2026/11/baalbeck-une-enigme-colossale-situee-1.html",
+   "image": "couv/d061",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "060",
+   "billet": "061",
+   "slug": "document-d-etude-sur-les-cas-ovni-1980-1994",
+   "titre": "Document d’étude sur les cas OVNI (1980-1994)",
+   "accroche": "DOCUMENT D’ÉTUDES SUR LES CAS OVNI (1980–1994) – 14 ANNÉES DE PHÉNOMÈNES INEXPLIQUÉS !",
+   "texte": [
+    {
+     "t": "DES OBSERVATIONS TROUBLANTES, DES TÉMOIGNAGES INTRIGANTS… ET DES AFFAIRES QUI CONTINUENT DE DÉFIER LES EXPLICATIONS !",
+     "fort": true
+    },
+    {
+     "t": "Entre 1980 et 1994, de nombreux cas d’observations d’objets volants non identifiés ont été rapportés à travers le monde.",
+     "fort": false
+    },
+    {
+     "t": "Lumières mystérieuses, objets aux formes inhabituelles, rencontres rapprochées, phénomènes aériens inexpliqués et témoignages de nombreux observateurs… Ces événements constituent une période particulièrement intéressante de l’histoire de l’ufologie.",
+     "fort": false
+    },
+    {
+     "t": "Quels sont les cas les plus marquants de ces quatorze années ? Que révèlent les témoignages et les documents d’époque ? Certaines observations ont-elles résisté aux tentatives d’explication ?",
+     "fort": false
+    },
+    {
+     "t": "14 ANS D’OBSERVATIONS, DES DOSSIERS TROUBLANTS ET UNE QUESTION QUI RESTE EN SUSPENS : QUE S’EST-IL RÉELLEMENT PASSÉ DANS NOS CIEUX ?",
+     "fort": true
+    },
+    {
+     "t": "Plongez dans cette compilation documentaire consacrée aux grandes énigmes ufologiques sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "ovni"
+   ],
+   "date": "2026-11-05",
+   "dateTexte": "5 novembre 2026",
+   "dateCourte": "5 nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/48p5ydl5nhw91t75g07xb/ufos-tudes-de-cas-partie-2.pdf?rlkey=850g5q6qe9ng9xbsy2k067b9c&st=6ghdwyou&dl=0",
+   "drive": "1yo097CoZ6Mgzibm_tnc1DPT3D04l-jFs",
+   "source": "https://fencersfiles.blogspot.com/2026/11/document-detudes-sur-les-cas-ovni-1980.html",
+   "image": "couv/d060",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "059",
+   "billet": "060",
+   "slug": "les-bases-extraterrestres-en-amerique-du-sud",
+   "titre": "Les bases extraterrestres en Amérique du Sud",
+   "accroche": "LES BASES EXTRATERRESTRES SUR TERRE – AMERIQUE DU SUD",
+   "texte": [
+    {
+     "t": "LE MYSTÈRE DES BASES ALIEN : AUX FRONTIÈRES D’UN AUTRE MONDE",
+     "fort": true
+    },
+    {
+     "t": "Les territoires interdits où se cacheraient les secrets venus d’ailleurs…",
+     "fort": false
+    },
+    {
+     "t": "Et si certaines régions reculées d’Amérique du Sud abritaient des installations extraterrestres secrètes ?",
+     "fort": false
+    },
+    {
+     "t": "Des profondeurs de l’Amazonie aux montagnes des Andes, en passant par les régions isolées du continent, de nombreux récits ufologiques évoquent des bases mystérieuses, des observations d’OVNIS répétées et d’étranges manifestations lumineuses.",
+     "fort": false
+    },
+    {
+     "t": "Quels secrets pourraient se dissimuler dans ces territoires difficiles d’accès ? Ces lieux seraient-ils de simples foyers de phénomènes inexpliqués ou les témoins d’une présence venue d’ailleurs ?",
+     "fort": false
+    },
+    {
+     "t": "À travers témoignages, observations, légendes locales et hypothèses extraterrestres, ce dossier vous entraîne dans une exploration fascinante des sites les plus énigmatiques d’Amérique du Sud.",
+     "fort": false
+    },
+    {
+     "t": "BASES SECRÈTES, ACTIVITÉS INEXPLIQUÉES, PRÉSENCE EXTRATERRESTRE… ET SI LA TERRE ABRITAIT DES MYSTÈRES QUE NOUS N’AVONS PAS ENCORE PERCÉS ?",
+     "fort": true
+    },
+    {
+     "t": "FENCER’S FILES – EXPLOREZ LES TERRITOIRES OÙ L’INEXPLIQUÉ SEMBLE PRENDRE RACINE.",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "bases secrètes",
+    "ovni",
+    "vie extraterrestre"
+   ],
+   "date": "2026-11-04",
+   "dateTexte": "4 novembre 2026",
+   "dateCourte": "4 nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/b0whtjsgpwow67twkvfhu/Les-bases-sud-am-ricaines.pdf?rlkey=wfkju5dlcyq6whlvsc1x29amm&st=enj96skk&dl=0",
+   "drive": "1Tm-9yzMAXq65hobh10HDOqm2VRsJUCPx",
+   "source": "https://fencersfiles.blogspot.com/2026/11/les-bases-extraterrestres-sur-terre.html",
+   "image": "couv/d059",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "058",
+   "billet": "059",
+   "slug": "l-empreinte-des-dieux",
+   "titre": "L’empreinte des dieux",
+   "accroche": "L’EMPREINTE DES DIEUX – DES SIMILITUDES INCROYABLES… ET PRESQUE IMPOSSIBLES !",
+   "texte": [
+    {
+     "t": "L’EMPREINTE DES DIEUX – LES TRACES D’UN PASSÉ OUBLIÉEt si les dieux de nos légendes avaient réellement foulé la Terre ?Depuis la nuit des temps, des civilisations anciennes ont transmis des récits fascinants évoquant des êtres venus du ciel, des visiteurs aux pouvoirs extraordinaires et des connaissances dépassant leur époque.",
+     "fort": false
+    },
+    {
+     "t": "Vestiges monumentaux, constructions énigmatiques, textes anciens, mythologies et traditions oubliées… Autant de mystérieuses empreintes qui soulèvent une question troublante : les dieux de l’Antiquité étaient-ils de simples figures mythologiques ou les souvenirs déformés de rencontres extraordinaires ?",
+     "fort": false
+    },
+    {
+     "t": "À travers ce dossier, partez sur les traces de ces mystérieux visiteurs et explorez les énigmes d’un passé qui continue de défier notre imagination.",
+     "fort": false
+    },
+    {
+     "t": "LES DIEUX ONT-ILS LAISSÉ DES TRACES DE LEUR PASSAGE SUR TERRE ? À VOUS DE DÉCOUVRIR LES INDICES…",
+     "fort": true
+    },
+    {
+     "t": "FENCER’S FILES – QUAND LES MYSTÈRES DU PASSÉ RENCONTRENT LES ÉNIGMES DE L’UNIVERS.",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "anciennes civilisations"
+   ],
+   "date": "2026-11-03",
+   "dateTexte": "3 novembre 2026",
+   "dateCourte": "3 nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/t8nfxj07jtha3io5zvp4m/l-empreinte-des-dieux.pdf?rlkey=mlrpngvd1vb81lvsc0x8zpx70&st=cyykwo1y&dl=0",
+   "drive": "1jEZb0v8qTaO_PjgjFiV1nd96V3brVEQS",
+   "source": "https://fencersfiles.blogspot.com/2026/11/lempreinte-des-dieux-similitudes.html",
+   "image": "couv/d058",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "057",
+   "billet": "058",
+   "slug": "le-symbolisme-du-11-septembre-2001",
+   "titre": "Le symbolisme du 11 septembre 2001",
+   "accroche": "LE SYMBOLISME DU 11 SEPTEMBRE 2001 – AU-DELÀ DES IMAGES, LES SIGNES D’UN ÉVÉNEMENT HISTORIQUE ?",
+   "texte": [
+    {
+     "t": "Le 11 septembre 2001 a profondément marqué l’histoire du monde. Mais au-delà de cette tragédie, certains se sont intéressés aux symboles, aux chiffres, aux images et aux représentations associés à cet événement.",
+     "fort": false
+    },
+    {
+     "t": "Existe-t-il une dimension symbolique particulière derrière cette date ? Quelle signification certains attribuent-ils aux nombres, aux monuments et aux références historiques ?",
+     "fort": false
+    },
+    {
+     "t": "Entre symbolisme, histoire, numérologie et interprétations controversées, ce dossier vous invite à explorer les différentes lectures d’un événement qui continue de susciter de nombreuses interrogations.",
+     "fort": false
+    },
+    {
+     "t": "COÏNCIDENCES, SYMBOLES OU INTERPRÉTATIONS ? À VOUS D’EXPLORER LES DIFFÉRENTES FACETTES DE CETTE ÉNIGME HISTORIQUE.",
+     "fort": true
+    },
+    {
+     "t": "FENCER’S FILES – DÉCRYPTER LES MYSTÈRES, EXPLORER L’INEXPLIQUÉ.",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "symbolisme"
+   ],
+   "date": "2026-11-03",
+   "dateTexte": "3 novembre 2026",
+   "dateCourte": "3 nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/diq0ctiy1ntyun0xj6ozi/Le-symbolisme-du-911.pdf?rlkey=o1ogr5j9groytyj22b092fl02&st=t751g39a&dl=0",
+   "drive": "104l6IvCJ8KAGzgtwfZUSuP71zNESVRLW",
+   "source": "https://fencersfiles.blogspot.com/2026/11/le-symbolisme-du-11-septembre-2001-y.html",
+   "image": "couv/d057",
+   "discret": true,
+   "serie": null
+  },
+  {
+   "numero": "056",
+   "billet": "057",
+   "slug": "alien-transcripts-3-l-interview-de-l-extraterrestre",
+   "titre": "Alien Transcripts 3 : l’interview de l’extraterrestre",
+   "accroche": "LES ALIEN TRANSCRIPT 3 - L’INTERVIEW AVEC L’EXTRATERRESTRE",
+   "texte": [
+    {
+     "t": "Et si l’humanité avait obtenu des réponses venues d’ailleurs ?",
+     "fort": false
+    },
+    {
+     "t": "Ce troisième volet des Alien Transcripts nous plonge au cœur d’un échange aussi troublant que fascinant : une interview attribuée à un être extraterrestre.",
+     "fort": false
+    },
+    {
+     "t": "À travers les questions, les réponses et les révélations rapportées, ce dossier explore une vision singulière de l’humanité, de ses origines, de notre planète et de notre place dans l’univers.",
+     "fort": false
+    },
+    {
+     "t": "Qui serait cet interlocuteur venu d’ailleurs ? Que révèle-t-il sur les civilisations extraterrestres ? Et surtout, peut-on accorder du crédit à un tel témoignage ?",
+     "fort": false
+    },
+    {
+     "t": "Entre récit mystérieux, hypothèses ufologiques et interrogations sur notre destinée, découvrez un document qui invite à repousser les frontières de l’inconnu.",
+     "fort": false
+    },
+    {
+     "t": "FENCER’S FILES – AUX FRONTIÈRES DE L’INEXPLIQUÉ.",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "vie extraterrestre"
+   ],
+   "date": "2026-11-02",
+   "dateTexte": "2 novembre 2026",
+   "dateCourte": "2 nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/zzxzxtyxvtquwu79rnex8/alien-transcripts-3-interview-de-l-extraterrestre.pdf?rlkey=g759ngynihb8u2fvf716115my&st=ouh4kfsb&dl=0",
+   "drive": "1GG3yKuHj4Lz4I27OvP6EZzl8qFV_7ndi",
+   "source": "https://fencersfiles.blogspot.com/2026/11/les-alien-transcript-linterviexw-avec.html",
+   "image": "couv/d056",
+   "discret": false,
+   "serie": "alien-transcripts"
+  },
+  {
+   "numero": "055",
+   "billet": "056",
+   "slug": "alien-transcripts-2-rencontre-avec-des-extraterrestres",
+   "titre": "Alien Transcripts 2 : rencontre avec des extraterrestres",
+   "accroche": "LES ALIEN TRANSCRIPTS 2 – RENCONTRE AVEC DES EXTRATERRESTRES",
+   "texte": [
+    {
+     "t": "Et si l’humanité n’était pas seule dans l’univers ?",
+     "fort": false
+    },
+    {
+     "t": "À travers ce deuxième volet des Alien Transcripts, plongez dans un dossier mystérieux consacré aux rencontres avec des êtres extraterrestres. Témoignages troublants, échanges insolites et révélations fascinantes alimentent cette exploration aux frontières de l’inconnu.",
+     "fort": false
+    },
+    {
+     "t": "Qui sont ces visiteurs venus d’ailleurs ? Que cherchent-ils à nous transmettre ? Et quelle part de vérité se cache derrière ces récits ?",
+     "fort": false
+    },
+    {
+     "t": "Un dossier captivant pour tous ceux qui s’intéressent aux mystères extraterrestres et aux secrets de notre univers.",
+     "fort": false
+    },
+    {
+     "t": "Découvrez ce nouveau dossier sur Fencer’s Files.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "vie extraterrestre"
+   ],
+   "date": "2026-11-02",
+   "dateTexte": "2 novembre 2026",
+   "dateCourte": "2 nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/nep16vdr503lw6zh4wirp/alien-transcripts-2-rencontres-avec-des-extraterrestres.pdf?rlkey=dttjqp7jwxfsciek7jin44rci&st=mzbn37wt&dl=0",
+   "drive": "1oAD62ArmQUqvKyDYHePtPCrXmQ2tYZPB",
+   "source": "https://fencersfiles.blogspot.com/2026/11/les-alien-transcripts-rencontre-avec.html",
+   "image": "couv/d055",
+   "discret": false,
+   "serie": "alien-transcripts"
+  },
+  {
+   "numero": "054",
+   "billet": "055",
+   "slug": "bep-kororoti-et-les-anciens-astronautes",
+   "titre": "Bep-Kororoti et les anciens astronautes",
+   "accroche": "BEP-KOROROTI – LE MYSTÉRIEUX VISITEUR DES ANCIENS ASTRONAUTES",
+   "texte": [
+    {
+     "t": "Et si une ancienne légende amazonienne conservait le souvenir d’une rencontre avec un être venu des étoiles ?",
+     "fort": false
+    },
+    {
+     "t": "Au cœur des traditions du peuple Kayapo, en Amazonie, se trouve l’étrange histoire de Bep-Kororoti, un personnage mystérieux qui serait descendu du ciel, vêtu d’une étrange combinaison, avant de bouleverser la vie de ceux qui l’ont rencontré.",
+     "fort": false
+    },
+    {
+     "t": "Qui était réellement Bep-Kororoti ? Un personnage mythologique, un visiteur extraterrestre ou le souvenir déformé d’un événement oublié ?",
+     "fort": false
+    },
+    {
+     "t": "Entre traditions ancestrales, récits fascinants et théorie des anciens astronautes, ce dossier vous invite à explorer l’une des légendes les plus intrigantes de l’ufologie.",
+     "fort": false
+    },
+    {
+     "t": "Quand les mythes anciens semblent raconter une histoire venue des étoiles…",
+     "fort": false
+    },
+    {
+     "t": "Retrouvez ce nouveau dossier sur Fencer’s Files.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "anciennes civilisations"
+   ],
+   "date": "2026-11-02",
+   "dateTexte": "2 novembre 2026",
+   "dateCourte": "2 nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/c8slpn5uqxyfnnzjf7h8v/Bep-kororoti-et-les-anciens-astronautes.pdf?rlkey=92tozgtn4jv9e0e7ykylj0z2y&st=dsc4hto1&dl=0",
+   "drive": "17aeNznTqufph8_-zD0_5QNywPHaVmJqJ",
+   "source": "https://fencersfiles.blogspot.com/2026/11/blog-post.html",
+   "image": "couv/d054",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "053",
+   "billet": "054",
+   "slug": "les-bases-extraterrestres-aux-etats-unis",
+   "titre": "Les bases extraterrestres aux États-Unis",
+   "accroche": "LES BASES EXTRATERRESTRES AUX ÉTATS-UNIS – LES SECRETS LES MIEUX GARDÉS ?",
+   "texte": [
+    {
+     "t": "Et si le territoire américain abritait des installations dont la véritable mission reste entourée de mystère ?",
+     "fort": false
+    },
+    {
+     "t": "De la célèbre Zone 51 aux installations militaires les plus controversées, les États-Unis alimentent depuis des décennies les spéculations sur l’existence de bases secrètes liées aux OVNIS et à une éventuelle présence extraterrestre.",
+     "fort": false
+    },
+    {
+     "t": "Bases souterraines, témoignages troublants, expériences confidentielles, rumeurs de coopération entre militaires et visiteurs venus d’ailleurs…",
+     "fort": false
+    },
+    {
+     "t": "Où s’arrête la réalité et où commence la légende ?",
+     "fort": false
+    },
+    {
+     "t": "Que cachent réellement ces sites mystérieux ? Pourquoi certains lieux sont-ils devenus de véritables symboles du secret extraterrestre ?",
+     "fort": false
+    },
+    {
+     "t": "DERRIÈRE LES PORTES CLOSES DE L’AMÉRIQUE SE CACHE-T-IL UN SECRET QUE PERSONNE NE DEVRAIT DÉCOUVRIR ?",
+     "fort": true
+    },
+    {
+     "t": "Découvrez cette enquête fascinante sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "bases secrètes"
+   ],
+   "date": "2026-11-01",
+   "dateTexte": "1er novembre 2026",
+   "dateCourte": "1er nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/687e23zk5ufswa52u6r6f/les-bases-extraterrestres-aux-usa.pdf?rlkey=opp9qz7jpi2lxx59mnsm7to9t&st=8fo5pu2j&dl=0",
+   "drive": "1-dKf61J7FMG0ZZpqJYdBuYzD31q3rl16",
+   "source": "https://fencersfiles.blogspot.com/2026/11/les-bases-extraterrestres-aux-etats.html",
+   "image": "couv/d053",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "052",
+   "billet": "053",
+   "slug": "la-fraternite-des-sept-rayons-solaires",
+   "titre": "La fraternité des sept rayons solaires",
+   "accroche": "LA FRATERNITÉ DES 7 RAYONS – LES GARDIENS DES SECRETS COSMIQUES",
+   "texte": [
+    {
+     "t": "Et si, derrière les traditions spirituelles les plus anciennes, se cachait une connaissance mystérieuse transmise depuis des siècles ?",
+     "fort": false
+    },
+    {
+     "t": "La Fraternité des 7 Rayons Solaires évoque un univers fascinant où se mêlent enseignements ésotériques, symbolisme solaire, traditions initiatiques et quête d’une connaissance supérieure.",
+     "fort": false
+    },
+    {
+     "t": "Sept rayons, sept énergies, sept principes spirituels… Mais quelle est leur véritable signification ? Qui sont les membres de cette mystérieuse fraternité ? Et quel savoir secret chercheraient-ils à transmettre à l’humanité ?",
+     "fort": false
+    },
+    {
+     "t": "ENTRE INITIATION, MYSTÈRES ANCIENS ET CONNAISSANCES OCCULTES, PARTEZ À LA DÉCOUVERTE D’UNE FRATERNITÉ AUX MULTIPLES SECRETS !",
+     "fort": true
+    },
+    {
+     "t": "Un nouveau dossier à découvrir sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "anciennes civilisations"
+   ],
+   "date": "2026-11-01",
+   "dateTexte": "1er novembre 2026",
+   "dateCourte": "1er nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/lnoycqz4qy06p4idxzato/La-fraternit-des-7-rayons-solaires.pdf?rlkey=zce9833lxdj8l3je5g8mvloxc&st=gan9y29j&dl=0",
+   "drive": "1cAkfK7aCjlgdQavQvgd7g3dtvIakM-nJ",
+   "source": "https://fencersfiles.blogspot.com/2026/11/la-fraternite-des-sept-rayons-solaires.html",
+   "image": "couv/d052",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "051",
+   "billet": "052",
+   "slug": "les-anciennes-cites-perdues-du-desert-de-gobi",
+   "titre": "Les anciennes cités perdues du désert de Gobi",
+   "accroche": "LES ANCIENNES CITÉS PERDUES DU DÉSERT DE GOBI – LES TRACES D’UNE CIVILISATION OUBLIÉE ?",
+   "texte": [
+    {
+     "t": "Et si les immensités arides du désert de Gobi dissimulaient encore les vestiges d’un passé que l’histoire n’a pas totalement révélé ?",
+     "fort": false
+    },
+    {
+     "t": "Au cœur de l’un des déserts les plus mystérieux de la planète, d’anciennes ruines, des vestiges archéologiques et des récits énigmatiques alimentent les interrogations sur les civilisations qui auraient autrefois prospéré dans ces régions reculées d’Asie.",
+     "fort": false
+    },
+    {
+     "t": "Qui étaient ces peuples disparus ? Quelles cités ont été englouties par les sables du temps ? Existe-t-il des secrets archéologiques encore enfouis sous ces terres hostiles ?",
+     "fort": false
+    },
+    {
+     "t": "Entre découvertes historiques, légendes oubliées et hypothèses fascinantes, partez sur les traces d’un monde disparu.",
+     "fort": false
+    },
+    {
+     "t": "UN VOYAGE AU CŒUR DU DÉSERT, À LA RECHERCHE DES CIVILISATIONS QUE LE TEMPS A EFFACÉES !",
+     "fort": true
+    },
+    {
+     "t": "Découvrez ce dossier passionnant sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "anciennes civilisations"
+   ],
+   "date": "2026-11-01",
+   "dateTexte": "1er novembre 2026",
+   "dateCourte": "1er nov.",
+   "pdf": "https://www.dropbox.com/scl/fi/qmw2j50qca925agz4c6r8/Les-anciennes-cit-s-du-d-sert-de-Gobi.pdf?rlkey=uorsboqwnjkqfqfwn4slqeucd&st=7ztg7yvq&dl=0",
+   "drive": "1oU2y5NGQfncp4jJRoSUURswMstI9ou5_",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_29.html",
+   "image": "couv/d051",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "050",
+   "billet": "051",
+   "slug": "alien-transcripts-1-contact-et-communication",
+   "titre": "Alien Transcripts 1 : contact et communication",
+   "accroche": "LES ALIEN TRANSCRIPTS – CONTACT ET COMMUNICATION : LES MESSAGES VENUS D’AILLEURS !",
+   "texte": [
+    {
+     "t": "Et si des êtres extraterrestres avaient tenté d’entrer en communication avec l’humanité ?",
+     "fort": false
+    },
+    {
+     "t": "À travers ce dossier mystérieux, plongez dans l’univers des Alien Transcripts, consacré aux récits de contacts, aux échanges supposés avec des entités extraterrestres et aux messages attribués à des visiteurs venus d’autres mondes.",
+     "fort": false
+    },
+    {
+     "t": "Quels secrets ces communications prétendraient-elles révéler ? Quels messages auraient été transmis à l’humanité ? S’agit-il de témoignages authentiques, de phénomènes inexpliqués ou de récits qui défient notre imagination ?",
+     "fort": false
+    },
+    {
+     "t": "ET SI LE PLUS GRAND MYSTÈRE N’ÉTAIT PAS LEUR EXISTENCE… MAIS CE QU’ILS AURAIENT À NOUS DIRE ?",
+     "fort": true
+    },
+    {
+     "t": "Découvrez ce nouveau dossier aux frontières de l’inconnu sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "vie extraterrestre"
+   ],
+   "date": "2026-10-29",
+   "dateTexte": "29 octobre 2026",
+   "dateCourte": "29 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/wd443884xzuq2whgdjro2/alien-transcripts-1-contact-et-communication.pdf?rlkey=jla8sdfd55q8rr1kjl3hwydeh&st=evof93jz&dl=0",
+   "drive": "1J__AudXw0ainoV4eAFl7DYScQ99uMcRV",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_28.html",
+   "image": "couv/d050",
+   "discret": false,
+   "serie": "alien-transcripts"
+  },
+  {
+   "numero": "049",
+   "billet": "050",
+   "slug": "les-pierres-d-ica",
+   "titre": "Les pierres d’Ica",
+   "accroche": "LES PIERRES D’ICA – LES ARTEFACTS QUI POURRAIENT RÉÉCRIRE L’HISTOIRE DE L’HUMANITÉ !",
+   "texte": [
+    {
+     "t": "ET SI UNE CIVILISATION OUBLIÉE AVAIT CONNU LES DINOSAURES… ET MAÎTRISÉ DES SAVOIRS BIEN EN AVANCE SUR SON TEMPS ?",
+     "fort": true
+    },
+    {
+     "t": "Au Pérou, les mystérieuses pierres d’Ica fascinent depuis des décennies les amateurs d’archéologie insolite et de civilisations disparues.",
+     "fort": false
+    },
+    {
+     "t": "Ces pierres gravées présentent des scènes étonnantes : dinosaures, interventions médicales, cartes anciennes et représentations qui alimentent les théories les plus audacieuses.",
+     "fort": false
+    },
+    {
+     "t": "Mais qui les a réellement sculptées ? S’agit-il de vestiges d’une civilisation inconnue, d’une énigme archéologique ou d’une fascinante supercherie moderne ?",
+     "fort": false
+    },
+    {
+     "t": "ENTRE MYSTÈRE, CONTROVERSE ET THÉORIES DES CIVILISATIONS ANCIENNES, DÉCOUVREZ L’UNE DES AFFAIRES LES PLUS ÉNIGMATIQUES DU MONDE ARCHÉOLOGIQUE !",
+     "fort": true
+    },
+    {
+     "t": "Retrouvez ce dossier sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "anciennes civilisations"
+   ],
+   "date": "2026-10-29",
+   "dateTexte": "29 octobre 2026",
+   "dateCourte": "29 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/fqc9iaa4bd9tzq4c8wfn9/Les-pierres-d-Ica.pdf?rlkey=3psi96l7eij18958hc14cfz5t&st=ac2u0jdz&dl=0",
+   "drive": "1sDriq5titacIqZ7BdUD692KZ6yleBLTA",
+   "source": "https://fencersfiles.blogspot.com/2026/10/le-mystere-des-pierres-dica-les-pierres.html",
+   "image": "couv/d049",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "048",
+   "billet": "049",
+   "slug": "la-pyramide-sous-marine-des-acores",
+   "titre": "La pyramide sous-marine des Açores",
+   "accroche": "LA PYRAMIDE DES AÇORES ET L’ALIGNEMENT AVEC LA CITÉ PERDUE DE POSÉIDONIS – UN MYSTÈRE AU CŒUR DE L’ATLANTIQUE !",
+   "texte": [
+    {
+     "t": "ET SI LES AÇORES CONSERVAIENT LES TRACES D’UNE CIVILISATION DISPARUE AU FOND DES OCÉANS ?",
+     "fort": true
+    },
+    {
+     "t": "Au milieu de l’immensité atlantique, une mystérieuse structure sous-marine découverte près des Açores alimente les spéculations les plus fascinantes. Certains y voient une possible pyramide ancienne, tandis que d’étranges hypothèses évoquent un lien avec la mythique cité de Poséidonis, souvent associée à l’Atlantide de Platon.",
+     "fort": false
+    },
+    {
+     "t": "Un alignement géographique troublant ? Les vestiges d’une civilisation engloutie ? Une connexion oubliée avec le légendaire continent perdu ?",
+     "fort": false
+    },
+    {
+     "t": "QUI AURAIT ÉRIGÉ CETTE STRUCTURE ? POURQUOI CET ALIGNEMENT INTRIGUE-T-IL AUTANT ? ET SI LES PROFONDEURS DE L’ATLANTIQUE CACHaient ENCORE LES SECRETS D’UN MONDE DISPARU ?",
+     "fort": false
+    },
+    {
+     "t": "Plongez dans cette enquête aux frontières de l’archéologie mystérieuse et des grandes énigmes de l’humanité sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "anciennes civilisations"
+   ],
+   "date": "2026-10-28",
+   "dateTexte": "28 octobre 2026",
+   "dateCourte": "28 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/vzfpm2a1r7hsp22mpzzlj/la-pyramide-des-A-ores-et-alignement-fibonnaci.pdf?rlkey=w0a346sc9u3rco5j328po1s9d&st=2udw4pcv&dl=0",
+   "drive": "1LPdzsn3TezGBmoD3AhN59Ddj86iNG3e-",
+   "source": "https://fencersfiles.blogspot.com/2026/10/la-pyramides-des-acores-et-son.html",
+   "image": "couv/d048",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "047",
+   "billet": "048",
+   "slug": "les-pleiadiens",
+   "titre": "Les Pléiadiens",
+   "accroche": "LES PLÉIADIENS – LES MYSTÉRIEUX ÊTRES VENUS DES ÉTOILES !",
+   "texte": [
+    {
+     "t": "ET SI UNE CIVILISATION EXTRATERRESTRE ISSUE DES PLÉIADES SUIVAIT DEPUIS LONGTEMPS L’ÉVOLUTION DE L’HUMANITÉ ?",
+     "fort": true
+    },
+    {
+     "t": "Parmi les civilisations extraterrestres évoquées dans les récits de contact et la littérature ufologique, les Pléiadiens occupent une place toute particulière.",
+     "fort": false
+    },
+    {
+     "t": "Présentés dans certains témoignages comme des êtres évolués, dotés de connaissances scientifiques et spirituelles avancées, ils seraient originaires de l’amas stellaire des Pléiades, situé dans la constellation du Taureau.",
+     "fort": false
+    },
+    {
+     "t": "Apparence, origines stellaires, capacités extraordinaires, intentions supposées et relations avec notre planète… Les récits qui leur sont consacrés soulèvent de nombreuses interrogations.",
+     "fort": false
+    },
+    {
+     "t": "Qui seraient réellement les Pléiadiens ? Pourquoi leur nom revient-il si souvent dans les témoignages de contacts extraterrestres ? Quel rôle leur attribue-t-on auprès de l’humanité ?",
+     "fort": false
+    },
+    {
+     "t": "LES PLÉIADES : SIMPLE AMAS D’ÉTOILES OU ORIGINE SUPPOSÉE D’UNE CIVILISATION QUI FASCINE LES PASSIONNÉS D’UFOLOGIE ?",
+     "fort": true
+    },
+    {
+     "t": "Partez à la découverte de cette mystérieuse race extraterrestre dans un nouveau dossier sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "vie extraterrestre"
+   ],
+   "date": "2026-10-28",
+   "dateTexte": "28 octobre 2026",
+   "dateCourte": "28 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/m6om2mx2xfff5g2ur8kvv/les-pleiadiens.pdf?rlkey=1ltjtva6lo8yuv4q35rexiddt&st=lbwyu370&dl=0",
+   "drive": "16odZUWjsBpjw8CIdiyehZHZZuKfzM7lO",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_27.html",
+   "image": "couv/d047",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "046",
+   "billet": "047",
+   "slug": "les-descendants-des-annunaki",
+   "titre": "Les descendants des Annunaki",
+   "accroche": "LES DESCENDANTS DES ANUNNAKI – LE SECRET D’UNE LIGNÉE VENUE DES ÉTOILES ?",
+   "texte": [
+    {
+     "t": "ET SI LES ANUNNAKI N’AVAIENT JAMAIS DISPARU… ET QUE LEUR HÉRITAGE SE TROUVAIT ENCORE PARMI NOUS ?",
+     "fort": true
+    },
+    {
+     "t": "Au cœur des anciennes civilisations de Mésopotamie se trouvent les Anunnaki, des divinités mystérieuses issues des mythes sumériens, akkadiens et babyloniens.",
+     "fort": false
+    },
+    {
+     "t": "Mais certaines théories alternatives vont beaucoup plus loin et évoquent une possible descendance de ces êtres, une lignée qui aurait traversé les millénaires et laissé son empreinte dans l’histoire de l’humanité.",
+     "fort": false
+    },
+    {
+     "t": "Héritage génétique supposé, lignées secrètes, connaissances ancestrales, manipulations de l’humanité et origines extraterrestres… Autant d’hypothèses qui alimentent les récits les plus fascinants.",
+     "fort": false
+    },
+    {
+     "t": "Qui seraient ces descendants ? Quel héritage auraient-ils conservé ? Et si certaines énigmes de notre passé trouvaient leur origine dans ces anciennes légendes ?",
+     "fort": false
+    },
+    {
+     "t": "LES ANUNNAKI ONT-ILS SIMPLEMENT DISPARU DES MYTHES… OU LEUR HISTOIRE CACHE-T-ELLE ENCORE UN MYSTÈRE ?",
+     "fort": true
+    },
+    {
+     "t": "Plongez dans cette enquête aux frontières de la mythologie, de l’archéologie mystérieuse et des théories extraterrestres sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "vie extraterrestre"
+   ],
+   "date": "2026-10-27",
+   "dateTexte": "27 octobre 2026",
+   "dateCourte": "27 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/v0v9yfojgvce7ip5ks8rb/les-descendants-des-annunaki.pdf?rlkey=p9fzcxf1gs0byez87a660s768&st=v7ad8eyt&dl=0",
+   "drive": "1pX5fJ8v2quZyPDshureLWPfwLFl6oJaX",
+   "source": "https://fencersfiles.blogspot.com/2026/10/les-descendants-des-annunaki-la.html",
+   "image": "couv/d046",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "045",
+   "billet": "046",
+   "slug": "le-projet-starchild",
+   "titre": "Le projet Starchild",
+   "accroche": "LE PROJET STARCHILD – L’ÉTRANGE CRÂNE QUI DÉFIE LA SCIENCE !",
+   "texte": [
+    {
+     "t": "UN CRÂNE AUX CARACTÉRISTIQUES INHABITUELLES… ET SI SON ORIGINE ÉTAIT BIEN PLUS ÉNIGMATIQUE QU’ON NE LE PENSE ?",
+     "fort": true
+    },
+    {
+     "t": "Découvert au Mexique dans les années 1930, le mystérieux crâne baptisé Starchild est devenu l’un des objets les plus controversés de l’ufologie.",
+     "fort": false
+    },
+    {
+     "t": "Sa forme particulière, ses caractéristiques anatomiques et les nombreuses interrogations qu’il a suscitées ont alimenté des hypothèses extraordinaires : anomalie génétique, malformation rare ou possible origine extraterrestre ?",
+     "fort": false
+    },
+    {
+     "t": "Depuis, ce spécimen fait l’objet de débats passionnés entre chercheurs indépendants, scientifiques et amateurs de phénomènes inexpliqués.",
+     "fort": false
+    },
+    {
+     "t": "Quelle est sa véritable origine ? Que révèlent réellement les analyses scientifiques ? Et pourquoi ce crâne continue-t-il de fasciner autant ?",
+     "fort": false
+    },
+    {
+     "t": "UN CRÂNE MYSTÉRIEUX. DES THÉORIES EXTRAORDINAIRES. UNE ÉNIGME QUI A FAIT COULER BEAUCOUP D’ENCRE !",
+     "fort": true
+    },
+    {
+     "t": "Découvrez le dossier LE PROJET STARCHILD sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "histoire secrète",
+    "vie extraterrestre"
+   ],
+   "date": "2026-10-27",
+   "dateTexte": "27 octobre 2026",
+   "dateCourte": "27 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/81m6ezqrsy0xwexdpjhwg/Le-projet-starchild.pdf?rlkey=8v7vvcfn8vbwaaqo0vzqdnxo5&st=n50uqo8r&dl=0",
+   "drive": "1vqzSHo7Y0LYW9I7vwOP3USVBVFAYmBxO",
+   "source": "https://fencersfiles.blogspot.com/2026/10/le-projet-starchild-dans-les-annees.html",
+   "image": "couv/d045",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "044",
+   "billet": "045",
+   "slug": "le-reptilien-de-pamela-hamilton",
+   "titre": "Le reptilien de Pamela Hamilton",
+   "accroche": "LA RENCONTRE REPTILIENNE DE PAMELA HAMILTON – FACE À FACE AVEC UNE ENTITÉ NON HUMAINE ?",
+   "texte": [
+    {
+     "t": "UNE RENCONTRE TROUBLANTE, UN ÊTRE À L’APPARENCE REPTILIENNE ET UN TÉMOIGNAGE QUI PLONGE AU CŒUR DES PLUS GRANDS MYSTÈRES EXTRATERRESTRES !",
+     "fort": true
+    },
+    {
+     "t": "L’histoire de Pamela Hamilton nous entraîne dans l’univers fascinant des récits de rencontres avec des entités reptiliennes. Son témoignage évoque une expérience hors du commun qui soulève de nombreuses interrogations sur la nature de ces mystérieux êtres.",
+     "fort": false
+    },
+    {
+     "t": "Qui ou quoi aurait-elle réellement rencontré ? S’agissait-il d’une entité extraterrestre, d’un phénomène inexpliqué ou d’une expérience dont les origines restent à éclaircir ?",
+     "fort": false
+    },
+    {
+     "t": "Entre témoignage, hypothèses extraterrestres et mystères reptiliens, cette affaire nous conduit aux frontières de l’inconnu.",
+     "fort": false
+    },
+    {
+     "t": "ET SI LES RENCONTRES LES PLUS TROUBLANTES N’ÉTAIENT PAS TOUJOURS CELLES QUE L’ON IMAGINE ?",
+     "fort": true
+    },
+    {
+     "t": "Découvrez cette étrange affaire dans un nouveau dossier sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "vie extraterrestre"
+   ],
+   "date": "2026-10-27",
+   "dateTexte": "27 octobre 2026",
+   "dateCourte": "27 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/2nohmg6qsoaoite8uj1a6/Le-reptilien-de-Pamela-Hamilton.pdf?rlkey=71iqh1tyho4eepdlvro55k0ve&st=xpo1vi35&dl=0",
+   "drive": "1pnaWAi0Y-140gQ_ft1CchS6b3IjL1uFh",
+   "source": "https://fencersfiles.blogspot.com/2026/10/la-rencontre-reptilienne-de-pamela.html",
+   "image": "couv/d044",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "043",
+   "billet": "044",
+   "slug": "les-siriens",
+   "titre": "Les Siriens",
+   "accroche": "LES SIRIENS – LES MYSTÉRIEUX ÊTRES VENUS DU SYSTÈME DE SIRIUS !",
+   "texte": [
+    {
+     "t": "UNE CIVILISATION EXTRATERRESTRE ISSUE DE SIRIUS POURRAIT-ELLE AVOIR UN LIEN AVEC LES GRANDES CIVILISATIONS DE NOTRE PASSÉ ?",
+     "fort": true
+    },
+    {
+     "t": "Parmi les races extraterrestres évoquées dans les récits ufologiques et les traditions ésotériques, les Siriens occupent une place particulièrement fascinante.",
+     "fort": false
+    },
+    {
+     "t": "Originaires, selon certains récits de contact, du système stellaire de Sirius, ces êtres seraient associés à des connaissances scientifiques avancées, à une évolution spirituelle particulière et à d’anciens liens supposés avec l’humanité.",
+     "fort": false
+    },
+    {
+     "t": "Mais qui seraient réellement les Siriens ? Pourquoi Sirius occupe-t-elle une place si importante dans certaines traditions anciennes ? Quels rapports leur attribue-t-on avec les civilisations terrestres ?",
+     "fort": false
+    },
+    {
+     "t": "SIRIUS : SIMPLE ÉTOILE BRILLANTE DANS NOTRE CIEL OU ORIGINE SUPPOSÉE D’UNE CIVILISATION AUX CONNAISSANCES EXTRAORDINAIRES ?",
+     "fort": true
+    },
+    {
+     "t": "Plongez dans l’univers mystérieux de cette race extraterrestre et explorez les théories qui l’entourent dans un nouveau dossier sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "vie extraterrestre"
+   ],
+   "date": "2026-10-27",
+   "dateTexte": "27 octobre 2026",
+   "dateCourte": "27 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/gxcbhisufkmozrnr07r4e/Les-Siriens.pdf?rlkey=wrlcdsmqaex4b0foy97cqdr92&st=opjnhpom&dl=0",
+   "drive": "1VWbq6h7JYoW6oSrXkDK1ITGdYNhrdqAJ",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_24.html",
+   "image": "couv/d043",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "042",
+   "billet": "043",
+   "slug": "la-bataille-de-dulce",
+   "titre": "La bataille de Dulce",
+   "accroche": "DULCE – LA GUERRE SOUTERRAINE : L’AFFRONTEMENT SECRET ENTRE L’HUMANITÉ ET LES EXTRATERRESTRES ?",
+   "texte": [
+    {
+     "t": "Depuis plusieurs décennies, la petite ville de Dulce, au Nouveau-Mexique, est au cœur de récits extraordinaires évoquant l’existence d’une mystérieuse base souterraine abritant des activités secrètes et des technologies inconnues.",
+     "fort": false
+    },
+    {
+     "t": "Mais l’affaire prend une dimension encore plus spectaculaire avec la légende d’une prétendue confrontation entre militaires humains et entités extraterrestres dans les profondeurs de cette installation.",
+     "fort": false
+    },
+    {
+     "t": "Base secrète multiniveaux, expériences controversées, coopération clandestine et affrontement entre deux intelligences… Que se cache-t-il réellement derrière cette histoire fascinante ?",
+     "fort": false
+    },
+    {
+     "t": "Qui aurait participé à cette mystérieuse bataille ? Quels témoignages ont alimenté cette légende ? Et pourquoi Dulce est-elle devenue un lieu emblématique de l’ufologie ?",
+     "fort": false
+    },
+    {
+     "t": "UNE BASE SOUTERRAINE. DES SECRETS INIMAGINABLES. UNE BATAILLE QUI N’AURAIT JAMAIS DÛ ÊTRE RÉVÉLÉE !",
+     "fort": true
+    },
+    {
+     "t": "Plongez dans l’un des dossiers les plus controversés de l’ufologie sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "bases secrètes",
+    "vie extraterrestre"
+   ],
+   "date": "2026-10-24",
+   "dateTexte": "24 octobre 2026",
+   "dateCourte": "24 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/1hc80rywyvfq9tvig1qhj/La-bataille-de-Dulce.pdf?rlkey=5bbbt4axipxpjf8clxcx8keyf&st=0anwy4li&dl=0",
+   "drive": "1eJHxv8YyR7iMLwzI1T-WOEKhYkaiLz0l",
+   "source": "https://fencersfiles.blogspot.com/2026/10/la-bataille-de-dulc-e-la-plupart-des.html",
+   "image": "couv/d042",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "041",
+   "billet": "042",
+   "slug": "la-base-de-pine-gap",
+   "titre": "La base de Pine Gap",
+   "accroche": "PINE GAP – LES SECRETS DE LA BASE LA PLUS MYSTÉRIEUSE D’AUSTRALIE !",
+   "texte": [
+    {
+     "t": "AU CŒUR DU DÉSERT AUSTRALIEN, UNE INSTALLATION ULTRA-SECRÈTE ALIMENTE LES PLUS GRANDES SPÉCULATIONS !",
+     "fort": true
+    },
+    {
+     "t": "Perdue dans les immensités arides du centre de l’Australie, près d’Alice Springs, la base de Pine Gap est l’une des installations stratégiques les plus énigmatiques au monde.",
+     "fort": false
+    },
+    {
+     "t": "Officiellement associée au renseignement satellitaire et à la surveillance, cette installation hautement sécurisée nourrit depuis des décennies de nombreuses interrogations.",
+     "fort": false
+    },
+    {
+     "t": "Technologies de surveillance avancées, activités confidentielles, opérations militaires, hypothèses extraterrestres et théories sur des programmes inconnus… Pine Gap est devenue un véritable symbole du secret.",
+     "fort": false
+    },
+    {
+     "t": "Mais que se passe-t-il réellement derrière ses clôtures ? Quelles technologies y sont développées ? Pourquoi cette installation suscite-t-elle autant de fascination ?",
+     "fort": false
+    },
+    {
+     "t": "UNE BASE ULTRA-SECRÈTE. DES TECHNOLOGIES SOPHISTIQUÉES. DES ACTIVITÉS INVISIBLES AU GRAND PUBLIC… ET SI PINE GAP CACHait BIEN PLUS QUE CE QUE L’ON IMAGINE ?",
+     "fort": false
+    },
+    {
+     "t": "Plongez dans les mystères de cette installation australienne dans un nouveau dossier sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "bases secrètes"
+   ],
+   "date": "2026-10-24",
+   "dateTexte": "24 octobre 2026",
+   "dateCourte": "24 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/hsl6rrbrbbjhabh0v155x/La-base-de-Pine-Gap.pdf?rlkey=5uaurb130x2g663oeftfe34px&st=anf1eyhx&dl=0",
+   "drive": "1lJm1rYMSSq58-7_Hd4x9km7W09qRvV6T",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_548.html",
+   "image": "couv/d041",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "040",
+   "billet": "041",
+   "slug": "le-chupacabra",
+   "titre": "Le chupacabra",
+   "accroche": "LE CHUPACABRA - LA CRÉATURE MYSTÉRIEUSE QUI SÈME LA TERREUR !",
+   "texte": [
+    {
+     "t": "UNE CRÉATURE INSAISISSABLE, DES ANIMAUX RETROUVÉS MORTS ET UNE LÉGENDE QUI DÉFIE TOUTE EXPLICATION !",
+     "fort": true
+    },
+    {
+     "t": "Depuis son apparition dans les récits populaires de Porto Rico dans les années 1990, le Chupacabra fascine autant qu’il inquiète.",
+     "fort": false
+    },
+    {
+     "t": "Décrit comme une créature étrange, parfois reptilienne, parfois semblable à un animal inconnu, il serait responsable d’attaques mystérieuses contre des animaux d’élevage.",
+     "fort": false
+    },
+    {
+     "t": "Des témoignages troublants circulent depuis des décennies à travers l’Amérique latine, les Caraïbes et même les États-Unis.",
+     "fort": false
+    },
+    {
+     "t": "Mais que se cache-t-il réellement derrière cette légende ? Animal inconnu, prédateur méconnu, phénomène inexpliqué ou simple créature née du folklore ?",
+     "fort": false
+    },
+    {
+     "t": "MONSTRE INCONNU OU LÉGENDE MODERNE ? LE CHUPACABRA RESTE L’UNE DES CRÉATURES LES PLUS ÉNIGMATIQUES DU BESTIAIRE CRYPTOZOOLOGIQUE !",
+     "fort": true
+    },
+    {
+     "t": "Partez sur les traces de cette mystérieuse créature dans un nouveau dossier sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "cryptozoologie"
+   ],
+   "date": "2026-10-23",
+   "dateTexte": "23 octobre 2026",
+   "dateCourte": "23 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/trl56ldqpafc5veoi8vtn/Le-chupacabra.pdf?rlkey=l0cpf0as4bi3f2pizoh0d5hqn&st=o5s54606&dl=0",
+   "drive": "1rfULrPmk5C1nzD-4XThZOEg3cvjTDjTk",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_23.html",
+   "image": "couv/d040",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "039",
+   "billet": "040",
+   "slug": "les-momies-tridactyles",
+   "titre": "Les momies tridactyles",
+   "accroche": "L’ÉNIGME DES MOMIES TRIDACTYLES : LES MYSTÉRIEUX ÊTRES À TROIS DOIGTS",
+   "texte": [
+    {
+     "t": "Et si certaines découvertes archéologiques remettaient en question notre compréhension du passé ?",
+     "fort": false
+    },
+    {
+     "t": "Depuis leur médiatisation au Pérou, les mystérieuses momies tridactyles suscitent fascination, interrogations et controverses. Ces étranges spécimens, caractérisés par trois doigts aux mains et aux pieds, alimentent de nombreuses hypothèses : anciennes civilisations inconnues, anomalies biologiques ou possibles origines extraterrestres…",
+     "fort": false
+    },
+    {
+     "t": "Mais que sait-on réellement de ces découvertes ? S’agit-il de vestiges authentiques, de montages ou d’une énigme encore mal comprise ?",
+     "fort": false
+    },
+    {
+     "t": "Entre investigations scientifiques, analyses controversées et théories extraordinaires, plongez au cœur d’une affaire qui continue de diviser chercheurs et passionnés.",
+     "fort": false
+    },
+    {
+     "t": "Une énigme fascinante aux frontières de l’archéologie et de l’inexpliqué !",
+     "fort": false
+    },
+    {
+     "t": "Dossier à découvrir sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "histoire secrète",
+    "vie extraterrestre"
+   ],
+   "date": "2026-10-23",
+   "dateTexte": "23 octobre 2026",
+   "dateCourte": "23 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/gdoqbuo0oslr46da73a4b/Les-momies-tridactyles.pdf?rlkey=lbveuh058fiegd12frtwuct95&st=4r8kmqn1&dl=0",
+   "drive": "1jRTlC30-oOrbsvGeRjOYgTLx9pvbJ5TA",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_22.html",
+   "image": "couv/d039",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "038",
+   "billet": "039",
+   "slug": "l-operation-highjump",
+   "titre": "L’opération Highjump",
+   "accroche": "L’OPÉRATION HIGHJUMP – L’EXPÉDITION SECRÈTE QUI A ALIMENTÉ LES PLUS GRANDES MYSTÈRES DE L’ANTARCTIQUE !",
+   "texte": [
+    {
+     "t": "POURQUOI LES ÉTATS-UNIS ONT-ILS ENVOYÉ UNE IMPRESSIONNANTE FLOTTE MILITAIRE AUX CONFINS DE L’ANTARCTIQUE EN 1946 ?",
+     "fort": true
+    },
+    {
+     "t": "En décembre 1946, la marine américaine lance l’opération Highjump, une gigantesque expédition polaire dirigée par l’amiral Richard Byrd.",
+     "fort": false
+    },
+    {
+     "t": "Officiellement destinée à entraîner les forces navales aux conditions extrêmes, à cartographier des territoires inconnus et à étudier l’environnement antarctique, cette mission historique est rapidement devenue le sujet de nombreuses théories controversées.",
+     "fort": false
+    },
+    {
+     "t": "Bases secrètes dissimulées sous les glaces, installations mystérieuses, technologies inconnues, présence extraterrestre et récits d’un monde caché… L’Antarctique nourrit depuis longtemps les spéculations les plus audacieuses.",
+     "fort": false
+    },
+    {
+     "t": "Mais que s’est-il réellement passé durant cette expédition ? Pourquoi cette mission militaire continue-t-elle de fasciner les passionnés de mystères ?",
+     "fort": false
+    },
+    {
+     "t": "UNE EXPÉDITION MILITAIRE COLOSSALE. UN CONTINENT INTERDIT. DES THÉORIES QUI REFUSENT DE DISPARAÎTRE… ET SI L’ANTARCTIQUE CACHait ENCORE DES SECRETS INSOUPÇONNÉS ?",
+     "fort": false
+    },
+    {
+     "t": "Plongez dans les mystères de l’opération Highjump sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "histoire secrète"
+   ],
+   "date": "2026-10-22",
+   "dateTexte": "22 octobre 2026",
+   "dateCourte": "22 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/wf2rqymtrfpheetn77eih/L-op-ration-highjump.pdf?rlkey=080xqx8vad5bin76rnuq3aet3&st=z70kt78q&dl=0",
+   "drive": "1AAYm-WEFZvyqL06nqMWNMBr-fEXF6mvD",
+   "source": "https://fencersfiles.blogspot.com/2026/10/loperation-highjump-en-1947-lamiral.html",
+   "image": "couv/d038",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "037",
+   "billet": "038",
+   "slug": "peintures-rupestres-et-extraterrestres",
+   "titre": "Peintures rupestres et extraterrestres",
+   "accroche": "PEINTURES RUPESTRES ET EXTRATERRESTRES – LES MESSAGES VENUS DU FOND DES ÂGES !",
+   "texte": [
+    {
+     "t": "ET SI NOS ANCÊTRES AVAIENT REPRÉSENTÉ DES VISITEURS VENUS D’AILLEURS IL Y A DES MILLIERS D’ANNÉES ?",
+     "fort": true
+    },
+    {
+     "t": "Aux quatre coins du monde, d’étranges peintures rupestres et gravures préhistoriques représentent des silhouettes humanoïdes, des personnages aux formes inhabituelles, des figures énigmatiques et des symboles qui interrogent encore les passionnés de mystères anciens.",
+     "fort": false
+    },
+    {
+     "t": "Certaines de ces représentations ont été interprétées comme d’éventuelles scènes de rencontres avec des êtres extraterrestres.",
+     "fort": false
+    },
+    {
+     "t": "Mais que voulaient réellement représenter les artistes de la préhistoire ? Des divinités ? Des créatures mythologiques ? Des visions spirituelles ? Ou les souvenirs de rencontres extraordinaires ?",
+     "fort": false
+    },
+    {
+     "t": "DES FIGURES ÉTRANGES GRAVÉES DANS LA ROCHE… DES CIVILISATIONS DISPARUES… ET SI L’ART RUPESTRE RENFERMAIT UN TÉMOIGNAGE OUBLIÉ DE NOTRE PASSÉ ?",
+     "fort": true
+    },
+    {
+     "t": "Partez à la découverte de ces représentations mystérieuses et explorez les théories qui les entourent dans un nouveau dossier sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "anciennes civilisations"
+   ],
+   "date": "2026-10-22",
+   "dateTexte": "22 octobre 2026",
+   "dateCourte": "22 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/eu8ngffazuu4v7xseswad/petroglyphes-et-extraterrestres.pdf?rlkey=x9n7z2buu9wje4rfkp2mvlk6c&st=wm2p3l9l&dl=0",
+   "drive": "1zF0FejsdO0Sj7wli2JspVWFnXeJbOu3P",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_21.html",
+   "image": "couv/d037",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "036",
+   "billet": "037",
+   "slug": "les-mysteres-du-plateau-d-albion",
+   "titre": "Les mystères du plateau d’Albion",
+   "accroche": "LES MYSTÈRES DU PLATEAU D’ALBION – LES SECRETS ENFOUIS SOUS LES TERRES DE PROVENCE !",
+   "texte": [
+    {
+     "t": "SOUS LES PAYSAGES TRANQUILLES DU LUBERON SE CACHE L’UN DES PLUS IMPORTANTS ANCIENS SITES MILITAIRES STRATÉGIQUES DE FRANCE… MAIS QUE SAVONS-NOUS RÉELLEMENT DE SES SECRETS ?",
+     "fort": true
+    },
+    {
+     "t": "Situé dans le Vaucluse, le plateau d’Albion a longtemps abrité un dispositif militaire nucléaire particulièrement sensible. Entre installations souterraines, anciens silos de missiles, réseaux de communication et infrastructures hautement sécurisées, ce territoire possède une histoire fascinante.",
+     "fort": false
+    },
+    {
+     "t": "Mais au-delà de son passé militaire, le plateau nourrit également des interrogations et des récits mystérieux liés aux installations secrètes, aux phénomènes inexpliqués et aux théories les plus insolites.",
+     "fort": false
+    },
+    {
+     "t": "Quels secrets se cachent derrière cette ancienne zone stratégique ? Que reste-t-il de ces installations ? Pourquoi le plateau d’Albion continue-t-il d’alimenter autant de curiosité ?",
+     "fort": false
+    },
+    {
+     "t": "UN TERRITOIRE MILITAIRE ULTRA-STRATÉGIQUE. DES INSTALLATIONS ENFOUIES. UNE HISTOIRE MARQUÉE PAR LE SECRET… LE PLATEAU D’ALBION N’A PAS FINI DE LIVRER SES MYSTÈRES !",
+     "fort": true
+    },
+    {
+     "t": "Découvrez ce dossier passionnant sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "bases secrètes"
+   ],
+   "date": "2026-10-21",
+   "dateTexte": "21 octobre 2026",
+   "dateCourte": "21 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/374ruv7oirmbsusamq59b/Le-plateau-d-Albion.pdf?rlkey=w10ffpw2vj8tkz5a396gizlfa&st=qs248qrl&dl=0",
+   "drive": "13QKNovaMebOPqvWm0kpuOE1-Y5xSQ-rF",
+   "source": "https://fencersfiles.blogspot.com/2026/10/les-mysteres-du-plateau-dalbion-le.html",
+   "image": "couv/d036",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "035",
+   "billet": "036",
+   "slug": "les-programmes-spatiaux-secrets",
+   "titre": "Les programmes spatiaux secrets",
+   "accroche": "LES PROGRAMMES SPATIAUX SECRETS – CE QUE L’ON NE NOUS DIT PAS SUR LA CONQUÊTE DE L’ESPACE !",
+   "texte": [
+    {
+     "t": "ET SI, DERRIÈRE LES MISSIONS SPATIALES OFFICIELLES, SE DÉROULAIT UNE AUTRE CONQUÊTE DE L’ESPACE DONT NOUS IGNORONS PRESQUE TOUT ?",
+     "fort": true
+    },
+    {
+     "t": "Depuis des décennies, les avancées technologiques et les activités spatiales militaires alimentent de nombreuses interrogations. Satellites confidentiels, projets aérospatiaux classifiés, technologies expérimentales et mystérieux engins orbitaux…",
+     "fort": false
+    },
+    {
+     "t": "Certains chercheurs indépendants vont encore plus loin et évoquent l’existence de programmes spatiaux secrets, de flottes spatiales avancées et même d’éventuelles collaborations avec des intelligences extraterrestres.",
+     "fort": false
+    },
+    {
+     "t": "Que savons-nous réellement de ces programmes ? Quelles technologies sont développées dans le secret des institutions militaires ? Où s’arrête la réalité des projets classifiés et où commencent les théories les plus extraordinaires ?",
+     "fort": false
+    },
+    {
+     "t": "UNE AUTRE CONQUÊTE SPATIALE EST-ELLE EN COURS DANS L’OMBRE ? ET SI L’ESPACE CACHAIT DES PROGRAMMES QUE NOUS N’AVONS JAMAIS IMAGINÉS ?",
+     "fort": true
+    },
+    {
+     "t": "Plongez dans les coulisses de ces projets mystérieux dans un nouveau dossier sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "histoire secrète"
+   ],
+   "date": "2026-10-21",
+   "dateTexte": "21 octobre 2026",
+   "dateCourte": "21 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/8enm3v6z4uy7005fy0unl/les-programmes-spatiaux-secrets.pdf?rlkey=q5kk39i721zj33940yj8nng07&st=oh5q6ck6&dl=0",
+   "drive": "1lZQCPd3Mm6pJxoa_zbKwCsgPalXdokwQ",
+   "source": "https://fencersfiles.blogspot.com/2026/10/les-programmes-spatiaux-secrets-depuis.html",
+   "image": "couv/d035",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "034",
+   "billet": "035",
+   "slug": "les-humanoides-reptiliens-dossiers-de-cas",
+   "titre": "Les humanoïdes reptiliens : dossiers de cas",
+   "accroche": "DOSSIERS DE CAS CONCERNANT DES HUMANOÏDES REPTILIENS – LES RENCONTRES LES PLUS TROUBLANTES !",
+   "texte": [
+    {
+     "t": "DES TÉMOINS AFFIRMENT AVOIR RENCONTRÉ DES ÊTRES À APPARENCE REPTILIENNE… SIMPLE LÉGENDE OU PHÉNOMÈNE INEXPLIQUÉ ?",
+     "fort": true
+    },
+    {
+     "t": "Depuis plusieurs décennies, des récits étonnants évoquent l’apparition d’entités humanoïdes présentant des caractéristiques reptiliennes. Silhouettes étranges, regards inhabituels, apparences non humaines et rencontres inexpliquées… Ces témoignages alimentent l’un des sujets les plus controversés de l’ufologie et du paranormal.",
+     "fort": false
+    },
+    {
+     "t": "Des États-Unis à l’Europe, en passant par l’Amérique du Sud, certaines affaires ont donné naissance à de nombreuses spéculations sur l’existence possible d’une mystérieuse race reptilienne.",
+     "fort": false
+    },
+    {
+     "t": "Qui sont ces créatures décrites par les témoins ? D’où viendraient-elles ? Pourquoi ces récits se ressemblent-ils parfois autant ?",
+     "fort": false
+    },
+    {
+     "t": "DES RENCONTRES ÉTRANGES. DES TÉMOIGNAGES DÉCONCERTANTS. UNE MYSTÉRIEUSE FIGURE QUI TRAVERSE LES RÉCITS DU PARANORMAL…",
+     "fort": true
+    },
+    {
+     "t": "Plongez dans une compilation de cas et de témoignages consacrés aux humanoïdes reptiliens sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "ovni",
+    "vie extraterrestre"
+   ],
+   "date": "2026-10-21",
+   "dateTexte": "21 octobre 2026",
+   "dateCourte": "21 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/6dkqy3r01jna7cp1fuw9b/Les-Reptiliens-dossiers-de-cas.pdf?rlkey=ttd8euti90xgghf9v5ih0kanl&st=dk2z84l3&dl=0",
+   "drive": "1G2lfH_pmd_2UEVeuzPkUib6dFF0T1gmV",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_20.html",
+   "image": "couv/d034",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "033",
+   "billet": "034",
+   "slug": "la-jason-society-et-le-nouvel-ordre-mondial",
+   "titre": "La Jason Society et le nouvel ordre mondial",
+   "accroche": "LA JASON SOCIETY ET LE NOUVEL ORDRE MONDIAL – LES CERCLES D’INFLUENCE DANS L’OMBRE !",
+   "texte": [
+    {
+     "t": "UN GROUPE DE SCIENTIFIQUES ET D’EXPERTS INFLUENTS… DES ÉTUDES CONFIDENTIELLES… ET DES INTERROGATIONS SUR LES GRANDES ORIENTATIONS DU MONDE !",
+     "fort": true
+    },
+    {
+     "t": "Fondée dans les années 1960, la Jason Society, également connue sous le nom de JASON, est un groupe de scientifiques et de chercheurs américains réunis autour de travaux stratégiques destinés notamment aux institutions gouvernementales et militaires.",
+     "fort": false
+    },
+    {
+     "t": "Mais derrière cette organisation discrète se cache un sujet qui alimente de nombreuses spéculations : son influence potentielle sur les décisions politiques, scientifiques et géopolitiques mondiales.",
+     "fort": false
+    },
+    {
+     "t": "Quels étaient réellement ses objectifs ? Qui étaient ses membres ? Quels travaux ont-ils menés ? Et pourquoi son nom revient-il régulièrement dans les théories consacrées aux élites, aux sociétés secrètes et au Nouvel Ordre Mondial ?",
+     "fort": false
+    },
+    {
+     "t": "SCIENCE, POUVOIR, STRATÉGIE ET SECRET… JUSQU’OÙ PEUT ALLER L’INFLUENCE DES CERCLES D’EXPERTS SUR LE DESTIN DU MONDE ?",
+     "fort": true
+    },
+    {
+     "t": "Découvrez cette enquête au croisement de l’histoire secrète, de la géopolitique et des théories du pouvoir sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "histoire secrète"
+   ],
+   "date": "2026-10-20",
+   "dateTexte": "20 octobre 2026",
+   "dateCourte": "20 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/120fdtgfq0pkdqlwo7tof/La-Jason-society.pdf?rlkey=pf37goj3gspktyo9gyqsx8g50&st=s3ztxcof&dl=0",
+   "drive": "1vTK9rzCrgLKoX6QCpKxFtuz2nwYwJlW2",
+   "source": "https://fencersfiles.blogspot.com/2026/10/la-jason-society-et-le-nouvel-ordre.html",
+   "image": "couv/d033",
+   "discret": true,
+   "serie": null
+  },
+  {
+   "numero": "032",
+   "billet": "033",
+   "slug": "les-portes-des-dieux-extraterrestres",
+   "titre": "Les portes des dieux extraterrestres",
+   "accroche": "PORTE INTERDIMENSIONNELLE DANS LES ANDES ?",
+   "texte": [
+    {
+     "t": "ET SI UNE ANCIENNE PORTE DE PIERRE ÉTAIT BIEN PLUS QU’UN SIMPLE MONUMENT ?",
+     "fort": true
+    },
+    {
+     "t": "Au cœur des Andes, une mystérieuse structure intrigue les passionnés d’archéologie et de phénomènes inexpliqués. Connue sous le nom de Porte des Dieux, cette formation rocheuse alimente depuis des décennies des récits fascinants et des théories étonnantes.",
+     "fort": false
+    },
+    {
+     "t": "Certains y voient un ancien lieu de cérémonie, d’autres imaginent un passage vers une autre dimension… Une porte symbolique ? Une technologie oubliée ? Ou une énigme archéologique encore mal comprise ?",
+     "fort": false
+    },
+    {
+     "t": "Entre vestiges précolombiens, légendes ancestrales et hypothèses extraordinaires, partez à la découverte d’un mystère qui semble défier l’imagination.",
+     "fort": false
+    },
+    {
+     "t": "UNE PORTE VERS L’INCONNU… OU LE VESTIGE D’UN SAVOIR OUBLIÉ ?",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "anciennes civilisations"
+   ],
+   "date": "2026-10-20",
+   "dateTexte": "20 octobre 2026",
+   "dateCourte": "20 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/680nr2c7qvc964wh041h8/Les-portails-des-dieux-extraterrestres.pdf?rlkey=da6btasiar3c0r1r4j7cq3nxa&st=74m53rfa&dl=0",
+   "drive": "1OXbIhyhpKoeTIP-ymu0w2-wVg7FepMVt",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_19.html",
+   "image": "couv/d032",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "031",
+   "billet": "032",
+   "slug": "les-secrets-du-mont-bucegi",
+   "titre": "Les secrets du mont Bucegi",
+   "accroche": "MONT BUCEGI – LE SECRET DES ANCIENS : UNE DÉCOUVERTE QUI DÉFIE L’HISTOIRE",
+   "texte": [
+    {
+     "t": "SOUS LES MONTAGNES DE ROUMANIE SE CACHERAIT UN SECRET CAPABLE DE BOUSCULER TOUT CE QUE NOUS CROYONS SAVOIR SUR L’HISTOIRE DE L’HUMANITÉ…",
+     "fort": true
+    },
+    {
+     "t": "Au cœur des Carpates, le massif du Bucegi est associé à des récits extraordinaires : passages souterrains, chambres mystérieuses, connaissances ancestrales et technologies prétendument inconnues.",
+     "fort": false
+    },
+    {
+     "t": "Au centre de ces histoires : le célèbre Sphinx des Bucegi et la légendaire découverte d’une mystérieuse salle souterraine.",
+     "fort": false
+    },
+    {
+     "t": "Simple légende moderne ? Secret archéologique oublié ? Ou récit fantastique devenu l’un des grands mythes du mystère contemporain ?",
+     "fort": false
+    },
+    {
+     "t": "ET SI LE PLUS GRAND SECRET DU MONT BUCEGI SE TROUVAIT SOUS NOS PIEDS ?",
+     "fort": true
+    },
+    {
+     "t": "Plongez dans ce dossier fascinant sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "histoire secrète"
+   ],
+   "date": "2026-10-19",
+   "dateTexte": "19 octobre 2026",
+   "dateCourte": "19 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/9qfvsc5d64cfhlrfqyjnn/les-secrets-du-mont-bucegi.pdf?rlkey=zxtgvprtcne5jihq4dvfqiurv&st=27ltpgwc&dl=0",
+   "drive": "1oMx37Rya4QTmzPO0SGq2PzPy27fd5Tiq",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_18.html",
+   "image": "couv/d031",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "030",
+   "billet": "031",
+   "slug": "le-groupe-nebu-d-orion",
+   "titre": "Le groupe Nebu d’Orion",
+   "accroche": "GROUPE NEBU D’ORION – LE SECRET DES ÉTOILES : RÉVÉLATIONS SUR UNE CIVILISATION INCONNUE",
+   "texte": [
+    {
+     "t": "VENUS DES CONFINS D’ORION, CES ÊTRES MYSTÉRIEUX SERAIENT-ILS LIÉS À L’UN DES PLUS GRANDS SECRETS DE L’HUMANITÉ ?",
+     "fort": true
+    },
+    {
+     "t": "Dans l’univers fascinant de l’ufologie et des récits de contacts extraterrestres, le nom du groupe Nebu d’Orion suscite curiosité et interrogations.",
+     "fort": false
+    },
+    {
+     "t": "Qui seraient ces entités associées à la constellation d’Orion ? Quelles seraient leurs origines, leurs intentions et leurs relations supposées avec la Terre ?",
+     "fort": false
+    },
+    {
+     "t": "Entre témoignages, récits de contact, traditions ésotériques et théories extraterrestres, ce dossier explore les différentes histoires et hypothèses entourant ce mystérieux groupe.",
+     "fort": false
+    },
+    {
+     "t": "Une civilisation venue d’ailleurs ? Une présence ancienne liée à l’humanité ? Ou une construction issue de l’imaginaire ufologique ?",
+     "fort": false
+    },
+    {
+     "t": "ORION CACHE-T-IL UN SECRET QUE NOUS N’AVONS PAS ENCORE PERCÉ ?",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "vie extraterrestre"
+   ],
+   "date": "2026-10-18",
+   "dateTexte": "18 octobre 2026",
+   "dateCourte": "18 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/0f9t9q7ghmtkzu3kea5va/Le-groupe-Nebu-Orion.pdf?rlkey=ighljlw3xq6oxz7zvy8fx4q0t&st=7r1fqckf&dl=0",
+   "drive": "1DYPK6bb_6TR8f6WHmVOpN6deK-T4n3LS",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_17.html",
+   "image": "couv/d030",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "029",
+   "billet": "030",
+   "slug": "les-enigmatiques-statues-dogu",
+   "titre": "Les énigmatiques statues Dogū",
+   "accroche": "LES ÉNIGMATIQUES STATUES JAPONAISES DOGŪ",
+   "texte": [
+    {
+     "t": "CES FIGURINES VIEILLES DE PLUSIEURS MILLÉNAIRES SEMBLENT VENIR D’UN AUTRE MONDE… QUI LES A RÉELLEMENT INSPIRÉES ?",
+     "fort": true
+    },
+    {
+     "t": "Découvertes au Japon et datant de la préhistoire, les mystérieuses statuettes Dogū fascinent par leurs formes étonnantes, leurs silhouettes singulières et leurs yeux parfois démesurés.",
+     "fort": false
+    },
+    {
+     "t": "Créées durant la période Jōmon, ces figurines d’argile soulèvent encore de nombreuses interrogations : quelle était leur véritable fonction ? Représentaient-elles des divinités, des esprits ou des personnages liés à des rites ancestraux ?",
+     "fort": false
+    },
+    {
+     "t": "Certains passionnés de mystères vont même jusqu’à comparer leurs formes à celles de combinaisons spatiales…",
+     "fort": false
+    },
+    {
+     "t": "Simple expression artistique d’une civilisation ancienne ou témoignage d’une symbolique encore incomprise ?",
+     "fort": false
+    },
+    {
+     "t": "ET SI CES FIGURINES PRÉHISTORIQUES AVAIENT ENCORE BIEN DES SECRETS À NOUS RÉVÉLER ?",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "anciennes civilisations"
+   ],
+   "date": "2026-10-17",
+   "dateTexte": "17 octobre 2026",
+   "dateCourte": "17 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/6qesf8436tj1u2cr4b5y1/Les-nigmatiques-statues-Dogu.pdf?rlkey=6ctf2t8z0svv62395e6i9pjb9&st=a8fy1qov&dl=0",
+   "drive": "1Of0vi1Z_o-j6cG5iAjMiZnkIZTnSq2TV",
+   "source": "https://fencersfiles.blogspot.com/2026/10/les-enigmatiques-statues-japonaises.html",
+   "image": "couv/d029",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "028",
+   "billet": "029",
+   "slug": "le-swastika-symbole-millenaire",
+   "titre": "Le swastika, symbole millénaire",
+   "accroche": "LE SWASTIKA : LE SYMBOLE AUX MULTIPLES VISAGES",
+   "texte": [
+    {
+     "t": "COMMENT UN SYMBOLE MILLÉNAIRE, AUTREFOIS ASSOCIÉ À LA VIE, AU SOLEIL ET À LA PROSPÉRITÉ, EST-IL DEVENU L’UN DES EMBLÈMES LES PLUS REDOUTÉS DE L’HISTOIRE ?",
+     "fort": true
+    },
+    {
+     "t": "Présent depuis des millénaires dans de nombreuses civilisations, de l’Inde ancienne à l’Asie, en passant par l’Europe, le swastika possède une histoire aussi ancienne que fascinante.",
+     "fort": false
+    },
+    {
+     "t": "Symbole de bonheur, de prospérité, de renouveau et de cycle solaire dans plusieurs traditions religieuses et culturelles, il a connu une transformation radicale au XXe siècle avec son appropriation par le régime nazi.",
+     "fort": false
+    },
+    {
+     "t": "Mais quelle est sa véritable origine ? Pourquoi retrouve-t-on ce motif dans des cultures géographiquement éloignées ? Que représentait-il avant son détournement politique et idéologique ?",
+     "fort": false
+    },
+    {
+     "t": "De l’archéologie aux traditions spirituelles, en passant par les mystères de ses origines et son instrumentalisation par le nazisme, ce dossier retrace le parcours d’un symbole hors du commun.",
+     "fort": false
+    },
+    {
+     "t": "UN SIGNE ANCESTRAL, UNE HISTOIRE OUBLIÉE… ET UN DESTIN QUI A MARQUÉ L’HUMANITÉ.",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "anciennes civilisations",
+    "symbolisme"
+   ],
+   "date": "2026-10-17",
+   "dateTexte": "17 octobre 2026",
+   "dateCourte": "17 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/mcb2hdhyoek9b3fy8mb4o/Le-swastika-symbole-mill-naire.pdf?rlkey=e5ttmgr73jg3td8lr05kxz21b&st=2ytci7or&dl=0",
+   "drive": "1vaATyIBTh3umz4fl3I4_8mTmL6B-Ak-U",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_15.html",
+   "image": "couv/d028",
+   "discret": true,
+   "serie": null
+  },
+  {
+   "numero": "027",
+   "billet": "028",
+   "slug": "le-mystere-de-mohenjo-daro",
+   "titre": "Le mystère de Mohenjo-Daro",
+   "accroche": "IL Y A PLUS DE 4 000 ANS, UNE CIVILISATION POSSÉDAIT DÉJÀ DES VILLES ORGANISÉES, DES RÉSEAUX D’ÉGOUTS ET UNE ARCHITECTURE REMARQUABLE… PUIS SON MONDE A DISPARU DANS L’HISTOIRE.",
+   "texte": [
+    {
+     "t": "MOHENJO-DARO : LA CITÉ DISPARUE QUI DÉFIE LE TEMPS",
+     "fort": true
+    },
+    {
+     "t": "Au cœur de l’actuel Pakistan se dressent les vestiges de Mohenjo-Daro, l’une des plus fascinantes cités de la civilisation de la vallée de l’Indus.",
+     "fort": false
+    },
+    {
+     "t": "Ses rues géométriques, ses systèmes d’évacuation des eaux, ses bâtiments en briques et son étonnant Grand Bain témoignent d’un niveau d’organisation exceptionnel pour l’Antiquité.",
+     "fort": false
+    },
+    {
+     "t": "Mais qui étaient réellement ses habitants ? Pourquoi cette grande cité a-t-elle été progressivement abandonnée ? Que nous révèle son écriture toujours indéchiffrée ?",
+     "fort": false
+    },
+    {
+     "t": "Entre découvertes archéologiques, énigmes historiques et théories controversées, partez à la rencontre d’une civilisation dont de nombreux secrets restent encore à éclaircir.",
+     "fort": false
+    },
+    {
+     "t": "MOHENJO-DARO : LES RUINES D’UN MONDE OUBLIÉ… ET LES MYSTÈRES D’UNE CIVILISATION DISPARUE.",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "anciennes civilisations"
+   ],
+   "date": "2026-10-15",
+   "dateTexte": "15 octobre 2026",
+   "dateCourte": "15 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/gdmbn6ommw8hz5rpzcjhw/Le-myst-re-de-Mohenjo-Daro.pdf?rlkey=jm4xehjji89fx6glwwv6m5x31&st=ofkwbybc&dl=0",
+   "drive": "1eOMtMEjvA5Ur_NO4TYuFxkb337Hp78cg",
+   "source": "https://fencersfiles.blogspot.com/2026/10/mohenjo-daro-site-detruit-par-une.html",
+   "image": "couv/d027",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "026",
+   "billet": "027",
+   "slug": "les-gris-catalogue-des-especes",
+   "titre": "Les Gris : catalogue des espèces",
+   "accroche": "PETITS ÊTRES À LA PEAU GRISE, GRANDS YEUX NOIRS, VISAGES SANS EXPRESSION… ET S’ILS ÉTAIENT LES VISITEURS LES PLUS SOUVENT ÉVOQUÉS DANS LES RÉCITS DE RENCONTRES EXTRATERRESTRES ?",
+   "texte": [
+    {
+     "t": "LES GRIS - AU CŒUR DU MONDE EXTRATERRESTRE : ESPÈCES ET CIVILISATIONS",
+     "fort": true
+    },
+    {
+     "t": "Depuis des décennies, les mystérieux « Gris » occupent une place centrale dans l’imaginaire ufologique. Décrits dans de nombreux témoignages de rencontres rapprochées, ils sont devenus l’une des figures emblématiques du phénomène extraterrestre.",
+     "fort": false
+    },
+    {
+     "t": "Mais existe-t-il plusieurs catégories de Gris ? Petits Gris, Grands Gris, Gris d’Orion… quelles différences les récits et les classifications ufologiques leur attribuent-ils ?",
+     "fort": false
+    },
+    {
+     "t": "Quelles seraient leurs origines, leurs caractéristiques physiques, leurs capacités et leurs intentions supposées envers l’humanité ?",
+     "fort": false
+    },
+    {
+     "t": "À travers ce catalogue, explorez les différentes espèces et classifications rapportées dans la littérature ufologique, entre témoignages, récits de contact et hypothèses controversées.",
+     "fort": false
+    },
+    {
+     "t": "QUI SE CACHE DERRIÈRE CES REGARDS NOIRS DEVENUS LÉGENDAIRES ?",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "ovni",
+    "vie extraterrestre"
+   ],
+   "date": "2026-10-15",
+   "dateTexte": "15 octobre 2026",
+   "dateCourte": "15 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/7ic9i1i9q6d2nqxke3eoq/les-gris-catalogue-des-esp-ces.pdf?rlkey=69eid2c5du747wdrw2mx7bvtg&st=tenw4xdr&dl=0",
+   "drive": "1S-9PWtC_Hdid6Cu6TOLRn-YKgecwToiS",
+   "source": "https://fencersfiles.blogspot.com/2026/10/les-gris-catalogue-des-especes-toute.html",
+   "image": "couv/d026",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "025",
+   "billet": "026",
+   "slug": "l-etrange-aventure-de-betty-andreasson",
+   "titre": "L’étrange aventure de Betty Andreasson",
+   "accroche": "L’ÉTRANGE AVENTURE DE BETTY ANDREASSON",
+   "texte": [
+    {
+     "t": "UNE RENCONTRE NOCTURNE, DES ÊTRES AUX APPARENCES INHABITUELLES ET DES SOUVENIRS TROUBLANTS… QUE S’EST-IL RÉELLEMENT PASSÉ CHEZ BETTY ANDREASSON EN 1967 ?",
+     "fort": true
+    },
+    {
+     "t": "Le 25 janvier 1967, dans le Massachusetts, Betty Andreasson affirme avoir vécu une expérience extraordinaire : une rencontre avec d’étranges entités qu’elle décrit comme des êtres extraterrestres.",
+     "fort": false
+    },
+    {
+     "t": "Son récit, devenu célèbre dans l’histoire de l’ufologie, évoque des phénomènes inexpliqués, des expériences hors du commun et des visions particulièrement énigmatiques.",
+     "fort": false
+    },
+    {
+     "t": "Mais que raconte exactement son témoignage ? Comment cette affaire a-t-elle été étudiée ? Quels éléments ont été rapportés et quelles interrogations demeurent ?",
+     "fort": false
+    },
+    {
+     "t": "Entre récit de contact, phénomènes allégués et enquêtes ufologiques, plongez dans l’une des affaires les plus singulières de l’histoire des rencontres extraterrestres.",
+     "fort": false
+    },
+    {
+     "t": "BETTY ANDREASSON : TÉMOIGNAGE EXTRAORDINAIRE OU ÉNIGME QUI DÉFIE L’EXPLICATION ?",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "ovni",
+    "vie extraterrestre"
+   ],
+   "date": "2026-10-15",
+   "dateTexte": "15 octobre 2026",
+   "dateCourte": "15 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/jipy1ptcgscu1jfxmkmsj/Le-cas-Betty-Andreasson.pdf?rlkey=13au92c120pi79vg0b4bb5l9d&st=3k727zd4&dl=0",
+   "drive": "1x7CkMlNSuFDNqj3kC313O9tAaoxyRt6j",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_14.html",
+   "image": "couv/d025",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "024",
+   "billet": "025",
+   "slug": "l-histoire-des-hav-musuvs",
+   "titre": "L’histoire des Hav-Musuvs",
+   "accroche": "LES HAV-MUSUVS : LE PEUPLE MYSTÉRIEUX DES PROFONDEURS",
+   "texte": [
+    {
+     "t": "AU CŒUR DES MONTAGNES DE CALIFORNIE, UNE ANCIENNE LÉGENDE ÉVOQUE UN PEUPLE ÉNIGMATIQUE VIVANT DANS LES ENTRAILLES DE LA TERRE… ET SI LEUR HISTOIRE ÉTAIT BIEN PLUS TROUBLANTE QU’ON NE L’IMAGINE ?",
+     "fort": true
+    },
+    {
+     "t": "Les Hav-Musuvs occupent une place singulière dans certains récits consacrés aux mystères de la vallée de la Mort et de la Sierra Nevada.",
+     "fort": false
+    },
+    {
+     "t": "Selon des histoires popularisées dans la littérature mystérieuse, ce peuple aurait vécu dans des cavernes souterraines, au sein d’un monde caché, loin des regards humains.",
+     "fort": false
+    },
+    {
+     "t": "Qui seraient ces mystérieux habitants ? D’où viendrait cette légende ? Quels liens certains auteurs établissent-ils avec les tunnels secrets, les civilisations disparues et les récits de mondes souterrains ?",
+     "fort": false
+    },
+    {
+     "t": "Entre traditions rapportées, récits ésotériques et spéculations sur les civilisations cachées, partez à la découverte d’une histoire fascinante dont les origines méritent d’être examinées.",
+     "fort": false
+    },
+    {
+     "t": "UN PEUPLE OUBLIÉ… UN MONDE SOUTERRAIN… ET UN MYSTÈRE ENFOUI SOUS LES MONTAGNES.",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "anciennes civilisations"
+   ],
+   "date": "2026-10-14",
+   "dateTexte": "14 octobre 2026",
+   "dateCourte": "14 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/fkv5hi7cvy62e8eqhn37b/l-histoire-des-Havmusuvs.pdf?rlkey=u0sx5ubcxh4up9r6vsq67ds7g&st=guovfwt6&dl=0",
+   "drive": "1kz3crIapk4S-WZZPJtr7H-cvAMgTwqK6",
+   "source": "https://fencersfiles.blogspot.com/2026/10/lhistoire-des-hav-musuvs-selon-les.html",
+   "image": "couv/d024",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "023",
+   "billet": "024",
+   "slug": "les-legendes-du-mont-kailash",
+   "titre": "Les légendes du mont Kailash",
+   "accroche": "UNE MONTAGNE QUE L’HOMME N’A JAMAIS CONQUISE… UN SOMMET ENTOURÉ DE LÉGENDES MILLÉNAIRES… ET SI LE MONT KAILASH ÉTAIT BIEN PLUS QU’UNE SIMPLE MONTAGNE ?",
+   "texte": [
+    {
+     "t": "LES LÉGENDES DU MONT KAILASH : LE SANCTUAIRE DES DIEUX",
+     "fort": true
+    },
+    {
+     "t": "Au cœur du Tibet, dans un paysage isolé et grandiose, se dresse le mystérieux mont Kailash. Considéré comme sacré par plusieurs traditions spirituelles, il est associé à des divinités, à des récits cosmiques et à des croyances ancestrales.",
+     "fort": false
+    },
+    {
+     "t": "Demeure de Shiva dans l’hindouisme, montagne sacrée dans le bouddhisme, le jaïnisme et la tradition bön, le Kailash occupe une place exceptionnelle dans l’imaginaire religieux asiatique.",
+     "fort": false
+    },
+    {
+     "t": "Mais pourquoi ce sommet fascine-t-il autant ? Que racontent les légendes sur ses origines ? Quels secrets se cacheraient derrière sa forme singulière, ses paysages et les récits qui l’entourent ?",
+     "fort": false
+    },
+    {
+     "t": "Entre mythologie, spiritualité, phénomènes inexpliqués et théories mystérieuses, partez à la découverte d’un lieu où les croyances ancestrales rencontrent les grandes énigmes de notre monde.",
+     "fort": false
+    },
+    {
+     "t": "LE MONT KAILASH : MONTAGNE DES DIEUX, CENTRE DU MONDE OU PORTE VERS L’INCONNU ?",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "lieux mystérieux"
+   ],
+   "date": "2026-10-14",
+   "dateTexte": "14 octobre 2026",
+   "dateCourte": "14 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/cmrjz30av56zernnj0f9j/Le-Mont-Kailash-et-le-Kalaisa-Temple.pdf?rlkey=0s1eqp2xdjbigy49tptwskkxx&st=qcbqcjkp&dl=0",
+   "drive": "1IwZn3-hZxypKuF0ScMniVMzEJj6CzZVG",
+   "source": "https://fencersfiles.blogspot.com/2026/10/les-legendes-du-mont-kailash-le-mont.html",
+   "image": "couv/d023",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "022",
+   "billet": "023",
+   "slug": "le-projet-redbook",
+   "titre": "Le projet Redbook",
+   "accroche": "ET SI DES RENCONTRES ENTRE L’HUMANITÉ ET DES CIVILISATIONS EXTRATERRESTRES AVAIENT ÉTÉ ENVISAGÉES DANS LE PLUS GRAND SECRET ?",
+   "texte": [
+    {
+     "t": "LE PROJET REDBOOK : LE SECRET DES CONTACTS EXTRATERRESTRES ?",
+     "fort": true
+    },
+    {
+     "t": "Dans l’univers mystérieux de l’ufologie, le Projet Redbook est associé à des récits controversés évoquant des contacts extraterrestres, des informations confidentielles et de supposés programmes secrets.",
+     "fort": false
+    },
+    {
+     "t": "Que se cache-t-il derrière cette appellation ? Quelle serait l’origine de ce projet ? Quels liens certains récits établissent-ils avec les autorités, les phénomènes OVNI et l’hypothèse d’une présence extraterrestre sur Terre ?",
+     "fort": false
+    },
+    {
+     "t": "Entre documents allégués, témoignages, théories du secret et spéculations ufologiques, ce dossier explore une affaire intrigante qui soulève de nombreuses questions.",
+     "fort": false
+    },
+    {
+     "t": "UN PROJET CONFIDENTIEL ? DES CONTACTS CACHÉS ? OU L’UNE DES GRANDES ÉNIGMES DE LA CULTURE UFOLOGIQUE ?",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "bases secrètes",
+    "histoire secrète"
+   ],
+   "date": "2026-10-14",
+   "dateTexte": "14 octobre 2026",
+   "dateCourte": "14 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/pixui5ql0vm1f5c0vgjyb/le-projet-redbook.pdf?rlkey=2ozlcd3bswcz55pxqlypd5ric&st=vucjm4hs&dl=0",
+   "drive": "1wRh9GUG_dSCYekh_DAWoVJh-zWJIZPAg",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_13.html",
+   "image": "couv/d022",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "021",
+   "billet": "022",
+   "slug": "la-base-de-nellis-et-les-tall-whites",
+   "titre": "La base de Nellis et les Tall Whites",
+   "accroche": "CHARLES HALL ET SA RENCONTRE AVEC LES GRANDS BLANCS",
+   "texte": [
+    {
+     "t": "IL AFFIRME AVOIR RENCONTRÉ DES ÊTRES EXTRATERRESTRES DANS LE DÉSERT DU NEVADA… DES ÊTRES AUX SILHOUETTES HUMANOÏDES, À LA PEAU BLANCHE ET AUX ORIGINES MYSTÉRIEUSES !",
+     "fort": true
+    },
+    {
+     "t": "Dans les années 1960, Charles Hall, ancien météorologue de l’US Air Force, affirme avoir été témoin de phénomènes extraordinaires alors qu’il était affecté sur le site militaire de Nellis, dans le désert du Nevada.",
+     "fort": false
+    },
+    {
+     "t": "Dans ses récits, il évoque les mystérieux « Tall Whites », ou Grands Blancs : des entités humanoïdes qu’il dit avoir observées à proximité des installations militaires.",
+     "fort": false
+    },
+    {
+     "t": "Qui seraient ces êtres ? D’où viendraient-ils ? Quels rapports auraient-ils entretenus avec les militaires américains ? Et pourquoi leur présence supposée aurait-elle été entourée d’autant de secret ?",
+     "fort": false
+    },
+    {
+     "t": "Entre témoignage personnel, récits ufologiques et hypothèses sur une possible coopération entre humains et visiteurs extraterrestres, cette affaire figure parmi les histoires les plus intrigantes du phénomène OVNI.",
+     "fort": false
+    },
+    {
+     "t": "CHARLES HALL A-T-IL RÉELLEMENT CROISÉ UNE CIVILISATION VENUE D’AILLEURS… OU SOMMES-NOUS FACE À L’UN DES RÉCITS LES PLUS CONTROVERSÉS DE L’UFOLOGIE ?",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "histoire secrète",
+    "vie extraterrestre"
+   ],
+   "date": "2026-10-13",
+   "dateTexte": "13 octobre 2026",
+   "dateCourte": "13 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/au2eiae1uam5iednr67ow/La-base-de-Nellis-et-les-tall-whites.pdf?rlkey=s6ujq7nfjcfh28pztp9a424qk&st=god31anv&dl=0",
+   "drive": "1O3uq2mNFx_Nruzk0Fgcu93eK5fQbLT9a",
+   "source": "https://fencersfiles.blogspot.com/2026/10/charles-hall-et-sa-rencontre-avec-les.html",
+   "image": "couv/d021",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "020",
+   "billet": "021",
+   "slug": "les-arcturiens",
+   "titre": "Les Arcturiens",
+   "accroche": "RACE EXTRATERRESTRE : LES ARCTURIENS",
+   "texte": [
+    {
+     "t": "VENUS D’UNE ÉTOILE LOINTAINE DE LA CONSTELLATION DU BOUVIER, LES ARCTURIENS SERAIENT-ILS PARMI LES CIVILISATIONS EXTRATERRESTRES LES PLUS AVANCÉES ÉVOQUÉES DANS LES RÉCITS DE CONTACT ?",
+     "fort": true
+    },
+    {
+     "t": "Dans l’univers fascinant de l’ufologie et de l’ésotérisme, les Arcturiens occupent une place particulière. Associés à l’étoile Arcturus, ils sont décrits dans certains récits comme des êtres dotés d’une intelligence exceptionnelle, d’une technologie évoluée et de connaissances spirituelles hors du commun.",
+     "fort": false
+    },
+    {
+     "t": "Qui seraient-ils réellement ? À quoi ressembleraient-ils ? Quelles seraient leurs origines, leurs capacités et leurs intentions supposées envers l’humanité ?",
+     "fort": false
+    },
+    {
+     "t": "Certains témoignages leur attribuent un rôle de guides et de protecteurs, tandis que d’autres évoquent une civilisation dont les connaissances dépasseraient largement les nôtres.",
+     "fort": false
+    },
+    {
+     "t": "Entre récits de contact, traditions ésotériques et hypothèses extraterrestres, partez à la découverte de cette mystérieuse civilisation.",
+     "fort": false
+    },
+    {
+     "t": "ARCTURUS ABRITERAIT-ELLE UNE CIVILISATION DONT NOUS IGNORONS ENCORE TOUT ?",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "vie extraterrestre"
+   ],
+   "date": "2026-10-13",
+   "dateTexte": "13 octobre 2026",
+   "dateCourte": "13 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/fsfyjexrp8v6ljvrnzq7t/Les-Arcturiens.pdf?rlkey=s1wvg83mjybnbehtcgl4w78gm&st=djtonbym&dl=0",
+   "drive": "1Y9TF1kpUcGZCLBlaYjx6ue5-msVa49ay",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_900.html",
+   "image": "couv/d020",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "019",
+   "billet": "020",
+   "slug": "les-crop-circles-sont-ils-crees-par-des-sons",
+   "titre": "Les crop circles sont-ils créés par des sons ?",
+   "accroche": "CROP CIRCLES - LE SECRET DES ONDES : LE SON POURRAIT-IL DESSINER LES CHAMPS ?",
+   "texte": [
+    {
+     "t": "ET SI LES MYSTÉRIEUX DESSINS APPARAISSANT DANS LES CHAMPS N’ÉTAIENT PAS SIMPLEMENT DES TRACES AU SOL… MAIS LE RÉSULTAT D’UNE ÉTRANGE INTERACTION AVEC LES ONDES SONORES ?",
+     "fort": true
+    },
+    {
+     "t": "Depuis des décennies, les crop circles fascinent les chercheurs, les passionnés d’ufologie et les amateurs de phénomènes inexpliqués. Ces immenses figures géométriques, parfois d’une complexité étonnante, apparaissent dans les cultures agricoles et suscitent de nombreuses interrogations.",
+     "fort": false
+    },
+    {
+     "t": "Mais une hypothèse particulière attire l’attention : le son pourrait-il être à l’origine de certaines formations ?",
+     "fort": false
+    },
+    {
+     "t": "Ondes acoustiques, vibrations, fréquences, résonance et cymatique… Ces phénomènes physiques ouvrent des pistes de réflexion étonnantes sur les liens entre le son et la matière.",
+     "fort": false
+    },
+    {
+     "t": "Les crop circles seraient-ils le résultat d’une technologie inconnue ? D’une manifestation naturelle ? Ou de créations humaines reposant sur des procédés encore méconnus du grand public ?",
+     "fort": false
+    },
+    {
+     "t": "LE SON POURRAIT-IL DESSINER DES FORMES GÉOMÉTRIQUES GÉANTES DANS NOS CHAMPS ?",
+     "fort": true
+    },
+    {
+     "t": "Découvrez ce dossier surprenant sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [
+    "faits mystérieux"
+   ],
+   "date": "2026-10-10",
+   "dateTexte": "10 octobre 2026",
+   "dateCourte": "10 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/yr5uqbvtxd0x30e4y5twr/les-crop-circles-sont-ils-crees-par-des-sons.pdf?rlkey=wmwebseuyxjf5mqy6bxx2jdlj&st=6vd3he4r&dl=0",
+   "drive": "19rAs6W1opqHYIDGvYhQgMQb8KZemZuKf",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_69.html",
+   "image": "couv/d019",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "018",
+   "billet": "019",
+   "slug": "les-reptiliens-catalogue-des-especes",
+   "titre": "Les Reptiliens : catalogue des espèces",
+   "accroche": "ILS SERAIENT PARMI LES ENTITÉS EXTRATERRESTRES LES PLUS REDOUTÉES DES RÉCITS UFOLOGIQUES… MAIS QUI SONT RÉELLEMENT LES REPTILIENS ?",
+   "texte": [
+    {
+     "t": "LE CATALOGUE DES ESPÈCES DE REPTILIENS",
+     "fort": true
+    },
+    {
+     "t": "Depuis des décennies, les Reptiliens alimentent les récits les plus mystérieux de l’ufologie, de l’ésotérisme et des théories sur les civilisations extraterrestres.",
+     "fort": false
+    },
+    {
+     "t": "Décrits comme des humanoïdes à l’apparence reptilienne, ces êtres supposés seraient issus de différentes origines stellaires et posséderaient des caractéristiques physiques et des capacités très variées.",
+     "fort": false
+    },
+    {
+     "t": "Draconiens, Reptiliens de type terrestre, êtres de différentes lignées et autres espèces présumées… Ce catalogue explore les classifications, les descriptions et les particularités attribuées à ces mystérieuses entités dans la littérature ufologique.",
+     "fort": false
+    },
+    {
+     "t": "Quelles seraient leurs origines ? Où seraient-ils supposément présents ? Quels rôles leur attribuent les récits de rencontres et les témoignages controversés ?",
+     "fort": false
+    },
+    {
+     "t": "DERRIÈRE LES APPARENCES REPTILIENNES SE CACHE UN UNIVERS DE RÉCITS ET D’HYPOTHÈSES QUI NE CESSE D’INTRIGUER.",
+     "fort": true
+    }
+   ],
+   "rubriques": [],
+   "date": "2026-10-10",
+   "dateTexte": "10 octobre 2026",
+   "dateCourte": "10 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/aonbi8ym4rz7bpijk0gwd/Les-reptiliens-catalogue-des-esp-ces.pdf?rlkey=250a4uklxlripydk8c9ycaa2l&st=gz4bzkbd&dl=0",
+   "drive": "1YbEJ2U1YrFcrhX3YT3SasZvoE4PLDhCI",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_758.html",
+   "image": "couv/d018",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "017",
+   "billet": "018",
+   "slug": "les-mysteres-des-dogons",
+   "titre": "Les mystères des Dogons",
+   "accroche": "COMMENT UN PEUPLE DU MALI A-T-IL PU ÊTRE ASSOCIÉ À DES CONNAISSANCES ASTRONOMIQUES SUR SIRIUS QUI SEMBLENT DÉFIER LES CROYANCES TRADITIONNELLES ?",
+   "texte": [
+    {
+     "t": "LES MYSTÉRIEUX DIEUX DES DOGONS : LE SECRET DE SIRIUS",
+     "fort": true
+    },
+    {
+     "t": "Au cœur des falaises de Bandiagara, au Mali, le peuple Dogon possède une cosmogonie fascinante, peuplée de divinités, de créatures mythologiques et de récits sur l’origine de l’univers.",
+     "fort": false
+    },
+    {
+     "t": "Parmi les figures les plus énigmatiques se trouvent les Nommos, des êtres aquatiques associés à la création du monde et à la transmission du savoir.",
+     "fort": false
+    },
+    {
+     "t": "Mais le mystère ne s’arrête pas là… Certains récits ethnographiques ont établi un lien entre les traditions dogon et le système stellaire de Sirius, notamment son compagnon invisible à l’œil nu.",
+     "fort": false
+    },
+    {
+     "t": "Ces connaissances viendraient-elles d’une transmission ancestrale ? D’une interprétation symbolique ? Ou faut-il y voir l’une des grandes énigmes de l’histoire des civilisations ?",
+     "fort": false
+    },
+    {
+     "t": "Entre mythologie africaine, astronomie, traditions sacrées et hypothèses extraterrestres, plongez dans un dossier où les frontières entre croyances et mystères semblent se brouiller.",
+     "fort": false
+    },
+    {
+     "t": "LES NOMMOS : DIVINITÉS MYTHIQUES OU VISITEURS VENUS DES ÉTOILES ?",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "anciennes civilisations",
+    "vie extraterrestre"
+   ],
+   "date": "2026-10-10",
+   "dateTexte": "10 octobre 2026",
+   "dateCourte": "10 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/wt803r7tqvostpymtw096/Les-myst-res-des-Dogons.pdf?rlkey=c6h92z5f3xnwc8sia9fhtktvb&st=e2j737fx&dl=0",
+   "drive": "1zpzOK9A97V_CWqaUW16r9Ga0jl8yPC9j",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_10.html",
+   "image": "couv/d017",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "016",
+   "billet": "017",
+   "slug": "le-mysterieux-coral-castle",
+   "titre": "Le mystérieux Coral Castle",
+   "accroche": "CORAL CASTLE – LE MYSTÈRE DES PIERRES IMPOSSIBLES : LE SECRET D’EDWARD LEEDSKALNIN",
+   "texte": [
+    {
+     "t": "UN HOMME, DES BLOCS DE PIERRE PESANT PLUSIEURS TONNES ET UN SECRET QU’IL A EMPORTÉ DANS SA TOMBE… COMMENT EDWARD LEEDSKALNIN A-T-IL PU CONSTRUIRE SEUL UN TEL MONUMENT ?",
+     "fort": true
+    },
+    {
+     "t": "En Floride, aux États-Unis, se trouve l’un des lieux les plus énigmatiques du monde : Coral Castle.",
+     "fort": false
+    },
+    {
+     "t": "Entre 1923 et 1951, Edward Leedskalnin, un homme discret et solitaire, a façonné un ensemble monumental composé d’immenses blocs de calcaire corallien, de sculptures et de structures étonnantes.",
+     "fort": false
+    },
+    {
+     "t": "Mais comment cet homme, de petite stature, aurait-il pu déplacer et assembler de telles masses rocheuses sans aide apparente ?",
+     "fort": false
+    },
+    {
+     "t": "Certains évoquent des techniques oubliées, d’autres des connaissances particulières sur le magnétisme, les champs électromagnétiques ou même une technologie inconnue.",
+     "fort": false
+    },
+    {
+     "t": "Quel était réellement son secret ? Comment fonctionnait son étonnante porte de pierre ? Et pourquoi a-t-il consacré une grande partie de sa vie à cette construction mystérieuse ?",
+     "fort": false
+    },
+    {
+     "t": "LE SECRET DE CORAL CASTLE A-T-IL ÉTÉ PERDU AVEC SON CRÉATEUR ?",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "faits mystérieux"
+   ],
+   "date": "2026-10-10",
+   "dateTexte": "10 octobre 2026",
+   "dateCourte": "10 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/40rmcyx7rvy6otauzz9dv/Le-myst-rieux-Coral-Castle.pdf?rlkey=74ol9gvx8as9ck0m62f3rcse2&st=yk5p80xf&dl=0",
+   "drive": "1q55SQ5j9teNb-MGo-sP0FF2K709wYiri",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_391.html",
+   "image": "couv/d016",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "015",
+   "billet": "016",
+   "slug": "les-lyriens",
+   "titre": "Les Lyriens",
+   "accroche": "LES LYRIENS - LE PEUPLE DES ÉTOILES : AUX ORIGINES D’UN MYSTÈRE COSMIQUE",
+   "texte": [
+    {
+     "t": "ET SI LES ORIGINES DE CERTAINES CIVILISATIONS EXTRATERRESTRES ÉTAIENT À RECHERCHER DANS LA CONSTELLATION DE LA LYRE ?",
+     "fort": true
+    },
+    {
+     "t": "Dans l’univers fascinant de l’ufologie et des récits de contacts extraterrestres, les Lyriens occupent une place particulière. Présentés dans certaines traditions ésotériques comme l’une des plus anciennes lignées stellaires, ils seraient à l’origine de différentes civilisations humanoïdes dispersées dans la galaxie.",
+     "fort": false
+    },
+    {
+     "t": "À quoi ressembleraient-ils ? Quelles seraient leurs origines ? Quels liens supposés entretiendraient-ils avec les Pléiadiens, les différentes races humanoïdes et l’histoire de l’humanité ?",
+     "fort": false
+    },
+    {
+     "t": "Certains récits leur attribuent une civilisation très ancienne, des connaissances technologiques avancées et un rôle majeur dans les récits de l’origine extraterrestre de l’homme.",
+     "fort": false
+    },
+    {
+     "t": "Entre mythologie stellaire, témoignages de contact et hypothèses ufologiques, découvrez l’univers mystérieux des Lyriens.",
+     "fort": false
+    },
+    {
+     "t": "LA CONSTELLATION DE LA LYRE POURRAIT-ELLE ÊTRE AU CŒUR D’UNE HISTOIRE EXTRATERRESTRE OUBLIÉE ?",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "vie extraterrestre"
+   ],
+   "date": "2026-10-09",
+   "dateTexte": "9 octobre 2026",
+   "dateCourte": "9 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/m7cfqkb9s3vnb2mmqdhjg/les-lyriens.pdf?rlkey=q48d3cknx47ojaunrmvntvmsp&st=iql1xwgn&dl=0",
+   "drive": "1vUe6dXLA47ITvz2f0_wjkLXmpmTqdEQe",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_08.html",
+   "image": "couv/d015",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "014",
+   "billet": "015",
+   "slug": "document-d-etude-sur-les-cas-ovni-1944-1976",
+   "titre": "Document d’étude sur les cas OVNI (1944-1976)",
+   "accroche": "OVNI 1944-1976 – 32 ANS DE MYSTÈRES : LES AFFAIRES QUI ONT DÉFIÉ L’HISTOIRE",
+   "texte": [
+    {
+     "t": "DES RENCONTRES TROUBLANTES, DES OBSERVATIONS INEXPLIQUÉES, DES TÉMOINS MILITAIRES ET CIVILS… ENTRE 1944 ET 1976, LE PHÉNOMÈNE OVNI VA MARQUER L’HISTOIRE !",
+     "fort": true
+    },
+    {
+     "t": "De la mystérieuse vague d’observations des Foo Fighters pendant la Seconde Guerre mondiale à l’affaire de Téhéran, en passant par Roswell, Lakenheath, le cas de Valensole ou encore les observations de pilotes militaires, cette période regorge d’événements qui continuent de passionner les enquêteurs et les amateurs d’ufologie.",
+     "fort": false
+    },
+    {
+     "t": "Que se serait-il réellement passé lors de ces rencontres ? Quels témoignages ont été recueillis ? Quels éléments ont été étudiés par les autorités et les organismes spécialisés ?",
+     "fort": false
+    },
+    {
+     "t": "Radar, photographies, observations multiples, rencontres rapprochées et récits extraordinaires… Ce dossier revient sur plusieurs des affaires les plus marquantes de cette période.",
+     "fort": false
+    },
+    {
+     "t": "1944-1976 : QUELQUE CHOSE SEMBLAIT SE PRODUIRE DANS NOS CIEUX… MAIS QU’AVONS-NOUS RÉELLEMENT OBSERVÉ ?",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "ovni"
+   ],
+   "date": "2026-10-08",
+   "dateTexte": "8 octobre 2026",
+   "dateCourte": "8 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/3goi2nbwjrtq1gmjhpcv7/ufos-tudes-de-cas-partie-1.pdf?rlkey=4hifj0aimpo45rmsteaa3za1e&st=ud9b29sq&dl=0",
+   "drive": "1Zusr8KlMZQrCgw4SAWSgwVY9OJKUA6Rr",
+   "source": "https://fencersfiles.blogspot.com/2026/10/durant-le-vingtieme-siecle-de-nombreux.html",
+   "image": "couv/d014",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "013",
+   "billet": "014",
+   "slug": "les-gris",
+   "titre": "Les Gris",
+   "accroche": "LES GRIS : QUI SONT CES MYSTÉRIEUX VISITEURS ?",
+   "texte": [
+    {
+     "t": "GRANDS YEUX NOIRS, PEAU GRISE, VISAGE SANS EXPRESSION… DEPUIS DES DÉCENNIES, ILS SONT AU CŒUR DES RÉCITS DE RENCONTRES EXTRATERRESTRES LES PLUS TROUBLANTS !",
+     "fort": true
+    },
+    {
+     "t": "Les mystérieux Gris sont devenus les figures emblématiques de l’ufologie moderne. Décrits dans de nombreux témoignages comme des êtres humanoïdes aux proportions inhabituelles, ils alimentent les interrogations sur une éventuelle présence extraterrestre.",
+     "fort": false
+    },
+    {
+     "t": "Petits Gris, Grands Gris, entités associées à Zeta Reticuli… Les récits leur attribuent différentes origines, caractéristiques et intentions supposées.",
+     "fort": false
+    },
+    {
+     "t": "Mais qui seraient-ils réellement ? D’où viendraient-ils ? Pourquoi apparaissent-ils si souvent dans les récits de rencontres rapprochées et d’enlèvements allégués ?",
+     "fort": false
+    },
+    {
+     "t": "Entre témoignages, affaires célèbres, classifications ufologiques et hypothèses controversées, plongez dans l’univers fascinant de ces visiteurs énigmatiques.",
+     "fort": false
+    },
+    {
+     "t": "DERRIÈRE LEURS REGARDS NOIRS SE CACHE L’UNE DES PLUS GRANDES ÉNIGMES DE L’UFOLOGIE…",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "ovni",
+    "vie extraterrestre"
+   ],
+   "date": "2026-10-08",
+   "dateTexte": "8 octobre 2026",
+   "dateCourte": "8 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/qhhigl5o2z4e01cqa4usq/Les-Gris.pdf?rlkey=wsfgqx1wv8gqguetuz0jz21s4&st=wxuz5ttb&dl=0",
+   "drive": "19rFr816479u7zhHBUzYOZ5diHDa7ekNR",
+   "source": "https://fencersfiles.blogspot.com/2026/10/en-ufologie-lun-des-mysteres-les-plus.html",
+   "image": "couv/d013",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "012",
+   "billet": "013",
+   "slug": "le-crop-circle-de-chilbolton",
+   "titre": "Le crop circle de Chilbolton",
+   "accroche": "CHILBOLTON - LE MESSAGE DES ÉTOILES : UNE RÉPONSE EXTRATERRESTRE À L’HUMANITÉ ?",
+   "texte": [
+    {
+     "t": "UN MESSAGE CODÉ APPARAÎT DANS UN CHAMP ANGLAIS… QUELQUES JOURS APRÈS, UNE AUTRE FIGURE SEMBLE LUI RÉPONDRE. SIMPLE CANULAR OU ÉTRANGE ÉCHO À UN MESSAGE ENVOYÉ DANS L’ESPACE ?",
+     "fort": true
+    },
+    {
+     "t": "En août 2001, près de l’observatoire de Chilbolton, dans le Hampshire en Angleterre, deux formations spectaculaires apparaissent dans les champs.",
+     "fort": false
+    },
+    {
+     "t": "L’une ressemble à un visage humain pixelisé. L’autre présente une structure évoquant le célèbre message radio d’Arecibo, envoyé dans l’espace en 1974 pour communiquer avec une éventuelle intelligence extraterrestre.",
+     "fort": false
+    },
+    {
+     "t": "Mais le plus troublant réside dans les différences entre les deux représentations : certains y voient une réponse, sous forme de message codé, provenant d’une civilisation non humaine.",
+     "fort": false
+    },
+    {
+     "t": "Qui aurait réalisé ces mystérieuses figures ? Pourquoi cette référence au message d’Arecibo ? Et que signifient réellement les différences observées ?",
+     "fort": false
+    },
+    {
+     "t": "Entre science, cryptographie, phénomènes inexpliqués et hypothèse d’une communication extraterrestre, cette affaire reste l’une des plus fascinantes de l’histoire des crop circles.",
+     "fort": false
+    },
+    {
+     "t": "ET SI NOUS AVIONS REÇU UNE RÉPONSE… À UN MESSAGE ENVOYÉ DANS LE COSMOS ?",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "faits mystérieux"
+   ],
+   "date": "2026-10-07",
+   "dateTexte": "7 octobre 2026",
+   "dateCourte": "7 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/qzuwdfkbpj4vw5il8erq3/Le-crop-circle-de-chibolton-et-le-message-d-Arecibo.pdf?rlkey=se85q63j632n7m1q37hcxwgds&st=e1yc1ngi&dl=0",
+   "drive": "1frjUP-mi0x4IhmrPykAAVBO_2h66yzvJ",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_07.html",
+   "image": "couv/d012",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "011",
+   "billet": "012",
+   "slug": "le-cas-billy-meier",
+   "titre": "Le cas Billy Meier",
+   "accroche": "BILLY MEIER - LE CONTACT DES PLÉIADES : RÉVÉLATIONS, MYSTÈRES ET VÉRITÉS CACHÉES",
+   "texte": [
+    {
+     "t": "DES PHOTOGRAPHIES D’OVNI TROUBLANTES, DES FILMS INTRIGANTS ET DES CONTACTS PRÉTENDUS AVEC DES ÊTRES VENUS DES PLÉIADES… BILLY MEIER EST-IL AU CŒUR DE L’UNE DES PLUS GRANDES AFFAIRES DE L’UFOLOGIE ?",
+     "fort": true
+    },
+    {
+     "t": "Depuis les années 1970, Eduard « Billy » Meier, un Suisse, affirme être en contact avec des êtres extraterrestres originaires des Pléiades, notamment une mystérieuse entité nommée Semjase.",
+     "fort": false
+    },
+    {
+     "t": "Il présente des photographies, des films et des récits de rencontres qui vont rapidement attirer l’attention des passionnés d’ufologie du monde entier.",
+     "fort": false
+    },
+    {
+     "t": "Qui serait réellement Semjase ? Que racontent les prétendus contacts ? Comment expliquer les images de soucoupes volantes présentées par Meier ? Et que penser des nombreuses controverses et accusations de trucage entourant cette affaire ?",
+     "fort": false
+    },
+    {
+     "t": "Entre témoignages extraordinaires, documents controversés et enquêtes critiques, plongez dans un dossier incontournable de l’histoire des OVNI.",
+     "fort": false
+    },
+    {
+     "t": "BILLY MEIER A-T-IL RÉELLEMENT COMMUNIQUÉ AVEC UNE CIVILISATION DES PLÉIADES… OU SOMMES-NOUS FACE À L’UNE DES PLUS GRANDES ÉNIGMES DE L’UFOLOGIE ?",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "faits mystérieux",
+    "ovni",
+    "vie extraterrestre"
+   ],
+   "date": "2026-10-06",
+   "dateTexte": "6 octobre 2026",
+   "dateCourte": "6 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/yk2vbvgotda304om85slc/Le-cas-Billy-Meier.pdf?rlkey=garjg52q5cr6hwmcek45s2lax&st=2axjgf99&dl=0",
+   "drive": "1fGzFcQwO6xw9B_5wX0kzsZEEyAVQ_01X",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_06.html",
+   "image": "couv/d011",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "010",
+   "billet": "011",
+   "slug": "l-incident-de-zeta-reticuli",
+   "titre": "L’incident de Zeta Reticuli",
+   "accroche": "LE CAS BETTY ET BARNEY HILL",
+   "texte": [
+    {
+     "t": "ZETA RETICULI - L’ÉNIGME DES PETITS GRIS : LE CONTACT QUI A TROUBLÉ L’HUMANITÉ",
+     "fort": true
+    },
+    {
+     "t": "UNE NUIT DE SEPTEMBRE 1961, UN COUPLE DISPARAÎT PENDANT PLUSIEURS HEURES… À LEUR RETOUR, LEURS SOUVENIRS VONT DONNER NAISSANCE À L’UNE DES AFFAIRES D’ENLÈVEMENT EXTRATERRESTRE LES PLUS CÉLÈBRES DE L’HISTOIRE !",
+     "fort": true
+    },
+    {
+     "t": "Dans la nuit du 19 au 20 septembre 1961, Betty et Barney Hill circulent sur une route du New Hampshire, aux États-Unis, lorsqu’ils affirment observer un étrange objet lumineux dans le ciel.",
+     "fort": false
+    },
+    {
+     "t": "Ce qui devait être un simple trajet va devenir le point de départ d’un récit extraordinaire : un objet mystérieux, une période de temps inexpliquée et des souvenirs troublants qui émergeront au cours de séances d’hypnose.",
+     "fort": false
+    },
+    {
+     "t": "Betty et Barney racontent avoir été confrontés à des êtres inconnus à bord d’un mystérieux engin.",
+     "fort": false
+    },
+    {
+     "t": "Mais que se serait-il réellement passé cette nuit-là ? Pourquoi cette affaire a-t-elle marqué l’histoire de l’ufologie ? Que révèlent les témoignages, les séances d’hypnose et les investigations menées autour de ce dossier ?",
+     "fort": false
+    },
+    {
+     "t": "Entre observations inexpliquées, souvenirs controversés et hypothèse d’un enlèvement extraterrestre, plongez dans une affaire devenue légendaire.",
+     "fort": false
+    },
+    {
+     "t": "BETTY ET BARNEY HILL : PREMIERS TÉMOINS D’UN ENLÈVEMENT EXTRATERRESTRE… OU AU CŒUR D’UNE ÉNIGME QUI RESTE À DÉBATTRE ?",
+     "fort": true
+    }
+   ],
+   "rubriques": [
+    "ovni",
+    "vie extraterrestre"
+   ],
+   "date": "2026-10-05",
+   "dateTexte": "5 octobre 2026",
+   "dateCourte": "5 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/hdnhdqr2luoa3002862zo/L-incident-de-Zeta-Reticuli.pdf?rlkey=agwxiinpl30kfbso4dam1muof&st=88lydrid&dl=0",
+   "drive": "1e2QatWpnvcpPPJg6fEblhSJuMx6K9qp_",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_05.html",
+   "image": "couv/d010",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "009",
+   "billet": "010",
+   "slug": "les-ruines-sous-marines-de-yonaguni",
+   "titre": "Les ruines sous-marines de Yonaguni",
+   "accroche": "AU LARGE DU JAPON, SOUS LES EAUX TURQUOISES DE L’OCÉAN, SE CACHE UNE FORMATION ROCHEUSE QUI DÉFIE L’IMAGINATION !",
+   "texte": [
+    {
+     "t": "LES ÉTRANGES STRUCTURES SOUS-MARINES DE YONAGUNI : VESTIGES D’UNE CIVILISATION DISPARUE ?",
+     "fort": true
+    },
+    {
+     "t": "Découverte en 1986 près de l’île de Yonaguni, cette mystérieuse structure sous-marine présente d’impressionnantes terrasses, des angles droits, des escaliers et de vastes surfaces planes.",
+     "fort": false
+    },
+    {
+     "t": "S’agit-il d’une simple formation géologique façonnée par l’érosion et les mouvements tectoniques… ou des vestiges d’un monument construit par une civilisation aujourd’hui oubliée ?",
+     "fort": false
+    },
+    {
+     "t": "Certains chercheurs défendent l’hypothèse d’une ancienne construction humaine, tandis que d’autres privilégient une origine entièrement naturelle. Une controverse fascinante qui soulève de nombreuses questions sur l’histoire de notre planète.",
+     "fort": false
+    },
+    {
+     "t": "QUI A FAÇONNÉ CES ÉTRANGES FORMATIONS ? LA NATURE… OU UNE CIVILISATION DISPARUE DEPUIS DES MILLÉNAIRES ?",
+     "fort": true
+    },
+    {
+     "t": "Plongez dans l’énigme des profondeurs de Yonaguni et découvrez les différentes hypothèses dans ce nouveau dossier sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [],
+   "date": "2026-10-05",
+   "dateTexte": "5 octobre 2026",
+   "dateCourte": "5 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/1wgft797x6q8fyc42jcec/Les-ruines-sous-marines-de-yonaguni.pdf?rlkey=q8enjlb2sicia015om6hr1u9c&st=f90xblbp&dl=0",
+   "drive": "1z06DtU5bIgMPiUO-7eL4tZ9K2kYjcxRq",
+   "source": "https://fencersfiles.blogspot.com/2026/10/ce-dossier-archeologique-concernent.html",
+   "image": "couv/d009",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "008",
+   "billet": "009",
+   "slug": "les-alpha-draconiens",
+   "titre": "Les Alpha Draconiens",
+   "accroche": "RACES EXTRATERRESTRES : LES ALPHA DRACONIENS",
+   "texte": [
+    {
+     "t": "VENUS DES CONFINS DE LA CONSTELLATION DU DRAGON, CES MYSTÉRIEUX ÊTRES REPTILIENS OCCUPENT UNE PLACE À PART DANS LES RÉCITS DE L’UFOLOGIE ET DES THÉORIES EXTRATERRESTRES !",
+     "fort": true
+    },
+    {
+     "t": "Décrits dans certains récits comme une civilisation ancienne, puissante et technologiquement avancée, les Alpha Draconiens seraient originaires du système de Thuban, dans la constellation du Dragon.",
+     "fort": false
+    },
+    {
+     "t": "Souvent représentés sous une apparence reptilienne, ils sont associés, selon différentes théories, à des hiérarchies extraterrestres, à des civilisations anciennes et à de supposées influences sur l’histoire de l’humanité.",
+     "fort": false
+    },
+    {
+     "t": "Mais que sait-on réellement de ces mystérieux êtres ? D’où viennent ces récits ? Quelles sont leurs origines dans la littérature ufologique et ésotérique ?",
+     "fort": false
+    },
+    {
+     "t": "Entre témoignages controversés, mythologie moderne et hypothèses extraterrestres, partez à la découverte d’une des races les plus énigmatiques de l’imaginaire ufologique.",
+     "fort": false
+    },
+    {
+     "t": "LES ALPHA DRACONIENS SONT-ILS UNE SIMPLE LÉGENDE MODERNE… OU LE REFLET D’UN MYSTÈRE QUI NOUS DÉPASSE ?",
+     "fort": true
+    },
+    {
+     "t": "Découvrez ce dossier consacré aux Alpha Draconiens sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [],
+   "date": "2026-10-04",
+   "dateTexte": "4 octobre 2026",
+   "dateCourte": "4 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/2f8ljur38t0j055to724l/Les-alpha-draconiens.pdf?rlkey=2zytzqedlnap2jvjz6despoy1&st=goyajmbf&dl=0",
+   "drive": "13FpR3BN9tTUxjC5Pt7a_r_WoAQe9_o1d",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_04.html",
+   "image": "couv/d008",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "007",
+   "billet": "008",
+   "slug": "les-avions-archeologiques",
+   "titre": "Les avions archéologiques",
+   "accroche": "ET SI CERTAINS OBJETS RETROUVÉS DANS LES CIVILISATIONS ANCIENNES RESSEMBLAIENT ÉTRANGEMENT À NOS AVIONS MODERNES ?",
+   "texte": [
+    {
+     "t": "DES ARTEFACTS EN FORME D’AVIONS ? : LES MYSTÈRES DU PASSÉ",
+     "fort": true
+    },
+    {
+     "t": "À travers le monde, plusieurs artefacts archéologiques intriguent les passionnés d’histoire et d’énigmes. Petits objets en or, figurines aux formes aérodynamiques, représentations aux ailes déployées… Certains semblent évoquer des appareils volants contemporains.",
+     "fort": false
+    },
+    {
+     "t": "Parmi les plus célèbres figurent les mystérieux objets dits « avions précolombiens », découverts en Amérique du Sud. S’agit-il de simples représentations stylisées d’animaux, de symboles religieux ou de véritables objets inspirés d’une technologie inconnue ?",
+     "fort": false
+    },
+    {
+     "t": "Ces ressemblances troublantes ont alimenté de nombreuses théories : connaissances aéronautiques oubliées, civilisations disparues ou visiteurs venus d’ailleurs…",
+     "fort": false
+    },
+    {
+     "t": "Mais que révèlent réellement ces artefacts ? Que nous apprend l’archéologie et où commence la spéculation ?",
+     "fort": false
+    },
+    {
+     "t": "NOS ANCÊTRES ONT-ILS SIMPLEMENT REPRÉSENTÉ LEUR MONDE… OU AVAIENT-ILS UNE CONNAISSANCE DU VOL QUE NOUS NE SOUPÇONNONS PAS ?",
+     "fort": true
+    },
+    {
+     "t": "Découvrez ce dossier fascinant sur les énigmatiques artefacts en forme d’avions sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [],
+   "date": "2026-10-03",
+   "dateTexte": "3 octobre 2026",
+   "dateCourte": "3 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/4ia9nfvlusrroust9mc38/les-avions-arch-ologiques.pdf?rlkey=7d681mmtga02ggt13hwb7z0q1&st=nliwjoho&dl=0",
+   "drive": "1x47_E8zX02OgXReWGCOeN7nzt6z4iuGp",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_642.html",
+   "image": "couv/d007",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "006",
+   "billet": "007",
+   "slug": "les-hommes-en-noir",
+   "titre": "Les hommes en noir",
+   "accroche": "ILS APPARAÎTRAIENT APRÈS CERTAINES OBSERVATIONS D’OVNIS… SILENCIEUX, IMPASSIBLES, VÊTUS DE NOIR. QUI SONT VRAIMENT CES MYSTÉRIEUX PERSONNAGES ?",
+   "texte": [
+    {
+     "t": "LES HOMMES EN NOIR : LES ÉTRANGES VISITEURS DE L’OMBRE",
+     "fort": true
+    },
+    {
+     "t": "Depuis des décennies, des témoins affirment avoir reçu la visite d’individus étranges, souvent vêtus de costumes sombres, au comportement inquiétant et parfois presque irréel.",
+     "fort": false
+    },
+    {
+     "t": "Leur objectif présumé ? Interroger, intimider ou dissuader ceux qui prétendent avoir observé un phénomène aérien inexpliqué.",
+     "fort": false
+    },
+    {
+     "t": "Certains récits évoquent des véhicules inhabituels, des attitudes mécaniques, des voix étranges ou une connaissance troublante de détails personnels.",
+     "fort": false
+    },
+    {
+     "t": "Mais qui se cache derrière ces mystérieux Hommes en Noir ? Agents gouvernementaux chargés de faire taire les témoins ? Personnages issus du folklore ufologique ? Ou simples légendes nourries par le secret entourant certains dossiers d’OVNIS ?",
+     "fort": false
+    },
+    {
+     "t": "ILS CONNAÎTRAIENT LA VÉRITÉ… MAIS QUI LES A ENVOYÉS, ET POURQUOI VEULENT-ILS GARDER LE SILENCE ?",
+     "fort": true
+    },
+    {
+     "t": "Plongez dans l’univers énigmatique des Hommes en Noir et découvrez les témoignages, les affaires célèbres et les différentes théories dans ce nouveau dossier sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [],
+   "date": "2026-10-03",
+   "dateTexte": "3 octobre 2026",
+   "dateCourte": "3 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/u6wp9holqz3x1g305r4x7/Les-hommes-en-noir.pdf?rlkey=5yxd9jzr2e4601o87xvusx2ov&st=ywcqvp5d&dl=0",
+   "drive": "1Ad0MSTjIoHyWXiK6Bzh6UYzMjTwlv6Rh",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_563.html",
+   "image": "couv/d006",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "005",
+   "billet": "006",
+   "slug": "le-projet-silverbug",
+   "titre": "Le projet Silverbug",
+   "accroche": "ET SI L’ARMÉE AMÉRICAINE AVAIT UN JOUR ENVISAGÉ DE CONSTRUIRE SA PROPRE SOUCOUPE VOLANTE ?",
+   "texte": [
+    {
+     "t": "LE PROJET SILVERBUG : UNE SOUCOUPE VOLANTE TERRESTRE ?",
+     "fort": true
+    },
+    {
+     "t": "Derrière le nom mystérieux de Silver Bug se cache un projet fascinant de l’histoire de l’aéronautique militaire : l’étude d’un appareil en forme de disque, imaginé pour décoller et atterrir verticalement.",
+     "fort": false
+    },
+    {
+     "t": "Dans les années 1950, en pleine guerre froide, les ingénieurs et les militaires explorent des concepts aéronautiques audacieux. Parmi eux, des appareils circulaires capables de performances qui semblent tout droit sorties de la science-fiction.",
+     "fort": false
+    },
+    {
+     "t": "Pourquoi cette forme de soucoupe ? Quelles étaient les ambitions de ce programme ? Jusqu’où les ingénieurs sont-ils allés dans leurs recherches ?",
+     "fort": false
+    },
+    {
+     "t": "Entre technologie expérimentale, ambitions militaires et fascination pour les OVNIS, le projet Silver Bug nous plonge dans une époque où la frontière entre science et science-fiction semblait parfois bien mince.",
+     "fort": false
+    },
+    {
+     "t": "UNE SOUCOUPE VOLANTE CONÇUE PAR L’HOMME… ET SI L’UN DES PLUS GRANDS MYSTÈRES DE L’UFOLOGIE AVAIT AUSSI UNE EXPLICATION TERRESTRE ?",
+     "fort": true
+    },
+    {
+     "t": "Découvrez l’histoire de ce projet aéronautique insolite dans ce nouveau dossier sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [],
+   "date": "2026-10-03",
+   "dateTexte": "3 octobre 2026",
+   "dateCourte": "3 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/mwvf41c2xzxo4c3f25fa0/Le-projet-silverbug.pdf?rlkey=c05ip997v9emknlgobbh17n53&st=qon03uxm&dl=0",
+   "drive": "1SXDKL5EMrsUCY1Dq_s8ySDFeRkuYn_oP",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_742.html",
+   "image": "couv/d005",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "004",
+   "billet": "005",
+   "slug": "le-sphinx",
+   "titre": "Le Sphinx",
+   "accroche": "ET SI LE GRAND SPHINX DE GIZEH ÉTAIT BIEN PLUS ANCIEN QU’ON NE LE PENSE… ET S’IL ÉTAIT LIÉ AUX MYSTÉRIEUX ANNUNAKI ?",
+   "texte": [
+    {
+     "t": "LE SPHINX EST-IL D’ORIGINE ANNUNAKI ? : LE SECRET OUBLIÉ DU PLATEAU DE GIZEH",
+     "fort": true
+    },
+    {
+     "t": "Depuis des millénaires, le Grand Sphinx veille sur le plateau de Gizeh. Monument colossal, énigmatique et chargé de symboles, il continue de susciter de nombreuses interrogations.",
+     "fort": false
+    },
+    {
+     "t": "Son origine, sa véritable fonction et la signification de son architecture alimentent encore les débats. Certaines théories alternatives vont plus loin et évoquent une possible intervention des Annunaki, ces divinités de la mythologie mésopotamienne parfois présentées, dans les récits pseudo-historiques, comme des visiteurs extraterrestres.",
+     "fort": false
+    },
+    {
+     "t": "Existe-t-il un lien entre les traditions anciennes, les mystères de l’Égypte et ces hypothèses venues de l’ufologie ? Le Sphinx pourrait-il cacher une histoire bien différente de celle racontée par l’archéologie officielle ?",
+     "fort": false
+    },
+    {
+     "t": "Entre découvertes historiques, légendes antiques et théories controversées, partez à la découverte d’une énigme qui fascine le monde entier.",
+     "fort": false
+    },
+    {
+     "t": "QUI A RÉELLEMENT ÉRIGÉ LE SPHINX… ET QUELS SECRETS MILLÉNAIRES SE CACHENT DERRIÈRE SON REGARD ?",
+     "fort": true
+    },
+    {
+     "t": "Découvrez ce dossier consacré à l’une des hypothèses les plus fascinantes autour du Sphinx de Gizeh sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [],
+   "date": "2026-10-03",
+   "dateTexte": "3 octobre 2026",
+   "dateCourte": "3 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/d69fgspg7ktbba99k6owd/Le-Sphinx.pdf?rlkey=2te7qp55e7ohadotd71r682yy&st=q9svor30&dl=0",
+   "drive": "1-1Ij4e279XiL-_24HNZ4PEpBs7Cn-8pm",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post_03.html",
+   "image": "couv/d004",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "003",
+   "billet": "004",
+   "slug": "les-antariens",
+   "titre": "Les Antariens",
+   "accroche": "VENUS DES PROFONDEURS DU COSMOS, LES ANTARIENS SERAIENT-ILS LES REPRÉSENTANTS D’UNE CIVILISATION EXTRATERRESTRE DONT NOUS IGNORONS PRESQUE TOUT ?",
+   "texte": [
+    {
+     "t": "RACE EXTRATERRESTRE : LES ANTARIENS - LES MYSTÉRIEUX VISITEURS D’ANTARÈS",
+     "fort": true
+    },
+    {
+     "t": "Dans certains récits ufologiques et ésotériques, les Antariens sont présentés comme une race extraterrestre associée à l’étoile Antarès, située dans la constellation du Scorpion.",
+     "fort": false
+    },
+    {
+     "t": "Leur apparence, leurs origines supposées, leurs capacités technologiques et leurs intentions envers l’humanité alimentent des descriptions aussi mystérieuses que controversées.",
+     "fort": false
+    },
+    {
+     "t": "S’agit-il d’une civilisation avancée observant notre planète ? D’une présence évoquée dans certains témoignages et récits extraterrestres ? Ou d’une construction issue de l’imaginaire ufologique moderne ?",
+     "fort": false
+    },
+    {
+     "t": "Qui seraient réellement les Antariens ? D’où viendraient-ils et quelle place occuperaient-ils dans les classifications des races extraterrestres ?",
+     "fort": false
+    },
+    {
+     "t": "Entre témoignages controversés, récits ésotériques et hypothèses extraterrestres, partez à la découverte de cette mystérieuse civilisation supposée.",
+     "fort": false
+    },
+    {
+     "t": "ANTARÈS ABRITERAIT-ELLE UNE CIVILISATION INCONNUE… ET LES ANTARIENS AURAIENT-ILS UN LIEN AVEC NOTRE HUMANITÉ ?",
+     "fort": true
+    },
+    {
+     "t": "Découvrez ce nouveau dossier consacré aux Antariens sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [],
+   "date": "2026-10-03",
+   "dateTexte": "3 octobre 2026",
+   "dateCourte": "3 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/uk7y5stiynfg355xtlx1m/les-antariens.pdf?rlkey=8ulw53wyvvh5p64qhnde643tp&st=q23w2bkl&dl=0",
+   "drive": "11hpDsosPU1U2_uj-g51Ilb7m6_ivwJbl",
+   "source": "https://fencersfiles.blogspot.com/2026/10/blog-post.html",
+   "image": "couv/d003",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "002",
+   "billet": "003",
+   "slug": "le-triangle-des-bermudes",
+   "titre": "Le triangle des Bermudes",
+   "accroche": "SOUS LES EAUX DU TRIANGLE DES BERMUDES SE CACHERAIT-IL LE DERNIER VESTIGE D’UNE CIVILISATION DISPARUE ? ET SI L’ATLANTIDE N’ÉTAIT PAS LÀ OÙ NOUS L’AVONS TOUJOURS CHERCHÉE ?",
+   "texte": [
+    {
+     "t": "LIEN ENTRE LE TRIANGLE DES BERMUDES ET L’ATLANTIDE ? : LE MYSTÈRE DES CITÉS ENGLOUTIES",
+     "fort": true
+    },
+    {
+     "t": "Depuis des décennies, le Triangle des Bermudes fascine par ses disparitions inexpliquées, ses récits mystérieux et les nombreuses théories qui entourent cette région de l’Atlantique.",
+     "fort": false
+    },
+    {
+     "t": "De son côté, l’Atlantide, cette légendaire civilisation décrite par Platon, continue d’alimenter les hypothèses les plus audacieuses.",
+     "fort": false
+    },
+    {
+     "t": "Certains chercheurs alternatifs et passionnés de mystères ont imaginé un lien entre ces deux énigmes : structures sous-marines, vestiges engloutis, technologies oubliées et traces supposées d’une civilisation très ancienne.",
+     "fort": false
+    },
+    {
+     "t": "La découverte de formations rocheuses sous-marines, notamment près de Bimini, a renforcé les spéculations. Mais s’agit-il de constructions humaines, de phénomènes géologiques naturels ou de simples coïncidences ?",
+     "fort": false
+    },
+    {
+     "t": "L’ATLANTIDE A-T-ELLE SOMBRÉ DANS CETTE RÉGION DE L’ATLANTIQUE ? LE TRIANGLE DES BERMUDES POURRAIT-IL CONSERVER LES TRACES D’UN PASSÉ OUBLIÉ ?",
+     "fort": true
+    },
+    {
+     "t": "Entre légendes antiques, explorations sous-marines et théories controversées, plongez dans cette enquête fascinante sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [],
+   "date": "2026-10-03",
+   "dateTexte": "3 octobre 2026",
+   "dateCourte": "3 oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/cp3kdb8t448y5nwd0wsb6/Le-triangle-des-Bermudes.pdf?rlkey=3ny5dzbarbf5ip1kvt951nfh9&st=0ohokp12&dl=0",
+   "drive": "1FuxVJE_LufDdKdIgypzzMDx35a9OktGy",
+   "source": "https://fencersfiles.blogspot.com/2026/10/depuis-des-siecles-une-zone-dans-le_02015223604.html",
+   "image": "couv/d002",
+   "discret": false,
+   "serie": null
+  },
+  {
+   "numero": "001",
+   "billet": "002",
+   "slug": "la-genealogie-des-annunaki",
+   "titre": "La généalogie des Annunaki",
+   "accroche": "QUI SONT VÉRITABLEMENT LES ANNUNAKI ? ET SI LES ANCIENS TEXTES MÉSOPOTAMIENS RENFERMAIENT LE RÉCIT D’UNE LIGNÉE BIEN PLUS ÉNIGMATIQUE QU’ON NE L’IMAGINE ?",
+   "texte": [
+    {
+     "t": "LA GÉNÉALOGIE DES ANNUNAKI : LES DIVINITÉS AUX ORIGINES MYSTÉRIEUSES",
+     "fort": true
+    },
+    {
+     "t": "Dans les mythes de l’ancienne Mésopotamie, les Annunaki occupent une place importante parmi les divinités du panthéon sumérien, akkadien et babylonien.",
+     "fort": false
+    },
+    {
+     "t": "Leur généalogie fait apparaître des figures puissantes telles qu’Anu, le dieu du ciel, Enlil, Enki et d’autres divinités liées aux origines du monde, à la création et au destin des hommes.",
+     "fort": false
+    },
+    {
+     "t": "Mais au fil du temps, ces récits antiques ont inspiré de nombreuses interprétations alternatives. Certains auteurs modernes présentent les Annunaki comme une civilisation extraterrestre venue d’une autre planète, dotée d’une hiérarchie et d’une lignée complexe.",
+     "fort": false
+    },
+    {
+     "t": "Qui sont leurs ancêtres ? Quels liens unissent ces mystérieuses divinités ? Comment s’organise leur arbre généalogique dans les traditions anciennes et dans les théories contemporaines ?",
+     "fort": false
+    },
+    {
+     "t": "DERRIÈRE LES NOMS DES DIEUX DE MÉSOPOTAMIE SE CACHE-T-IL UNE SIMPLE MYTHOLOGIE… OU LE SOUVENIR D’UNE ORIGINE EXTRATERRESTRE ?",
+     "fort": true
+    },
+    {
+     "t": "Découvrez la généalogie des Annunaki, leurs filiations mythologiques et les interprétations ufologiques qui entourent leur mystérieuse histoire dans ce nouveau dossier sur FENCER’S FILES.",
+     "fort": false
+    }
+   ],
+   "rubriques": [],
+   "date": "2026-10-01",
+   "dateTexte": "1er octobre 2026",
+   "dateCourte": "1er oct.",
+   "pdf": "https://www.dropbox.com/scl/fi/lq2rcnbmq0iwhs9uefyyk/La-g-n-alogie-des-Annunaki.pdf?rlkey=9g2hgcn7nk05el4fn127klyp5&st=z2sn458a&dl=0",
+   "drive": "11aNDjvC3J0BDuv3g6X9w6xjwAhn5l7Us",
+   "source": "https://fencersfiles.blogspot.com/2026/10/les-annunaki-sont-devenus-celebres.html",
+   "image": "couv/d001",
+   "discret": false,
+   "serie": null
+  }
+ ]
+}

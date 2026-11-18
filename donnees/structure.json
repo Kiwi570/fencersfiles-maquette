@@ -1,0 +1,10 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "name": "Fencer’s Files",
+  "alternateName": "Fencer’s Files - Aux frontières de l’inexpliqué",
+  "url": "https://fencersfiles-maquette.vercel.app/",
+  "inLanguage": "fr",
+  "description": "Blog consacré aux mystères de notre planète, aux énigmes de l’histoire et aux phénomènes inexpliqués.",
+  "email": "fencerya@gmail.com"
+}

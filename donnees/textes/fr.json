@@ -1,0 +1,180 @@
+{
+  "commun": {
+    "navigation": "Navigation principale",
+    "menu": "Menu",
+    "fermer": "Fermer",
+    "actionEntete": "Écrire à l’auteur",
+    "ecrire": "Écrire",
+    "rechercher": "Rechercher un dossier",
+    "sommaire": "Sommaire",
+    "rubriques": "Rubriques",
+    "retourHaut": "Retour en haut",
+    "maquette": "Maquette de démonstration : le formulaire est simulé, rien n’est envoyé.",
+    "legal": "Mentions légales",
+    "evitement": "Aller au contenu",
+    "mentionIa": "Illustration générée",
+    "introLigne": "Aux frontières de l’inexpliqué",
+    "devise": "Archives · Enquêtes · Ufologie",
+    "dossierNumero": "Dossier n°",
+    "numero": "N°",
+    "ouvrir": "Ouvrir le dossier",
+    "tous": "Tous les dossiers",
+    "couverture": "Couverture du dossier",
+    "sansRubrique": "sans rubrique",
+    "piedTexte": "Un blog consacré aux mystères de notre planète, aux énigmes de l’histoire et aux phénomènes inexpliqués.",
+    "legalLigne": "Mentions légales : à compléter",
+    "confidentialiteLigne": "Politique de confidentialité : à compléter"
+  },
+  "pages": {
+    "accueil": {
+      "titre": "Fencer’s Files : aux frontières de l’inexpliqué",
+      "description": "76 dossiers sur les ovnis, les civilisations disparues et les grandes énigmes de l’histoire, à ouvrir et à lire en PDF.",
+      "nav": "Accueil",
+      "partageAlt": "Fencer’s Files, aux frontières de l’inexpliqué : des dossiers sous une lampe de bureau",
+      "accroche": "Aux frontières de l’inexpliqué"
+    },
+    "dossiers": {
+      "titre": "Les dossiers : Fencer’s Files",
+      "description": "Tous les dossiers de Fencer’s Files, classés par rubrique : vie extraterrestre, anciennes civilisations, histoire secrète, ovni, bases secrètes.",
+      "nav": "Les dossiers",
+      "partageAlt": "Les dossiers de Fencer’s Files : des liasses ficelées sur un bureau",
+      "accroche": "76 dossiers, 12 rubriques"
+    },
+    "auteur": {
+      "titre": "L’auteur et contact : Fencer’s Files",
+      "description": "Plus de 40 ans d’intérêt pour l’ufologie : qui écrit Fencer’s Files, et comment lui écrire.",
+      "nav": "L’auteur",
+      "partageAlt": "L’auteur de Fencer’s Files : un ciel étoilé",
+      "accroche": "Plus de 40 ans d’ufologie"
+    },
+    "404": {
+      "titre": "Dossier introuvable : Fencer’s Files",
+      "description": "Cette page n’existe pas ou plus.",
+      "nav": "Dossier introuvable",
+      "partageAlt": "Dossier introuvable",
+      "accroche": "Dossier introuvable"
+    }
+  },
+  "accueil": {
+    "une": {
+      "surtitre": "Dernier dossier",
+      "info": "{total} dossiers · {rubriques} rubriques",
+      "alt": "Bureau de bois sombre, chemises cartonnées sous une lampe"
+    },
+    "manifeste": {
+      "surtitre": "Fencer’s Files",
+      "titre": "Le mystère commence là où les certitudes s’arrêtent…",
+      "t1": "OVNIS et extraterrestres",
+      "p1": "Observations troublantes, rencontres alléguées et civilisations venues d’ailleurs.",
+      "t2": "Civilisations disparues",
+      "p2": "Cités oubliées, vestiges mystérieux et connaissances anciennes.",
+      "t3": "Phénomènes paranormaux",
+      "p3": "Témoignages insolites, dossiers inexpliqués et phénomènes étranges.",
+      "t4": "Mystères et théories alternatives",
+      "p4": "Sociétés secrètes, énigmes archéologiques, technologies controversées et secrets du passé.",
+      "logoAlt": "Médaillon Fencer’s Files : une soucoupe au-dessus de dossiers classés",
+      "texte": "Chaque dossier vous invite à <span class=\"caviar\">explorer des pistes</span>, découvrir <span class=\"caviar\">des témoignages</span> et examiner <span class=\"caviar\">différentes hypothèses</span>, en distinguant <span class=\"caviar\">les faits documentés</span> des interprétations et des spéculations."
+    },
+    "derniers": {
+      "titre": "Les derniers dossiers",
+      "tous": "Voir les {total} dossiers"
+    },
+    "rubriques": {
+      "titre": "Douze rubriques",
+      "texte": "Chaque dossier est classé par l’auteur. Choisissez une rubrique pour ouvrir ses dossiers.",
+      "dossier": "dossier",
+      "dossiers": "dossiers"
+    },
+    "serie": {
+      "surtitre": "Une série",
+      "titre": "Alien Transcripts",
+      "texte": "Cinq dossiers, à lire dans l’ordre.",
+      "region": "Les cinq dossiers de la série Alien Transcripts",
+      "alt": "Magnétophone à bandes sous une lampe, feuilles vierges à côté",
+      "partie": "Partie"
+    },
+    "civilisations": {
+      "mot1": "Anciennes",
+      "mot2": "civilisations",
+      "titre": "Anciennes civilisations",
+      "legende": "{nombre} dossiers : Baalbeck, Yonaguni, les pierres d’Ica, Mohenjo-Daro…",
+      "action": "Ouvrir la rubrique",
+      "alt": "Dolmen sur une colline au crépuscule"
+    },
+    "auteur": {
+      "unite": "ans",
+      "titre": "d’ufologie",
+      "texte": "Fencer’s Files est tenu par un passionné, qui s’intéresse à l’ufologie depuis plus de 40 ans et a lui-même fait des observations restées inexpliquées.",
+      "action": "Qui écrit ces dossiers ?",
+      "alt": "Ciel étoilé et Voie lactée au-dessus de collines"
+    },
+    "appel": {
+      "cachet": "À vous de mener l’enquête",
+      "titre": "Une observation, une question, un dossier à suggérer ?",
+      "texte": "L’auteur invite ses lecteurs à lui écrire."
+    }
+  },
+  "dossiers": {
+    "titre": "dossiers à ouvrir",
+    "texte": "Tous les dossiers de Fencer’s Files, du plus récent au plus ancien. Chacun mène à son dossier complet en PDF.",
+    "info": "Dernier dossier : {date}",
+    "alt": "Liasses de dossiers ficelées sur un bureau, sous une lampe",
+    "filtres": "Filtrer par rubrique",
+    "tout": "Tous",
+    "sans": "Sans rubrique",
+    "recherche": "Chercher dans les dossiers",
+    "exemple": "Exemple : Baalbeck, reptiliens, Dulce",
+    "compte": "{n} dossiers",
+    "aucun": "Aucun dossier ne correspond. Essayez un autre mot ou une autre rubrique.",
+    "finTitre": "Vous ne trouvez pas un sujet ?",
+    "finTexte": "Suggérez-le à l’auteur."
+  },
+  "fiche": {
+    "fil": "Les dossiers",
+    "publie": "Publié le {date}",
+    "pdf": "Ouvrir le dossier complet (PDF)",
+    "pdfNote": "Le PDF s’ouvre dans un nouvel onglet.",
+    "resume": "Présentation",
+    "encart": "Le dossier complet",
+    "encartTexte": "Ce texte présente le dossier. L’enquête complète est dans le PDF.",
+    "memeRubrique": "Dans la même rubrique",
+    "autres": "D’autres dossiers",
+    "precedent": "Dossier précédent",
+    "suivant": "Dossier suivant",
+    "description": "{accroche} Dossier n° {numero} de Fencer’s Files, publié le {date}."
+  },
+  "auteur": {
+    "surtitre": "L’auteur",
+    "titre1": "Plus de 40 ans",
+    "titre2": "d’ufologie",
+    "texte": "Fencer’s Files est le blog d’un passionné. Son intérêt pour l’ufologie date de plus de 40 ans.",
+    "action": "Lui écrire",
+    "alt": "Ciel étoilé et Voie lactée au-dessus de collines sombres",
+    "bioTitre": "Un passionné, des dossiers",
+    "bio1": "L’auteur s’intéresse à l’ufologie depuis plus de 40 ans, et il a lui-même fait des observations restées inexpliquées.",
+    "bio2": "Depuis le 1er octobre 2026, il publie ses dossiers sur Fencer’s Files : ovnis et extraterrestres, civilisations disparues, phénomènes paranormaux, mystères et théories alternatives.",
+    "bio3": "Chaque dossier invite à explorer des pistes, découvrir des témoignages et examiner différentes hypothèses, en distinguant les faits documentés des interprétations et des spéculations.",
+    "c1": "ans d’ufologie, et plus",
+    "c2": "dossiers publiés",
+    "c3": "rubriques",
+    "logoAlt": "Médaillon Fencer’s Files",
+    "ecrireTitre": "Écrire à l’auteur",
+    "ecrireTexte": "Une observation à raconter, une question sur un dossier, un sujet à suggérer : l’auteur invite ses lecteurs à lui écrire.",
+    "emailLibelle": "Par e-mail",
+    "nom": "Nom",
+    "email": "E-mail",
+    "sujet": "Objet",
+    "sujetTemoignage": "Raconter une observation",
+    "sujetQuestion": "Poser une question sur un dossier",
+    "sujetSuggestion": "Suggérer un dossier",
+    "message": "Message",
+    "donnees": "Vos nom, e-mail et message servent uniquement à vous répondre. La politique de confidentialité est indiquée en pied de page.",
+    "envoyer": "Envoyer le message"
+  },
+  "introuvable": {
+    "titre": "Dossier introuvable",
+    "texte": "Cette page n’existe pas, ou ce dossier a été déplacé.",
+    "retour": "Voir tous les dossiers",
+    "alt": "Tiroir de classeur où il manque une chemise"
+  }
+}

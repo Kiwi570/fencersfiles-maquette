@@ -1,0 +1,118 @@
+{
+  "avertissements": [
+    "logo pris dans assets/images (logo-480.webp) : aucun logo dans donnees/images.json, vérifier que ce n'est pas celui du socle"
+  ],
+  "cartes": [
+    {
+      "page": "accueil",
+      "langue": "fr",
+      "fichier": "assets/partage/accueil-fr.jpg",
+      "gabarit": "droite",
+      "image": "grok/accueil-ouverture-1280.webp",
+      "poids": 61202,
+      "sujet": {
+        "x": 602,
+        "y": 105,
+        "l": 595,
+        "h": 455
+      },
+      "textes": [
+        {
+          "x": 64,
+          "y": 56,
+          "l": 280,
+          "h": 64
+        },
+        {
+          "x": 64,
+          "y": 267,
+          "l": 480,
+          "h": 129
+        },
+        {
+          "x": 64,
+          "y": 543,
+          "l": 480,
+          "h": 35
+        }
+      ],
+      "recouvrement": 0
+    },
+    {
+      "page": "auteur",
+      "langue": "fr",
+      "fichier": "assets/partage/auteur-fr.jpg",
+      "gabarit": "droite",
+      "image": "grok/auteur-ouverture-1280.webp",
+      "poids": 51396,
+      "sujet": {
+        "x": 711,
+        "y": 0,
+        "l": 420,
+        "h": 595
+      },
+      "textes": [
+        {
+          "x": 64,
+          "y": 56,
+          "l": 280,
+          "h": 64
+        },
+        {
+          "x": 64,
+          "y": 267,
+          "l": 480,
+          "h": 129
+        },
+        {
+          "x": 64,
+          "y": 543,
+          "l": 480,
+          "h": 35
+        },
+        {
+          "x": 600,
+          "y": 0,
+          "l": 90,
+          "h": 630
+        }
+      ],
+      "recouvrement": 0
+    },
+    {
+      "page": "dossiers",
+      "langue": "fr",
+      "fichier": "assets/partage/dossiers-fr.jpg",
+      "gabarit": "droite",
+      "image": "grok/dossiers-ouverture-1280.webp",
+      "poids": 52243,
+      "sujet": {
+        "x": 600,
+        "y": 35,
+        "l": 600,
+        "h": 490
+      },
+      "textes": [
+        {
+          "x": 64,
+          "y": 56,
+          "l": 280,
+          "h": 64
+        },
+        {
+          "x": 64,
+          "y": 267,
+          "l": 480,
+          "h": 129
+        },
+        {
+          "x": 64,
+          "y": 543,
+          "l": 480,
+          "h": 35
+        }
+      ],
+      "recouvrement": 0
+    }
+  ]
+}
